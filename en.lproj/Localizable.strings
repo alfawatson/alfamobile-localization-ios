@@ -1,0 +1,13 @@
+"auth.sms.resend" = "Resend";
+"auth.sms.resend_counter_message" = "You can resend SMS code in %li seconds";
+"auth.registration.title" = "Enter your mobile phone";
+"auth.registration.callCenter" = "Call center";
+"auth.smsValidation.title" = "SMS confirmation";
+"auth.smsValidation.enterSmsCode" = "Enter code from SMS";
+"auth.smsValidation.invalidCode" = "Invalid code";
+"auth.smsValidation.smsSent" = "SMS sent to number %li";
+"auth.creditCardInput.title" = "Enter card number";
+"auth.creditCardInput.invalidCardNumber" = "Invalid card number";
+"auth.creditCardInput.forgotCardNumber" = "I don't know the card number";
+"auth.registration.agreementPrefix" = "Я ознакомлен и присоединяюсь к ";
+"auth.registration.agreementText" = "соглашению о присоединении к электронным банковским услугам физических лиц АО ДБ «АЛЬФА-БАНК»";
