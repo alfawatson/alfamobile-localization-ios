@@ -9,8 +9,8 @@
 "auth.creditCardInput.title" = "Enter card number";
 "auth.creditCardInput.invalidCardNumber" = "Invalid card number";
 "auth.creditCardInput.forgotCardNumber" = "I don't know the card number";
-"auth.registration.agreementPrefix" = "Я ознакомлен и присоединяюсь к ";
-"auth.registration.agreementText" = "соглашению о присоединении к электронным банковским услугам физических лиц АО ДБ «АЛЬФА-БАНК»";
-"transfers.international.onboardingTitle" = "Международные переводы";
-"transfers.international.onboardingDescription" = "Совершай переводы с любой казазхстанской карты на карт любого банка мира. Комиссия за перевод от 0,7%";
-"transfers.international.onboardingButtonTitle" = "Совершить перевод";
+"auth.registration.agreementPrefix" = "I have read and accept ";
+"auth.registration.agreementText" = "the agreement on enrolling the electronic banking services of JSC SB \"ALFA-BANK\"";
+"transfers.international.onboardingTitle" = "International Transfers";
+"transfers.international.onboardingDescription" = "Make transfers from any Kazakhstan card to any card worldwide. Transfer commission starting from 0.7%";
+"transfers.international.onboardingButtonTitle" = "Make a transfer";
