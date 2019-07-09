@@ -12,5 +12,5 @@
 "auth.registration.agreementPrefix" = "Я ознакомлен и присоединяюсь к ";
 "auth.registration.agreementText" = "соглашению о присоединении к электронным банковским услугам физических лиц АО ДБ «АЛЬФА-БАНК»";
 "transfers.international.onboardingTitle" = "Международные переводы";
-"transfers.international.onboardingDescription" = "Совершай переводы с любой казазхстанской карты на карт любого банка мира. Комиссия за перевод от 0,7%";
+"transfers.international.onboardingDescription" = "Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%";
 "transfers.international.onboardingButtonTitle" = "Совершить перевод";
