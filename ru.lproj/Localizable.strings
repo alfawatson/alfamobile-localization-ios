@@ -5,7 +5,7 @@
 "auth.smsValidation.title" = "SMS подтверждение";
 "auth.smsValidation.enterSmsCode" = "Введите код из SMS";
 "auth.smsValidation.invalidCode" = "Неверный код";
-"auth.smsValidation.smsSent" = "SMS отправлен на номер %li";
+"auth.smsValidation.smsSent" = "SMS отправлен на номер %@";
 "auth.creditCardInput.title" = "Введите номер карты";
 "auth.creditCardInput.invalidCardNumber" = "Неверный номер карты";
 "auth.creditCardInput.forgotCardNumber" = "Я не знаю номер карты";

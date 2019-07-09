@@ -5,7 +5,7 @@
 "auth.smsValidation.title" = "SMS confirmation";
 "auth.smsValidation.enterSmsCode" = "Enter code from SMS";
 "auth.smsValidation.invalidCode" = "Invalid code";
-"auth.smsValidation.smsSent" = "SMS sent to number %li";
+"auth.smsValidation.smsSent" = "SMS sent to number %@";
 "auth.creditCardInput.title" = "Enter card number";
 "auth.creditCardInput.invalidCardNumber" = "Invalid card number";
 "auth.creditCardInput.forgotCardNumber" = "I don't know the card number";
