@@ -9,8 +9,11 @@
 "auth.creditCardInput.title" = "Карта нөмірін енгізіңіз";
 "auth.creditCardInput.invalidCardNumber" = "Жарамсыз карта нөмірі";
 "auth.creditCardInput.forgotCardNumber" = "Картаның нөмірін білмеймін";
-"auth.registration.agreementPrefix" = "Я ознакомлен и присоединяюсь к ";
-"auth.registration.agreementText" = "соглашению о присоединении к электронным банковским услугам физических лиц АО ДБ «АЛЬФА-БАНК»";
+"auth.registration.agreementPrefix" = "оқыдым жане келистим";
+"auth.registration.agreementText" = "АҚ ЕБ \"АЛЬФА-БАНК\" жеке тұлғаларға арналған электрондық банк қызметтер қосу келісімдi";
 "transfers.international.onboardingTitle" = "Халықаралық аударымдар";
-"transfers.international.onboardingDescription" = "Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%";
+"transfers.international.onboardingDescription" = "Қазақстандық картадан әлемнің кез-келген банк картасына аударым жасаңыз. Аударым комиссия - 0,7%%";
 "transfers.international.onboardingButtonTitle" = "Аударманы жасау";
+"common.further" = "Келесі";
+"auth.ibanInput.title" = "Шот нөміріңізді енгізіңіз";
+"auth.ibanInput.errorInvalidIban" = "Қате шот нөмірі";
