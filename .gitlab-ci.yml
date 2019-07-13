@@ -2,6 +2,7 @@
 build:
         stage: build
         script:
+        - git checkout master
         - git push https://alfawatson:Qweasdzxc_2019@github.com/alfawatson/alfamobile-localization-ios.git
         only:
             refs:
