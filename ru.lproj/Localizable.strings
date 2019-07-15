@@ -15,5 +15,5 @@
 "transfers.international.onboardingDescription" = "Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%%";
 "transfers.international.onboardingButtonTitle" = "Совершить перевод";
 "common.further" = "Далее";
-"auth.ibanInput.title" = "Введите номер счета";
+"auth.ibanInput.title" = "Введите номер вашего счета";
 "auth.ibanInput.errorInvalidIban" = "Неверный номер счета";
