@@ -13,9 +13,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>li</string>
         <key>one</key>
-        <string>Бір әрекет қалды</string>
+        <string>%i әрекет қалды</string>
         <key>other</key>
-        <string>Бір әрекет қалды</string>
+        <string>%i әрекет қалды</string>
       </dict>
     </dict>
   </dict>
