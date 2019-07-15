@@ -6,7 +6,7 @@
 "auth.smsValidation.enterSmsCode" = "Enter code from SMS";
 "auth.smsValidation.invalidCode" = "Invalid code";
 "auth.smsValidation.smsSent" = "SMS sent to number %@";
-"auth.creditCardInput.title" = "Enter card number";
+"auth.creditCardInput.title" = "Enter your card number";
 "auth.creditCardInput.invalidCardNumber" = "Invalid card number";
 "auth.creditCardInput.forgotCardNumber" = "I don't know the card number";
 "auth.registration.agreementPrefix" = "I have read and accept";
