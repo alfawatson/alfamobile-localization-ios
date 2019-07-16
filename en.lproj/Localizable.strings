@@ -1,5 +1,5 @@
 "auth.sms.resend" = "Resend";
-"auth.sms.resend_counter_message" = "You can resend SMS code in %li seconds";
+"auth.sms.resend_counter_message" = "You can resend SMS code in\n%li sec";
 "auth.registration.title" = "Enter your mobile phone";
 "auth.registration.callCenter" = "Call center";
 "auth.smsValidation.title" = "SMS confirmation";
@@ -11,9 +11,6 @@
 "auth.creditCardInput.forgotCardNumber" = "I don't know the card number";
 "auth.registration.agreementPrefix" = "I have read and accept";
 "auth.registration.agreementText" = "the agreement on enrolling the electronic banking services of \"ALFA-BANK\"";
-"transfers.international.onboardingTitle" = "International Transfers";
-"transfers.international.onboardingDescription" = "Make transfers from any Kazakhstan card to any card worldwide. Transfer commission starting from 0.7%%";
-"transfers.international.onboardingButtonTitle" = "Make a transfer";
 "common.further" = "Next";
 "auth.ibanInput.title" = "Enter account number";
 "auth.ibanInput.errorInvalidIban" = "Invalid account number";
