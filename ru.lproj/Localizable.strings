@@ -1,5 +1,5 @@
 "auth.sms.resend" = "Отправить заново";
-"auth.sms.resend_counter_message" = "Вы можете еще раз отправить СМС код через %li секунд";
+"auth.sms.resend_counter_message" = "Повторить отправку можно через\n%li сек";
 "auth.registration.title" = "Укажите мобильный телефон";
 "auth.registration.callCenter" = "Позвонить в колл-центр";
 "auth.smsValidation.title" = "SMS подтверждение";
@@ -11,9 +11,6 @@
 "auth.creditCardInput.forgotCardNumber" = "Я не знаю номер карты";
 "auth.registration.agreementPrefix" = "Я ознакомлен и присоединяюсь к";
 "auth.registration.agreementText" = "соглашению о присоединении к электронным банковским услугам физических лиц АО ДБ «АЛЬФА-БАНК»";
-"transfers.international.onboardingTitle" = "Международные переводы";
-"transfers.international.onboardingDescription" = "Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%%";
-"transfers.international.onboardingButtonTitle" = "Совершить перевод";
 "common.further" = "Далее";
 "auth.ibanInput.title" = "Введите номер вашего счета";
 "auth.ibanInput.errorInvalidIban" = "Неверный номер счета";
