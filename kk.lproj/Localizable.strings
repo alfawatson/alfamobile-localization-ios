@@ -11,6 +11,9 @@
 "auth.creditCardInput.forgotCardNumber" = "Картаның нөмірін білмеймін";
 "auth.registration.agreementPrefix" = "оқыдым жане келистим";
 "auth.registration.agreementText" = "АҚ ЕБ \"АЛЬФА-БАНК\" жеке тұлғаларға арналған электрондық банк қызметтер қосу келісімдi";
+"transfers.international.onboardingTitle" = "Халықаралық аударымдар";
+"transfers.international.onboardingDescription" = "Қазақстандық картадан әлемнің кез-келген банк картасына аударым жасаңыз. Аударым комиссия - 0,7%%";
+"transfers.international.onboardingButtonTitle" = "Аударманы жасау";
 "common.further" = "Келесі";
 "auth.ibanInput.title" = "Шот нөміріңізді енгізіңіз";
 "auth.ibanInput.errorInvalidIban" = "Қате шот нөмірі";
