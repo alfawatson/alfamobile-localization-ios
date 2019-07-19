@@ -23,4 +23,4 @@
 "payments.operationResult.paymentHistory" = "Payments\nHistory";
 "payments.operationResult.sendReceipt" = "Send\na receipt";
 "payments.operationResult.paid" = "Paid";
-"payments.operationResult.invoiceRecept" = "Receipt %s for address";
+"payments.operationResult.invoiceRecept" = "Receipt %@ for address";

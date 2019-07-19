@@ -23,4 +23,4 @@
 "payments.operationResult.paymentHistory" = "История\nплатежей";
 "payments.operationResult.sendReceipt" = "Отправить\nквитанцию";
 "payments.operationResult.paid" = "Оплачено";
-"payments.operationResult.invoiceRecept" = "Квитанция %s по адресу";
+"payments.operationResult.invoiceRecept" = "Квитанция %@ по адресу";

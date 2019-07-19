@@ -23,4 +23,4 @@
 "payments.operationResult.paymentHistory" = "Төлемдер\nтарихы";
 "payments.operationResult.sendReceipt" = "Шот\nжіберу";
 "payments.operationResult.paid" = "Ақылы";
-"payments.operationResult.invoiceRecept" = "%s мекенжай бойынша түбіртек";
+"payments.operationResult.invoiceRecept" = "%@ мекенжай бойынша түбіртек";
