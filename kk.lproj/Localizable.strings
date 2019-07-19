@@ -17,3 +17,10 @@
 "common.further" = "Келесі";
 "auth.ibanInput.title" = "Шот нөміріңізді енгізіңіз";
 "auth.ibanInput.errorInvalidIban" = "Қате шот нөмірі";
+"auth.smsValidation.incorrectSms" = "Сіз қате SMS енгіздіңіз";
+"payments.operationResult.addedToFavorites" = "Жиі қойылатын қосылды";
+"payments.operationResult.toNumber" = "Нөмірге";
+"payments.operationResult.paymentHistory" = "Төлемдер\nтарихы";
+"payments.operationResult.sendReceipt" = "Шот\nжіберу";
+"payments.operationResult.paid" = "Ақылы";
+"payments.operationResult.forAddress" = "мекенжай бойынша";

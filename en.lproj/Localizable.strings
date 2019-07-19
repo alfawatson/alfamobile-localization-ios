@@ -17,3 +17,10 @@
 "common.further" = "Next";
 "auth.ibanInput.title" = "Enter account number";
 "auth.ibanInput.errorInvalidIban" = "Invalid account number";
+"auth.smsValidation.incorrectSms" = "Invalid SMS code";
+"payments.operationResult.addedToFavorites" = "Added to Favorites";
+"payments.operationResult.toNumber" = "To phone number";
+"payments.operationResult.paymentHistory" = "Payments\nHistory";
+"payments.operationResult.sendReceipt" = "Send\na receipt";
+"payments.operationResult.paid" = "Paid";
+"payments.operationResult.forAddress" = "for address";

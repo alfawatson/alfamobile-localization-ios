@@ -17,3 +17,10 @@
 "common.further" = "Далее";
 "auth.ibanInput.title" = "Введите номер вашего счета";
 "auth.ibanInput.errorInvalidIban" = "Неверный номер счета";
+"auth.smsValidation.incorrectSms" = "Вы ввели неверный СМС";
+"payments.operationResult.addedToFavorites" = "Добавлено в Частые";
+"payments.operationResult.toNumber" = "На номер";
+"payments.operationResult.paymentHistory" = "История\nплатежей";
+"payments.operationResult.sendReceipt" = "Отправить\nквитанцию";
+"payments.operationResult.paid" = "Оплачено";
+"payments.operationResult.forAddress" = "по адресу";
