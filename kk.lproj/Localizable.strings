@@ -24,3 +24,4 @@
 "payments.operationResult.sendReceipt" = "Шот\nжіберу";
 "payments.operationResult.paid" = "Ақылы";
 "payments.operationResult.invoiceRecept" = "%@\nмекенжай бойынша түбіртек";
+"payments.operationResult.backToPayments" = "Төлемдерге оралу";
