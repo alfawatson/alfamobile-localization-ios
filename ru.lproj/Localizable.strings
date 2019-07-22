@@ -8,8 +8,8 @@
 "auth.smsValidation.smsSent" = "SMS отправлен на номер %@";
 "auth.creditCardInput.title" = "Введите номер карты";
 "auth.creditCardInput.invalidCardNumber" = "Неверный номер карты";
-"auth.creditCardInput.forgotCardNumber" = "Я не знаю номер карты";
-"auth.registration.agreementPrefix" = "Я ознакомлен и присоединяюсь к";
+"auth.creditCardInput.forgotCardNumber" = "Не помню номер карты";
+"auth.registration.agreementPrefix" = "Я подтверждаю что ознакомлен и присоединяюсь к";
 "auth.registration.agreementText" = "соглашению о присоединении к электронным банковским услугам физических лиц АО ДБ «АЛЬФА-БАНК»";
 "transfers.international.onboardingTitle" = "Международные переводы";
 "transfers.international.onboardingDescription" = "Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%%";
