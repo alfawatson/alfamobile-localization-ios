@@ -8,8 +8,8 @@
 "auth.smsValidation.smsSent" = "SMS %@ нөміріне жіберілді";
 "auth.creditCardInput.title" = "Карта нөмірін енгізіңіз";
 "auth.creditCardInput.invalidCardNumber" = "Жарамсыз карта нөмірі";
-"auth.creditCardInput.forgotCardNumber" = "Картаның нөмірін білмеймін";
-"auth.registration.agreementPrefix" = "оқыдым жане келистим";
+"auth.creditCardInput.forgotCardNumber" = "Картаның нөмірі есімде жоқ";
+"auth.registration.agreementPrefix" = "Оқығанымды және келісетінімді растаймын";
 "auth.registration.agreementText" = "АҚ ЕБ \"АЛЬФА-БАНК\" жеке тұлғаларға арналған электрондық банк қызметтер қосу келісімдi";
 "transfers.international.onboardingTitle" = "Халықаралық аударымдар";
 "transfers.international.onboardingDescription" = "Қазақстандық картадан әлемнің кез-келген банк картасына аударым жасаңыз. Аударым комиссия - 0,7%%";

@@ -8,8 +8,8 @@
 "auth.smsValidation.smsSent" = "SMS sent to number %@";
 "auth.creditCardInput.title" = "Enter your card number";
 "auth.creditCardInput.invalidCardNumber" = "Invalid card number";
-"auth.creditCardInput.forgotCardNumber" = "I don't know the card number";
-"auth.registration.agreementPrefix" = "I have read and accept";
+"auth.creditCardInput.forgotCardNumber" = "I don't remember the card number";
+"auth.registration.agreementPrefix" = "I confirm that I have read and join";
 "auth.registration.agreementText" = "the agreement on enrolling the electronic banking services of \"ALFA-BANK\"";
 "transfers.international.onboardingTitle" = "International Transfers";
 "transfers.international.onboardingDescription" = "Make transfers from any Kazakhstan card to any card worldwide. Transfer commission starting from 0.7%%";
