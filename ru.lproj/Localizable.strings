@@ -27,3 +27,7 @@
 "payments.operationResult.backToPayments" = "Вернуться в платежи";
 "payments.operationResult.paymentFailed" = "Платеж не прошел";
 "payments.operationResult.paymentFailedDescription" = "Произошел сбой при оплате услуги. Повторите попытку или обратитесь в службу поддержки.";
+"payments.operationResult.retryPayment" = "Повторить\nплатеж";
+"payments.operationResult.customerSupport" = "Служба\nподдержки";
+"payments.operationResult.paymentDeclined" = "Платеж отклонен";
+"payments.operationResult.invalidSmsCodeDescription" = "Вы ввели неверный СМС код, повторите платеж";

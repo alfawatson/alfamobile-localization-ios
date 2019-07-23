@@ -27,3 +27,7 @@
 "payments.operationResult.backToPayments" = "Return to payments";
 "payments.operationResult.paymentFailed" = "Payment failed";
 "payments.operationResult.paymentFailedDescription" = "There was an error during the payment. Try again or contact our support team.";
+"payments.operationResult.retryPayment" = "Retry\npayment";
+"payments.operationResult.customerSupport" = "Customer\nsupport";
+"payments.operationResult.paymentDeclined" = "Payment declined";
+"payments.operationResult.invalidSmsCodeDescription" = "You have entered an incorrect SMS code, retry payment";

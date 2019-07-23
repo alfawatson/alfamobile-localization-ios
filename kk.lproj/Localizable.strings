@@ -27,3 +27,7 @@
 "payments.operationResult.backToPayments" = "Төлемдерге оралу";
 "payments.operationResult.paymentFailed" = "Төлем орындалмады";
 "payments.operationResult.paymentFailedDescription" = "Қызметке ақы төлеу кезінде ақау пайда болды. Әрекетті қайталаңыз немесе қолдау қызметіне хабарласыңыз.";
+"payments.operationResult.retryPayment" = "Төлемді\nқайталау";
+"payments.operationResult.customerSupport" = "Қолдау\nқызметі";
+"payments.operationResult.paymentDeclined" = "Төлем қабылданбады";
+"payments.operationResult.invalidSmsCodeDescription" = "Сіз дұрыс емес SMS кодын енгіздіңіз, төлемді қайталаңыз";
