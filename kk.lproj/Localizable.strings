@@ -25,3 +25,5 @@
 "payments.operationResult.paid" = "Ақылы";
 "payments.operationResult.invoiceRecept" = "%@\nмекенжай бойынша түбіртек";
 "payments.operationResult.backToPayments" = "Төлемдерге оралу";
+"payments.operationResult.paymentFailed" = "Төлем орындалмады";
+"payments.operationResult.paymentFailedDescription" = "Қызметке ақы төлеу кезінде ақау пайда болды. Әрекетті қайталаңыз немесе қолдау қызметіне хабарласыңыз.";

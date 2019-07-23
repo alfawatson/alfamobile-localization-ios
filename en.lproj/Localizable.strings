@@ -25,3 +25,5 @@
 "payments.operationResult.paid" = "Paid";
 "payments.operationResult.invoiceRecept" = "Receipt for address:\n%@";
 "payments.operationResult.backToPayments" = "Return to payments";
+"payments.operationResult.paymentFailed" = "Payment failed";
+"payments.operationResult.paymentFailedDescription" = "There was an error during the payment. Try again or contact our support team.";
