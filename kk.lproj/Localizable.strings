@@ -36,3 +36,7 @@
 "auth.pinInput.repeatPin" = "Кодты қайталаңыз";
 "auth.pinInput.login" = "Кіру";
 "auth.pinInput.title" = "PIN-код арқылы кіру";
+"common.call" = "Шалу";
+"auth.temporaryPassword.getTemporaryPassword" = "Сізге байланыс орталығына қоңырау шалып, \n уақытша пароль алу керек";
+"auth.temporaryPassword.name" = "Уақытша пароль";
+"auth.temporaryPassword.callCenterForFree" = "Байланыс орталығына қоңырау шалыңыз. Ұялы телефоннан тегін.";
