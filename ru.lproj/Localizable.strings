@@ -24,7 +24,7 @@
 "payments.operationResult.sendReceipt" = "Отправить\nквитанцию";
 "payments.operationResult.paid" = "Оплачено";
 "payments.operationResult.invoiceRecept" = "Квитанция по адресу:\n%@";
-"payments.operationResult.backToPayments" = "Вернуться в платежи";
+"payments.operationResult.backToPayments" = "Вернуться в Платежи";
 "payments.operationResult.paymentFailed" = "Платеж не прошел";
 "payments.operationResult.paymentFailedDescription" = "Произошел сбой при оплате услуги. Повторите попытку или обратитесь в службу поддержки.";
 "payments.operationResult.retryPayment" = "Повторить\nплатеж";
