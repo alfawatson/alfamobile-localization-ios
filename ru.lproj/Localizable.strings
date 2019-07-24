@@ -36,3 +36,7 @@
 "auth.pinInput.repeatPin" = "Подтвердите код";
 "auth.pinInput.login" = "Вход";
 "auth.pinInput.title" = "Вход по ПИН-коду";
+"common.call" = "Вызов";
+"auth.temporaryPassword.getTemporaryPassword" = "Вам необходимо позвонить в колл-центр \nи получить временный пароль";
+"auth.temporaryPassword.name" = "Временный пароль";
+"auth.temporaryPassword.callCenterForFree" = "Позвонить в колл-центр. Бесплатно с мобильного телефона.";
