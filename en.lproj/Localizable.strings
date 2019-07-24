@@ -31,3 +31,8 @@
 "payments.operationResult.customerSupport" = "Customer\nsupport";
 "payments.operationResult.paymentDeclined" = "Payment declined";
 "payments.operationResult.invalidSmsCodeDescription" = "You have entered an incorrect SMS code, retry payment";
+"auth.pinInput.createPin" = "Set the code to quickly log in to the app";
+"common.cancel" = "Cancel";
+"auth.pinInput.repeatPin" = "Confirm code";
+"auth.pinInput.login" = "Login";
+"auth.pinInput.title" = "Login by PIN";

@@ -31,3 +31,8 @@
 "payments.operationResult.customerSupport" = "Қолдау\nқызметі";
 "payments.operationResult.paymentDeclined" = "Төлем қабылданбады";
 "payments.operationResult.invalidSmsCodeDescription" = "Сіз дұрыс емес SMS кодын енгіздіңіз, төлемді қайталаңыз";
+"auth.pinInput.createPin" = "Қосымшаға кіру үшін кодты орнатыңыз";
+"common.cancel" = "Болдырмау";
+"auth.pinInput.repeatPin" = "Кодты қайталаңыз";
+"auth.pinInput.login" = "Кіру";
+"auth.pinInput.title" = "PIN-код арқылы кіру";

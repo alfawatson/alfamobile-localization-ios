@@ -31,3 +31,8 @@
 "payments.operationResult.customerSupport" = "Служба\nподдержки";
 "payments.operationResult.paymentDeclined" = "Платеж отклонен";
 "payments.operationResult.invalidSmsCodeDescription" = "Вы ввели неверный СМС код, повторите платеж";
+"auth.pinInput.createPin" = "Установите код для быстрого входа в приложение";
+"common.cancel" = "Отмена";
+"auth.pinInput.repeatPin" = "Подтвердите код";
+"auth.pinInput.login" = "Вход";
+"auth.pinInput.title" = "Вход по ПИН-коду";
