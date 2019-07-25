@@ -40,3 +40,5 @@
 "auth.temporaryPassword.getTemporaryPassword" = "Сізге байланыс орталығына қоңырау шалып, \n уақытша пароль алу керек";
 "auth.temporaryPassword.name" = "Уақытша пароль";
 "auth.temporaryPassword.callCenterForFree" = "Байланыс орталығына қоңырау шалыңыз. Ұялы телефоннан тегін.";
+"payments.invoiceForm.checkInvoice" = "Түбіртекті тексеру";
+"payments.invoiceForm.previouslyViewed" = "Бұрын қаралған";

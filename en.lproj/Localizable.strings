@@ -40,3 +40,5 @@
 "auth.temporaryPassword.getTemporaryPassword" = "You need to call the call center \n and get a temporary password";
 "auth.temporaryPassword.name" = "Temporary Password";
 "auth.temporaryPassword.callCenterForFree" = "Call the call center. Free from mobile phone.";
+"payments.invoiceForm.checkInvoice" = "Check receipt";
+"payments.invoiceForm.previouslyViewed" = "Previously viewed";

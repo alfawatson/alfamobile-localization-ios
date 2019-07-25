@@ -40,3 +40,5 @@
 "auth.temporaryPassword.getTemporaryPassword" = "Вам необходимо позвонить в колл-центр \nи получить временный пароль";
 "auth.temporaryPassword.name" = "Временный пароль";
 "auth.temporaryPassword.callCenterForFree" = "Позвонить в колл-центр. Бесплатно с мобильного телефона.";
+"payments.invoiceForm.checkInvoice" = "Проверить квитанцию";
+"payments.invoiceForm.previouslyViewed" = "Ранее просмотренные";
