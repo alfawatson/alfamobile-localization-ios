@@ -30,7 +30,7 @@
 "payments.operationResult.retryPayment" = "Төлемді\nқайталау";
 "payments.operationResult.customerSupport" = "Қолдау\nқызметі";
 "payments.operationResult.paymentDeclined" = "Төлем қабылданбады";
-"payments.operationResult.invalidSmsCodeDescription" = "Сіз дұрыс емес SMS кодын енгіздіңіз, төлемді қайталаңыз";
+"payments.operationResult.invalidSmsCodeDescription" = "Сіз қате SMS кодын енгіздіңіз, төлемді қайталаңыз";
 "auth.pinInput.createPin" = "Қосымшаға кіру үшін кодты орнатыңыз";
 "common.cancel" = "Болдырмау";
 "auth.pinInput.repeatPin" = "Кодты қайталаңыз";
@@ -42,3 +42,8 @@
 "auth.temporaryPassword.callCenterForFree" = "Байланыс орталығына қоңырау шалыңыз. Ұялы телефоннан тегін.";
 "payments.invoiceForm.checkInvoice" = "Түбіртекті тексеру";
 "payments.invoiceForm.previouslyViewed" = "Бұрын қаралған";
+"common.error" = "Қате";
+"payments.invoiceForm.serviceSearch" = "Іздеу қызметтері";
+"banking.applePay.onboardingTitle" = "Apple Pay — ыңғайлы, қауіпсіз және құпия төлеу тәсілі";
+"banking.applePay.onboardingMessage" = "Apple Pay-мен Сіз Альфа-Банк картаңыздың барлық артықшылықтарын пайдалана аласыз";
+"banking.applePay.onboardingButton" = "Apple Pay туралы";

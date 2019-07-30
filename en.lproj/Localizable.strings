@@ -42,3 +42,8 @@
 "auth.temporaryPassword.callCenterForFree" = "Call the call center. Free from mobile phone.";
 "payments.invoiceForm.checkInvoice" = "Check receipt";
 "payments.invoiceForm.previouslyViewed" = "Previously viewed";
+"common.error" = "Error";
+"payments.invoiceForm.serviceSearch" = "Search services";
+"banking.applePay.onboardingTitle" = "Apple Pay is a convenient, secure and confidential payment option";
+"banking.applePay.onboardingMessage" = "Now you can enjoy all the benefits of Alfa-Bank card with Apple Pay on iPhone and Apple Watch";
+"banking.applePay.onboardingButton" = "More on Apple Pay";

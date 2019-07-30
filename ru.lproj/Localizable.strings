@@ -42,3 +42,8 @@
 "auth.temporaryPassword.callCenterForFree" = "Позвонить в колл-центр. Бесплатно с мобильного телефона.";
 "payments.invoiceForm.checkInvoice" = "Проверить квитанцию";
 "payments.invoiceForm.previouslyViewed" = "Ранее просмотренные";
+"common.error" = "Ошибка";
+"payments.invoiceForm.serviceSearch" = "Поиск услуг";
+"banking.applePay.onboardingTitle" = "Apple Pay — это удобный, безопасный и конфиденциальный способ оплаты покупок";
+"banking.applePay.onboardingMessage" = "Теперь вы можете пользоваться всеми преимуществами карты Альфа-Банка с Apple Pay на iPhone и Apple Watch";
+"banking.applePay.onboardingButton" = "Подробнее об Apple Pay";
