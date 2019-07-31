@@ -47,3 +47,15 @@
 "banking.applePay.onboardingTitle" = "Apple Pay — ыңғайлы, қауіпсіз және құпия төлеу тәсілі";
 "banking.applePay.onboardingMessage" = "Apple Pay-мен Сіз Альфа-Банк картаңыздың барлық артықшылықтарын пайдалана аласыз";
 "banking.applePay.onboardingButton" = "Apple Pay туралы";
+"payments.common.toPay" = "Төлемге";
+"payments.common.from" = "Қайдан";
+"payments.common.pay" = "Төлеу";
+"payments.invoiceForm.account" = "Дербес шот";
+"payments.invoiceForm.owner" = "Иесі";
+"payments.invoiceForm.address" = "Мекен-жайы";
+"payments.invoiceForm.size" = "Аудан";
+"payments.invoiceForm.month" = "Ай";
+"payments.invoiceForm.debt" = "Қарыз";
+"payments.invoiceForm.overpayment" = "Артық төлеу";
+"payments.invoiceForm.fine" = "Айыппұлдар";
+"payments.invoiceForm.recalculation" = "Қайта есептеу";

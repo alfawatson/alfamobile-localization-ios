@@ -47,3 +47,15 @@
 "banking.applePay.onboardingTitle" = "Apple Pay is a convenient, secure and confidential payment option";
 "banking.applePay.onboardingMessage" = "Now you can enjoy all the benefits of Alfa-Bank card with Apple Pay on iPhone and Apple Watch";
 "banking.applePay.onboardingButton" = "More on Apple Pay";
+"payments.common.toPay" = "To pay";
+"payments.common.from" = "From";
+"payments.common.pay" = "Pay";
+"payments.invoiceForm.account" = "Personal account";
+"payments.invoiceForm.owner" = "Owner";
+"payments.invoiceForm.address" = "Address";
+"payments.invoiceForm.size" = "Size";
+"payments.invoiceForm.month" = "Month";
+"payments.invoiceForm.debt" = "Debt";
+"payments.invoiceForm.overpayment" = "Overpayment";
+"payments.invoiceForm.fine" = "Fine";
+"payments.invoiceForm.recalculation" = "Recalculation";

@@ -47,3 +47,15 @@
 "banking.applePay.onboardingTitle" = "Apple Pay — это удобный, безопасный и конфиденциальный способ оплаты покупок";
 "banking.applePay.onboardingMessage" = "Теперь вы можете пользоваться всеми преимуществами карты Альфа-Банка с Apple Pay на iPhone и Apple Watch";
 "banking.applePay.onboardingButton" = "Подробнее об Apple Pay";
+"payments.common.toPay" = "К оплате";
+"payments.common.from" = "Откуда";
+"payments.common.pay" = "Оплатить";
+"payments.invoiceForm.account" = "Лицевой счет";
+"payments.invoiceForm.owner" = "Владелец";
+"payments.invoiceForm.address" = "Адрес";
+"payments.invoiceForm.size" = "Площадь";
+"payments.invoiceForm.month" = "Месяц";
+"payments.invoiceForm.debt" = "Задолженность";
+"payments.invoiceForm.overpayment" = "Переплата";
+"payments.invoiceForm.fine" = "Пеня";
+"payments.invoiceForm.recalculation" = "Перерасчет";
