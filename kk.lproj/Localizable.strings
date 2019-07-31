@@ -60,3 +60,7 @@
 "payments.invoiceForm.fine" = "Айыппұлдар";
 "payments.invoiceForm.recalculation" = "Қайта есептеу";
 "payments.invoiceForm.invalidAccountNumber" = "Қате шот нөмірі";
+"common.skip" = "Пропустить";
+"banking.applePay.marketingTitle" = "Apple Pay Альфа-банкте!";
+"banking.applePay.marketingMessage" = "Apple Pay көмегімен Сіз онай және тез төлей аласыз";
+"banking.applePay.marketingButton" = "Apple Pay қосу";

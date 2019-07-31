@@ -60,3 +60,7 @@
 "payments.invoiceForm.fine" = "Пеня";
 "payments.invoiceForm.recalculation" = "Перерасчет";
 "payments.invoiceForm.invalidAccountNumber" = "Неверный номер лицевого счета";
+"common.skip" = "Пропустить";
+"banking.applePay.marketingTitle" = "Apple Pay в Альфа Банке!";
+"banking.applePay.marketingMessage" = "Теперь оплачивать покупки можно просто и быстро с помощью Apple Pay";
+"banking.applePay.marketingButton" = "Подключить Apple Pay";
