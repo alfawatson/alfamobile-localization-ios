@@ -59,3 +59,4 @@
 "payments.invoiceForm.overpayment" = "Артық төлеу";
 "payments.invoiceForm.fine" = "Айыппұлдар";
 "payments.invoiceForm.recalculation" = "Қайта есептеу";
+"payments.invoiceForm.invalidAccountNumber" = "Қате шот нөмірі";

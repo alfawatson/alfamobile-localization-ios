@@ -59,3 +59,4 @@
 "payments.invoiceForm.overpayment" = "Переплата";
 "payments.invoiceForm.fine" = "Пеня";
 "payments.invoiceForm.recalculation" = "Перерасчет";
+"payments.invoiceForm.invalidAccountNumber" = "Неверный номер лицевого счета";
