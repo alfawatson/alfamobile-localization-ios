@@ -65,3 +65,5 @@
 "banking.applePay.marketingMessage" = "Experience blazing-fast payment experience using Apple Pay";
 "banking.applePay.marketingButton" = "Connect Apple Pay";
 "auth.ibanInput.forgotIbanNumber" = "I don't remember account number";
+"transfers.addCard.senderDescription" = "Sender's card number";
+"transfers.addCard.recipientDescription" = "Recipient's card number";

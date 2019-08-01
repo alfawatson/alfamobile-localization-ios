@@ -65,3 +65,5 @@
 "banking.applePay.marketingMessage" = "Apple Pay көмегімен Сіз онай және тез төлей аласыз";
 "banking.applePay.marketingButton" = "Apple Pay қосу";
 "auth.ibanInput.forgotIbanNumber" = "Есепшоттың нөмірі есімде жоқ";
+"transfers.addCard.senderDescription" = "Жіберушінің карта нөмірі";
+"transfers.addCard.recipientDescription" = "Алушының карта нөмірі";
