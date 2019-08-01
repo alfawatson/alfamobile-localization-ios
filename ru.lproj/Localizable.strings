@@ -64,3 +64,4 @@
 "banking.applePay.marketingTitle" = "Apple Pay в Альфа Банке!";
 "banking.applePay.marketingMessage" = "Теперь оплачивать покупки можно просто и быстро с помощью Apple Pay";
 "banking.applePay.marketingButton" = "Подключить Apple Pay";
+"auth.ibanInput.forgotIbanNumber" = "Не помню номер счёта";

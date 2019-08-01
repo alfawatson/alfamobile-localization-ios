@@ -64,3 +64,4 @@
 "banking.applePay.marketingTitle" = "Finally, Apple Pay at Alfa Bank!";
 "banking.applePay.marketingMessage" = "Experience blazing-fast payment experience using Apple Pay";
 "banking.applePay.marketingButton" = "Connect Apple Pay";
+"auth.ibanInput.forgotIbanNumber" = "I don't remember account number";
