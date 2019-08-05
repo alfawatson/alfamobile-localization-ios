@@ -82,3 +82,14 @@
 "payments.bill.commission" = "Комиссия";
 "payments.bill.violation" = "Нарушение";
 "payments.bill.protocolNumber" = "Номер протокола";
+"common.error.timeout" = "Время ожидания истекло. Попробуйте еще раз.";
+"common.error.any" = "Произошла непредвиденная ошибка. Повторите попытку позже. ";
+"payments.invoiceForm.currentMeterValues" = "Current meter readings";
+"payments.invoiceForm.previousMeterValues" = "Previous meter readings";
+"payments.invoiceForm.enteredAmountNote" = "You can change the amount to pay";
+"common.continue" = "Continue";
+"payments.invoiceForm.calculation" = "Calculation";
+"payments.invoiceForm.tariff" = "%@ rate";
+"payments.invoiceForm.minRange" = "up to %@";
+"payments.invoiceForm.midRange" = "from %@ to %@";
+"payments.invoiceForm.maxRange" = "more than %@";

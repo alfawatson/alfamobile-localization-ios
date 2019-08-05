@@ -82,3 +82,14 @@
 "payments.bill.commission" = "Комиссия";
 "payments.bill.violation" = "Нарушение";
 "payments.bill.protocolNumber" = "Номер протокола";
+"common.error.timeout" = "Время ожидания истекло. Попробуйте еще раз.";
+"common.error.any" = "Произошла непредвиденная ошибка. Повторите попытку позже. ";
+"payments.invoiceForm.currentMeterValues" = "Ағымдағы есептегіш көрсеткіштері";
+"payments.invoiceForm.previousMeterValues" = "Алдыңғы есептегіш көрсеткіштері";
+"payments.invoiceForm.enteredAmountNote" = "Төлеуге болатын соманы өзгерте аласыз";
+"common.continue" = "Жалғастыру";
+"payments.invoiceForm.calculation" = "Есептеу";
+"payments.invoiceForm.tariff" = "%@ тарифы";
+"payments.invoiceForm.minRange" = "%@ дейін";
+"payments.invoiceForm.midRange" = "%@ дан %@ дейін";
+"payments.invoiceForm.maxRange" = "%@ астам";
