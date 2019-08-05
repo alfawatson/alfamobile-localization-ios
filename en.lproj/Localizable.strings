@@ -94,3 +94,4 @@
 "payments.invoiceForm.midRange" = "from %@ to %@";
 "payments.invoiceForm.maxRange" = "more than %@";
 "common.information" = "Информация";
+"transfers.international.noTransactionCallToAction" = "Transfers from card to card of world banks";

@@ -94,3 +94,4 @@
 "payments.invoiceForm.midRange" = "%@ дан %@ дейін";
 "payments.invoiceForm.maxRange" = "%@ астам";
 "common.information" = "Информация";
+"transfers.international.noTransactionCallToAction" = "Картадан әлем банктерінің картасына аударымдар";
