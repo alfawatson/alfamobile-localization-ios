@@ -93,3 +93,4 @@
 "payments.invoiceForm.minRange" = "%@ дейін";
 "payments.invoiceForm.midRange" = "%@ дан %@ дейін";
 "payments.invoiceForm.maxRange" = "%@ астам";
+"common.information" = "Информация";

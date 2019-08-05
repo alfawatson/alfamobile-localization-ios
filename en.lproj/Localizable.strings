@@ -93,3 +93,4 @@
 "payments.invoiceForm.minRange" = "up to %@";
 "payments.invoiceForm.midRange" = "from %@ to %@";
 "payments.invoiceForm.maxRange" = "more than %@";
+"common.information" = "Информация";
