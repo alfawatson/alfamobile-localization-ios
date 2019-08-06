@@ -95,3 +95,4 @@
 "payments.invoiceForm.maxRange" = "более %@";
 "common.information" = "Информация";
 "transfers.international.noTransactionCallToAction" = "Переводы с карты на карту банков мира";
+"payments.invoiceForm.shownOnPaperReceipt" = "Указан на бумажной квитанции";
