@@ -96,3 +96,5 @@
 "common.information" = "Информация";
 "transfers.international.noTransactionCallToAction" = "Transfers from card to card of world banks";
 "payments.invoiceForm.shownOnPaperReceipt" = "Indicated on paper receipt";
+"payments.invoiceForm.noReceiptsFound" = "There are no unpaid receipts for the specified details";
+"payments.common.newSearch" = "New search";

@@ -96,3 +96,5 @@
 "common.information" = "Информация";
 "transfers.international.noTransactionCallToAction" = "Переводы с карты на карту банков мира";
 "payments.invoiceForm.shownOnPaperReceipt" = "Указан на бумажной квитанции";
+"payments.invoiceForm.noReceiptsFound" = "По указанным реквизитам нет неоплаченных квитанций";
+"payments.common.newSearch" = "Новый поиск";

@@ -96,3 +96,5 @@
 "common.information" = "Информация";
 "transfers.international.noTransactionCallToAction" = "Картадан әлем банктерінің картасына аударымдар";
 "payments.invoiceForm.shownOnPaperReceipt" = "Қағаз түбіртегінде көрсетілген";
+"payments.invoiceForm.noReceiptsFound" = "Көрсетілген деректемелер үшін төленбеген түбіртектер жоқ";
+"payments.common.newSearch" = "Жаңа ізденіс";
