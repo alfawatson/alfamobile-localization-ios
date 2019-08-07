@@ -101,3 +101,6 @@
 "auth.temporaryPassword.getTemporaryPassword.first" = "Вам необходимо ";
 "auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в колл-центр";
 "auth.temporaryPassword.getTemporaryPassword.third" = "и получить временный пароль";
+"payments.common.confirmAndPay" = "Подтвердить и оплатить";
+"payments.common.confirmTitle" = "Подтверждение платежа";
+"payments.common.serviceProvider" = "Поставщик";
