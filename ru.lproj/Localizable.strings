@@ -98,3 +98,6 @@
 "payments.invoiceForm.shownOnPaperReceipt" = "Указан на бумажной квитанции";
 "payments.invoiceForm.noReceiptsFound" = "По указанным реквизитам нет неоплаченных квитанций";
 "payments.common.newSearch" = "Новый поиск";
+"auth.temporaryPassword.getTemporaryPassword.first" = "Вам необходимо ";
+"auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в колл-центр";
+"auth.temporaryPassword.getTemporaryPassword.third" = "и получить временный пароль";

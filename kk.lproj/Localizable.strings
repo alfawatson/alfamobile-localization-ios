@@ -98,3 +98,6 @@
 "payments.invoiceForm.shownOnPaperReceipt" = "Қағаз түбіртегінде көрсетілген";
 "payments.invoiceForm.noReceiptsFound" = "Көрсетілген деректемелер үшін төленбеген түбіртектер жоқ";
 "payments.common.newSearch" = "Жаңа ізденіс";
+"auth.temporaryPassword.getTemporaryPassword.first" = "Вам необходимо ";
+"auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в колл-центр";
+"auth.temporaryPassword.getTemporaryPassword.third" = "и получить временный пароль";

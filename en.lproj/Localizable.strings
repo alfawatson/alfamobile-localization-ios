@@ -70,7 +70,7 @@
 "payments.bill.statusNew" = "Платеж в обработке";
 "payments.bill.statusError" = "Платеж не прошел";
 "payments.bill.statusSuccess" = "Платеж прошел успешно";
-"payments.bill.noCommission" = "Комиссия 0 ₸";
+"payments.bill.noCommission" = "No fee";
 "payments.bill.withCommission" = "С учетом комиссии";
 "payments.bill.service" = "Услуга";
 "payments.bill.billNumber" = "Номер квитанции";
@@ -79,7 +79,7 @@
 "payments.bill.addToFrequents" = "Добавить\nв Частые";
 "payments.bill.repeatPayment" = "Повторить\nплатеж";
 "payments.bill.fromAccount" = "Оплачено с";
-"payments.bill.commission" = "Комиссия";
+"payments.bill.commission" = "Commission";
 "payments.bill.violation" = "Нарушение";
 "payments.bill.protocolNumber" = "Номер протокола";
 "common.error.timeout" = "Время ожидания истекло. Попробуйте еще раз.";
@@ -98,3 +98,6 @@
 "payments.invoiceForm.shownOnPaperReceipt" = "Indicated on paper receipt";
 "payments.invoiceForm.noReceiptsFound" = "There are no unpaid receipts for the specified details";
 "payments.common.newSearch" = "New search";
+"auth.temporaryPassword.getTemporaryPassword.first" = "Вам необходимо ";
+"auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в колл-центр";
+"auth.temporaryPassword.getTemporaryPassword.third" = "и получить временный пароль";
