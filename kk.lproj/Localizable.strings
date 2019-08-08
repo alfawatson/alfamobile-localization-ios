@@ -104,3 +104,4 @@
 "payments.common.confirmAndPay" = "Растау және төлеу";
 "payments.common.confirmTitle" = "Төлем растау";
 "payments.common.serviceProvider" = "Поставщик";
+"payments.drivingFine.checkFines" = "Айыппұлдарды тексеру";

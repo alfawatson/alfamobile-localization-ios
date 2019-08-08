@@ -104,3 +104,4 @@
 "payments.common.confirmAndPay" = "Confirm and pay";
 "payments.common.confirmTitle" = "Payment confirmation";
 "payments.common.serviceProvider" = "Поставщик";
+"payments.drivingFine.checkFines" = "Check fines";
