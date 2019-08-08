@@ -18,5 +18,21 @@
         <string>%i tries left</string>
       </dict>
     </dict>
+    <key>payments.drivingFine.finesCount</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format@</string>
+      <key>format</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%i fine for %@</string>
+        <key>other</key>
+        <string>%i fines for %@</string>
+      </dict>
+    </dict>
   </dict>
 </plist>

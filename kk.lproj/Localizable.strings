@@ -105,3 +105,4 @@
 "payments.common.confirmTitle" = "Төлем растау";
 "payments.common.serviceProvider" = "Поставщик";
 "payments.drivingFine.checkFines" = "Айыппұлдарды тексеру";
+"payments.drivingFine.noFinesFound" = "Жаңа айыппұлдар жоқ";

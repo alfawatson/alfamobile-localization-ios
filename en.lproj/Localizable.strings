@@ -105,3 +105,4 @@
 "payments.common.confirmTitle" = "Payment confirmation";
 "payments.common.serviceProvider" = "Поставщик";
 "payments.drivingFine.checkFines" = "Check fines";
+"payments.drivingFine.noFinesFound" = "No new fines";
