@@ -71,7 +71,7 @@
 "payments.bill.statusError" = "Платеж не прошел";
 "payments.bill.statusSuccess" = "Платеж прошел успешно";
 "payments.bill.noCommission" = "No fee";
-"payments.bill.withCommission" = "С учетом комиссии";
+"payments.bill.withCommission" = "Including fee";
 "payments.bill.service" = "Услуга";
 "payments.bill.billNumber" = "Номер квитанции";
 "payments.bill.date" = "Дата";
@@ -93,7 +93,7 @@
 "payments.invoiceForm.minRange" = "up to %@";
 "payments.invoiceForm.midRange" = "from %@ to %@";
 "payments.invoiceForm.maxRange" = "more than %@";
-"common.information" = "Информация";
+"common.information" = "Information";
 "transfers.international.noTransactionCallToAction" = "Transfers from card to card of world banks";
 "payments.invoiceForm.shownOnPaperReceipt" = "Indicated on paper receipt";
 "payments.invoiceForm.noReceiptsFound" = "There are no unpaid receipts for the specified details";
@@ -103,6 +103,10 @@
 "auth.temporaryPassword.getTemporaryPassword.third" = "и получить временный пароль";
 "payments.common.confirmAndPay" = "Confirm and pay";
 "payments.common.confirmTitle" = "Payment confirmation";
-"payments.common.serviceProvider" = "Поставщик";
+"payments.common.serviceProvider" = "Provider";
 "payments.drivingFine.checkFines" = "Check fines";
 "payments.drivingFine.noFinesFound" = "No new fines";
+"payments.invoiceForm.numberOfTenants" = "Number of residents";
+"common.fromAccount" = "From account";
+"common.amount" = "Amount";
+"common.phoneNumber" = "Phone number";

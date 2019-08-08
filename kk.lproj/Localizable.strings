@@ -71,7 +71,7 @@
 "payments.bill.statusError" = "Платеж не прошел";
 "payments.bill.statusSuccess" = "Платеж прошел успешно";
 "payments.bill.noCommission" = "Комиссия 0 ₸";
-"payments.bill.withCommission" = "С учетом комиссии";
+"payments.bill.withCommission" = "Комиссиямен";
 "payments.bill.service" = "Услуга";
 "payments.bill.billNumber" = "Номер квитанции";
 "payments.bill.date" = "Дата";
@@ -93,7 +93,7 @@
 "payments.invoiceForm.minRange" = "%@ дейін";
 "payments.invoiceForm.midRange" = "%@ дан %@ дейін";
 "payments.invoiceForm.maxRange" = "%@ астам";
-"common.information" = "Информация";
+"common.information" = "Ақпарат";
 "transfers.international.noTransactionCallToAction" = "Картадан әлем банктерінің картасына аударымдар";
 "payments.invoiceForm.shownOnPaperReceipt" = "Қағаз түбіртегінде көрсетілген";
 "payments.invoiceForm.noReceiptsFound" = "Көрсетілген деректемелер үшін төленбеген түбіртектер жоқ";
@@ -103,6 +103,10 @@
 "auth.temporaryPassword.getTemporaryPassword.third" = "и получить временный пароль";
 "payments.common.confirmAndPay" = "Растау және төлеу";
 "payments.common.confirmTitle" = "Төлем растау";
-"payments.common.serviceProvider" = "Поставщик";
+"payments.common.serviceProvider" = "Өнім беруші";
 "payments.drivingFine.checkFines" = "Айыппұлдарды тексеру";
 "payments.drivingFine.noFinesFound" = "Жаңа айыппұлдар жоқ";
+"payments.invoiceForm.numberOfTenants" = "Тұрғындар саны";
+"common.fromAccount" = "Шоттан";
+"common.amount" = "Сома";
+"common.phoneNumber" = "Телефон нөмірі";

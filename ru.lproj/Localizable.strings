@@ -106,3 +106,7 @@
 "payments.common.serviceProvider" = "Поставщик";
 "payments.drivingFine.checkFines" = "Проверить штрафы";
 "payments.drivingFine.noFinesFound" = "Нет новых штрафов";
+"payments.invoiceForm.numberOfTenants" = "Кол-во проживающих";
+"common.fromAccount" = "Со счета";
+"common.amount" = "Сумма";
+"common.phoneNumber" = "Номер телефона";
