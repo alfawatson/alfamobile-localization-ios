@@ -31,7 +31,7 @@
 "payments.operationResult.customerSupport" = "Служба\nподдержки";
 "payments.operationResult.paymentDeclined" = "Платеж отклонен";
 "payments.operationResult.invalidSmsCodeDescription" = "Вы ввели неверный СМС код, повторите платеж";
-"auth.pinInput.createPin" = "Установите код для быстрого входа в приложение";
+"auth.pinInput.createPin" = "Установите код для быстрого \n входа в приложение";
 "common.cancel" = "Отмена";
 "auth.pinInput.repeatPin" = "Подтвердите код";
 "auth.pinInput.login" = "Вход";
@@ -110,3 +110,13 @@
 "common.fromAccount" = "Со счета";
 "common.amount" = "Сумма";
 "common.phoneNumber" = "Номер телефона";
+"auth.pinInput.passNotEqual" = "Пароли не совпадают";
+"auth.pinInput.validation.error" = "Нельзя использовать простые пин коду 1111,2222,1234.";
+"auth.pinInput.repeatPass" = "Повторите код";
+"auth.pinInput.alertDialog.title" = "Вы действительно хотите выйти?";
+"auth.pinInput.alertDialog.mainText" = "Если вы нажмете на кнопку выйти, вам нужно будет авторизоваться с помощью номера телефона и карты. ";
+"payments.drivingFine.fio" = "ФИО";
+"payments.drivingFine.iin" = "ИИН";
+"payments.drivingFine.title" = "Штрафы ПДД";
+"payments.drivingFine.penaltyDate" = "Дата нарушения";
+"payments.drivingFine.protocolNum" = "№ протокола";

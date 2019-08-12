@@ -110,3 +110,13 @@
 "common.fromAccount" = "From account";
 "common.amount" = "Amount";
 "common.phoneNumber" = "Phone number";
+"auth.pinInput.passNotEqual" = "Пароли не совпадают";
+"auth.pinInput.validation.error" = "Нельзя использовать простые пин коду 1111,2222,1234.";
+"auth.pinInput.repeatPass" = "Повторите код";
+"auth.pinInput.alertDialog.title" = "Вы действительно хотите выйти?";
+"auth.pinInput.alertDialog.mainText" = "Если вы нажмете на кнопку выйти, вам нужно будет авторизоваться с помощью номера телефона и карты. ";
+"payments.drivingFine.fio" = "FIO";
+"payments.drivingFine.iin" = "IIN";
+"payments.drivingFine.title" = "Traffic fines";
+"payments.drivingFine.penaltyDate" = "Date of violation";
+"payments.drivingFine.protocolNum" = "Protocol No.";

@@ -110,3 +110,13 @@
 "common.fromAccount" = "Шоттан";
 "common.amount" = "Сома";
 "common.phoneNumber" = "Телефон нөмірі";
+"auth.pinInput.passNotEqual" = "Пароли не совпадают";
+"auth.pinInput.validation.error" = "Нельзя использовать простые пин коду 1111,2222,1234.";
+"auth.pinInput.repeatPass" = "Повторите код";
+"auth.pinInput.alertDialog.title" = "Вы действительно хотите выйти?";
+"auth.pinInput.alertDialog.mainText" = "Если вы нажмете на кнопку выйти, вам нужно будет авторизоваться с помощью номера телефона и карты. ";
+"payments.drivingFine.fio" = "Аты-жөні";
+"payments.drivingFine.iin" = "ЖСН";
+"payments.drivingFine.title" = "Жол жүру айыппұлы";
+"payments.drivingFine.penaltyDate" = "Бұзушылық күні";
+"payments.drivingFine.protocolNum" = "Хаттама №";
