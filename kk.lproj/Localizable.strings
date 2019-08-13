@@ -124,3 +124,4 @@
 "auth.enterPincode.wrongPin" = "Неверный код.\nУ вас осталось %s попытки.";
 "auth.pinInput.noAttempts" = "Превышено количество попыток";
 "payments.drivingFine.noFinesFound" = "Бұзушылықтар табылған жоқ";
+"common.validation.invalidIin" = "ЖСН қате енгізілді";

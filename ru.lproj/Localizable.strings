@@ -15,7 +15,7 @@
 "transfers.international.onboardingDescription" = "Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%%";
 "transfers.international.onboardingButtonTitle" = "Совершить перевод";
 "common.further" = "Далее";
-"auth.ibanInput.title" = "Введите номер вашего счета";
+"auth.ibanInput.title" = "Введите номер счета";
 "auth.ibanInput.errorInvalidIban" = "Неверный номер счета";
 "auth.smsValidation.incorrectSms" = "Вы ввели неверный СМС";
 "payments.operationResult.addedToFavorites" = "Добавлено в Частые";
@@ -124,3 +124,4 @@
 "auth.enterPincode.wrongPin" = "Неверный код.\nУ вас осталось %s попытки.";
 "auth.pinInput.noAttempts" = "Превышено количество попыток";
 "payments.drivingFine.noFinesFound" = "Нарушений не найдено";
+"common.validation.invalidIin" = "Введен неверный ИИН";
