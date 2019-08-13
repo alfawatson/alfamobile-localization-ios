@@ -99,13 +99,13 @@
 "payments.invoiceForm.noReceiptsFound" = "Көрсетілген деректемелер үшін төленбеген түбіртектер жоқ";
 "payments.common.newSearch" = "Жаңа ізденіс";
 "auth.temporaryPassword.getTemporaryPassword.first" = "Вам необходимо ";
-"auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в колл-центр";
+"auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в Call Center";
 "auth.temporaryPassword.getTemporaryPassword.third" = "и получить временный пароль";
 "payments.common.confirmAndPay" = "Растау және төлеу";
 "payments.common.confirmTitle" = "Төлем растау";
 "payments.common.serviceProvider" = "Өнім беруші";
 "payments.drivingFine.checkFines" = "Айыппұлдарды тексеру";
-"payments.drivingFine.noFinesFound" = "Жаңа айыппұлдар жоқ";
+"payments.drivingFine.noNewFines" = "Жаңа айыппұлдар жоқ";
 "payments.invoiceForm.numberOfTenants" = "Тұрғындар саны";
 "common.fromAccount" = "Шоттан";
 "common.amount" = "Сома";
@@ -120,3 +120,7 @@
 "payments.drivingFine.title" = "Жол жүру айыппұлы";
 "payments.drivingFine.penaltyDate" = "Бұзушылық күні";
 "payments.drivingFine.protocolNum" = "Хаттама №";
+"auth.enterPincode.title" = "Введите код или приложите палец \n для быстрого доступа";
+"auth.enterPincode.wrongPin" = "Неверный код.\nУ вас осталось %s попытки.";
+"auth.pinInput.noAttempts" = "Превышено количество попыток";
+"payments.drivingFine.noFinesFound" = "Бұзушылықтар табылған жоқ";

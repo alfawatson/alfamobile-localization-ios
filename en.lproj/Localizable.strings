@@ -99,13 +99,13 @@
 "payments.invoiceForm.noReceiptsFound" = "There are no unpaid receipts for the specified details";
 "payments.common.newSearch" = "New search";
 "auth.temporaryPassword.getTemporaryPassword.first" = "Вам необходимо ";
-"auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в колл-центр";
+"auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в Call Center";
 "auth.temporaryPassword.getTemporaryPassword.third" = "и получить временный пароль";
 "payments.common.confirmAndPay" = "Confirm and pay";
 "payments.common.confirmTitle" = "Payment confirmation";
 "payments.common.serviceProvider" = "Provider";
 "payments.drivingFine.checkFines" = "Check fines";
-"payments.drivingFine.noFinesFound" = "No new fines";
+"payments.drivingFine.noNewFines" = "No new fines";
 "payments.invoiceForm.numberOfTenants" = "Number of residents";
 "common.fromAccount" = "From account";
 "common.amount" = "Amount";
@@ -120,3 +120,7 @@
 "payments.drivingFine.title" = "Traffic fines";
 "payments.drivingFine.penaltyDate" = "Date of violation";
 "payments.drivingFine.protocolNum" = "Protocol No.";
+"auth.enterPincode.title" = "Введите код или приложите палец \n для быстрого доступа";
+"auth.enterPincode.wrongPin" = "Неверный код.\nУ вас осталось %s попытки.";
+"auth.pinInput.noAttempts" = "Превышено количество попыток";
+"payments.drivingFine.noFinesFound" = "No violations found";

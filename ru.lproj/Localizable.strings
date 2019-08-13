@@ -1,7 +1,7 @@
 "auth.sms.resend" = "Отправить заново";
 "auth.sms.resend_counter_message" = "Повторить отправку можно через\n%li сек";
 "auth.registration.title" = "Укажите мобильный телефон";
-"auth.registration.callCenter" = "Позвонить в колл-центр";
+"auth.registration.callCenter" = "Позвонить в Call Center";
 "auth.smsValidation.title" = "SMS подтверждение";
 "auth.smsValidation.enterSmsCode" = "Введите код из SMS";
 "auth.smsValidation.invalidCode" = "Неверный код";
@@ -37,9 +37,9 @@
 "auth.pinInput.login" = "Вход";
 "auth.pinInput.title" = "Вход по ПИН-коду";
 "common.call" = "Вызов";
-"auth.temporaryPassword.getTemporaryPassword" = "Вам необходимо позвонить в колл-центр \nи получить временный пароль";
+"auth.temporaryPassword.getTemporaryPassword" = "Вам необходимо позвонить в Call Center \nи получить временный пароль";
 "auth.temporaryPassword.name" = "Временный пароль";
-"auth.temporaryPassword.callCenterForFree" = "Позвонить в колл-центр. Бесплатно с мобильного телефона.";
+"auth.temporaryPassword.callCenterForFree" = "Позвонить в Call Center. Бесплатно с мобильного телефона.";
 "payments.invoiceForm.checkInvoice" = "Проверить квитанцию";
 "payments.invoiceForm.previouslyViewed" = "Ранее просмотренные";
 "common.error" = "Ошибка";
@@ -99,13 +99,13 @@
 "payments.invoiceForm.noReceiptsFound" = "По указанным реквизитам нет неоплаченных квитанций";
 "payments.common.newSearch" = "Новый поиск";
 "auth.temporaryPassword.getTemporaryPassword.first" = "Вам необходимо ";
-"auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в колл-центр";
+"auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в Call Center";
 "auth.temporaryPassword.getTemporaryPassword.third" = "и получить временный пароль";
 "payments.common.confirmAndPay" = "Подтвердить и оплатить";
 "payments.common.confirmTitle" = "Подтверждение платежа";
 "payments.common.serviceProvider" = "Поставщик";
 "payments.drivingFine.checkFines" = "Проверить штрафы";
-"payments.drivingFine.noFinesFound" = "Нет новых штрафов";
+"payments.drivingFine.noNewFines" = "Нет новых штрафов";
 "payments.invoiceForm.numberOfTenants" = "Кол-во проживающих";
 "common.fromAccount" = "Со счета";
 "common.amount" = "Сумма";
@@ -120,3 +120,7 @@
 "payments.drivingFine.title" = "Штрафы ПДД";
 "payments.drivingFine.penaltyDate" = "Дата нарушения";
 "payments.drivingFine.protocolNum" = "№ протокола";
+"auth.enterPincode.title" = "Введите код или приложите палец \n для быстрого доступа";
+"auth.enterPincode.wrongPin" = "Неверный код.\nУ вас осталось %s попытки.";
+"auth.pinInput.noAttempts" = "Превышено количество попыток";
+"payments.drivingFine.noFinesFound" = "Нарушений не найдено";
