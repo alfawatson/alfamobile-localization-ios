@@ -121,7 +121,7 @@
 "payments.drivingFine.penaltyDate" = "Дата нарушения";
 "payments.drivingFine.protocolNum" = "№ протокола";
 "auth.enterPincode.title" = "Введите код или приложите палец \n для быстрого доступа";
-"auth.enterPincode.wrongPin" = "Неверный код.\nУ вас осталось %s попытки.";
+"auth.enterPincode.wrongPin" = "Неверный код.\nУ вас осталось %i попытки.";
 "auth.pinInput.noAttempts" = "Превышено количество попыток";
 "payments.drivingFine.noFinesFound" = "Нарушений не найдено";
 "common.validation.invalidIin" = "Введен неверный ИИН";
