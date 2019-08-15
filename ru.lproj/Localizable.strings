@@ -125,3 +125,4 @@
 "auth.pinInput.noAttempts" = "Превышено количество попыток";
 "payments.drivingFine.noFinesFound" = "Нарушений не найдено";
 "common.validation.invalidIin" = "Введен неверный ИИН";
+"common.apply" = "Применить";
