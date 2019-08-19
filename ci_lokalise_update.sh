@@ -4,6 +4,7 @@
 #usage		 	:bash ci_lokalise_update_submodule.sh
 #===================================================================
 ​
+
 # Prerequisites:
 # - установленный lokalise CLI на машине
 # - залогиненный github account на локальной машине
