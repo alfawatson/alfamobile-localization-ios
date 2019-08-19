@@ -26,7 +26,7 @@ unzip -o $lokaliseProjectName.zip -d $lokaliseTempFolder
 echo "Localization: copying & pushing upstream"
 cp -r $lokaliseTempFolder/* .
 
-git remote set-url origin https://alfawatson:$GH_TOKEN@github.com/kalmurzayev/alfamobile-localization-ios.git
+git remote set-url origin https://alfawatson:$GH_TOKEN@github.com/alfawatson/alfamobile-localization-ios.git
 git add -u
 git commit -m "[ci skip] update iOS strings from Travis build stages"
 git push origin HEAD || { echo "Failed to push upstream localization submodule"; exit 1; }
