@@ -10,14 +10,10 @@
 # - залогиненный github account на локальной машине
 # - сообщить администратору Lokalise проекта свой github account
 ​
-# TODO: when utilized on CI machine, extract to ENV VARS
-lokToken='787fa5f994ceb8af0bbdbf5e60b39ce018050fdd'
-frontProjectID='198617855d12e725266131.61448006'
-apiProjectId='325570485d2ee5849e1a20.31367908'
 lokaliseTempFolder='.lokalise_temp'
 lokaliseProjectName='AlfaMobile_Front-Localizable'
 ​
-lokalise --token $lokToken export $frontProjectID --type strings --export_all 1 --export_empty base
+lokalise --token $LOKALISE_TOKEN export $LOKALISE_PROJECT_ID --type strings --export_all 1 --export_empty base
 if [ -z $lokaliseProjectName.zip ]
 then
     echo "No $lokaliseProjectName.zip file found"
@@ -29,6 +25,8 @@ unzip -o $lokaliseProjectName.zip -d $lokaliseTempFolder
 ​
 echo "Localization: copying & pushing upstream"
 cp -r $lokaliseTempFolder/* .
+
+git remote set-url origin https://alfawatson:$GH_TOKEN@github.com/kalmurzayev/alfamobile-localization-ios.git
 git add -u
 git commit -m "[ci skip] update iOS strings from Travis build stages"
 git push origin HEAD || { echo "Failed to push upstream localization submodule"; exit 1; }
