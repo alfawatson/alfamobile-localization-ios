@@ -126,3 +126,13 @@
 "payments.drivingFine.noFinesFound" = "Нарушений не найдено";
 "common.validation.invalidIin" = "Введен неверный ИИН";
 "common.apply" = "Применить";
+"common.retry" = "Повторить";
+"payments.common.accounts_empty" = "Нет доступных счетов";
+"payments.common.error" = "Что-то пошло не так, попробуйте еще раз";
+"common.phoneNumber.invalid" = "Неверный номер телефона";
+"payments.mobile.title" = "Мобильная связь";
+"payments.operationResult.resultInHistory" = "Результат платежа доступен в истории";
+"payments.operationResult.paid.amount" = "Оплата %s принята";
+"payments.mobile.operator" = "Оператор";
+"payments.operationResult.support" = "Служба поддержки";
+"payments.common.accounts.choose" = "Выберите счет для оплаты";
