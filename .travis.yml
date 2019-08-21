@@ -1,4 +1,9 @@
-jobs:
-  include:
-    - stage: update_localizations
-      script: ./ci_lokalise_update.sh
+install: skip
+script:
+  - ./lokalise_cli --token $LOKALISE_TOKEN export $LOKALISE_PROJECT_ID --type strings --unzip_to . --export_all 1 --export_empty base
+after_success:
+  - git remote set-url origin https://alfawatson:$GH_TOKEN@github.com/alfawatson/alfamobile-localization-ios.git
+  - git checkout $TRAVIS_BRANCH
+  - git add -u
+  - git commit -m "[skip ci] update iOS strings from Travis build stages"
+  - git push origin HEAD || { echo "Failed to push upstream localization submodule"; exit 1; }
