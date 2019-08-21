@@ -113,7 +113,7 @@
 "auth.pinInput.passNotEqual" = "Пароли не совпадают";
 "auth.pinInput.validation.error" = "Нельзя использовать простые пин коду 1111,2222,1234.";
 "auth.pinInput.repeatPass" = "Повторите код";
-"auth.pinInput.alertDialog.title" = "Вы действительно хотите выйти?";
+"auth.pinInput.alertDialog.title" = "Do you confirm you want to log out?";
 "auth.pinInput.alertDialog.mainText" = "Если вы нажмете на кнопку выйти, вам нужно будет авторизоваться с помощью номера телефона и карты. ";
 "payments.drivingFine.fio" = "FIO";
 "payments.drivingFine.iin" = "IIN";
@@ -121,7 +121,7 @@
 "payments.drivingFine.penaltyDate" = "Date of violation";
 "payments.drivingFine.protocolNum" = "Protocol No.";
 "auth.enterPincode.title" = "Введите код или приложите палец \n для быстрого доступа";
-"auth.enterPincode.wrongPin" = "Неверный код.\nУ вас осталось %i попытки.";
+"auth.enterPincode.wrongPin" = "Incorrect code. \n You have %i retries left.";
 "auth.pinInput.noAttempts" = "Превышено количество попыток";
 "payments.drivingFine.noFinesFound" = "No violations found";
 "common.validation.invalidIin" = "Incorrect IIN entered";
