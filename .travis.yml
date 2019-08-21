@@ -1,4 +1,4 @@
 jobs:
   include:
     - stage: update_localizations
-      script: ./ci_lokalise_update.sh
+      script: echo Azamat
