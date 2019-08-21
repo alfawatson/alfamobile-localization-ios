@@ -13,7 +13,7 @@
 lokaliseTempFolder='.lokalise_temp'
 lokaliseProjectName='AlfaMobile_Front-Localizable'
 ​
-lokalise --token $LOKALISE_TOKEN export $LOKALISE_PROJECT_ID --type strings --export_all 1 --export_empty base
+lokalise_cli --token $LOKALISE_TOKEN export $LOKALISE_PROJECT_ID --type strings --export_all 1 --export_empty base
 if [ -z $lokaliseProjectName.zip ]
 then
     echo "No $lokaliseProjectName.zip file found"
