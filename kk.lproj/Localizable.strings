@@ -113,7 +113,7 @@
 "auth.pinInput.passNotEqual" = "Пароли не совпадают";
 "auth.pinInput.validation.error" = "Нельзя использовать простые пин коду 1111,2222,1234.";
 "auth.pinInput.repeatPass" = "Повторите код";
-"auth.pinInput.alertDialog.title" = "Вы действительно хотите выйти?";
+"auth.pinInput.alertDialog.title" = "Шынымен шыққыңыз келе ме?";
 "auth.pinInput.alertDialog.mainText" = "Если вы нажмете на кнопку выйти, вам нужно будет авторизоваться с помощью номера телефона и карты. ";
 "payments.drivingFine.fio" = "Аты-жөні";
 "payments.drivingFine.iin" = "ЖСН";
@@ -136,3 +136,6 @@
 "payments.mobile.operator" = "Оператор";
 "payments.operationResult.support" = "Служба поддержки";
 "payments.common.accounts.choose" = "Выберите счет для оплаты";
+"payments.mobile.enterPhoneNumber" = "Введите номер телефона";
+"payments.mobile.payAmount" = "Оплатить %s ₸";
+"payments.accounts.noAvailable" = "Нет доступных счетов";

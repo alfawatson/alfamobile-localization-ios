@@ -136,3 +136,6 @@
 "payments.mobile.operator" = "Оператор";
 "payments.operationResult.support" = "Служба поддержки";
 "payments.common.accounts.choose" = "Выберите счет для оплаты";
+"payments.mobile.enterPhoneNumber" = "Введите номер телефона";
+"payments.mobile.payAmount" = "Оплатить %s ₸";
+"payments.accounts.noAvailable" = "Нет доступных счетов";
