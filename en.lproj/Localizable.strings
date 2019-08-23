@@ -96,7 +96,7 @@
 "common.information" = "Information";
 "transfers.international.noTransactionCallToAction" = "Transfers from card to card of world banks";
 "payments.invoiceForm.shownOnPaperReceipt" = "Indicated on paper receipt";
-"payments.invoiceForm.noReceiptsFound" = "There are no unpaid receipts for the specified details";
+"payments.invoiceForm.noReceiptsFou nd" = "There are no unpaid receipts for the specified details";
 "payments.common.newSearch" = "New search";
 "auth.temporaryPassword.getTemporaryPassword.first" = "Вам необходимо ";
 "auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в Call Center";
