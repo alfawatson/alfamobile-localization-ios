@@ -143,4 +143,3 @@
 "auth.touchInput.touchNotDistinguished" = "Отпечаток не распознан";
 "auth.touchInput.touchConfigChanged" = "Вход по отпечатку выключен, поскольку изменена конфигурация сканера отпечатков. Для его включения войдите в приложение другим способом и перейдите в настройки.";
 "auth.touchInput.touchScanner.error" = "Ошибка инициализации сканера отпечатка пальца";
-"payments.cellular.title" = "Мобильная связь";
