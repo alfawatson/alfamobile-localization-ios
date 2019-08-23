@@ -111,7 +111,7 @@
 "common.amount" = "Сома";
 "common.phoneNumber" = "Телефон нөмірі";
 "auth.pinInput.passNotEqual" = "Пароли не совпадают";
-"auth.pinInput.validation.error" = "Нельзя использовать простые пин коду 1111,2222,1234.";
+"auth.pinInput.validation.error" = "Нельзя использовать простые комбинации цифр (1111, 2345 и тд.)";
 "auth.pinInput.repeatPass" = "Повторите код";
 "auth.pinInput.alertDialog.title" = "Шынымен шыққыңыз келе ме?";
 "auth.pinInput.alertDialog.mainText" = "Если вы нажмете на кнопку выйти, вам нужно будет авторизоваться с помощью номера телефона и карты. ";
@@ -138,3 +138,9 @@
 "payments.common.accounts.choose" = "Выберите счет для оплаты";
 "payments.mobile.enterPhoneNumber" = "Введите номер телефона";
 "payments.mobile.payAmount" = "Оплатить %s ₸";
+"auth.smsValidation.noAttempts" = "Количество попыток закончилось. Запросите заново SMS.";
+"auth.touchInput.validation.error" = "Ошибка при обработке отпечатка пальца";
+"auth.touchInput.touchNotDistinguished" = "Отпечаток не распознан";
+"auth.touchInput.touchConfigChanged" = "Вход по отпечатку выключен, поскольку изменена конфигурация сканера отпечатков. Для его включения войдите в приложение другим способом и перейдите в настройки.";
+"auth.touchInput.touchScanner.error" = "Ошибка инициализации сканера отпечатка пальца";
+"payments.cellular.title" = "Мобильная связь";

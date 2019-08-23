@@ -96,7 +96,7 @@
 "common.information" = "Information";
 "transfers.international.noTransactionCallToAction" = "Transfers from card to card of world banks";
 "payments.invoiceForm.shownOnPaperReceipt" = "Indicated on paper receipt";
-"payments.invoiceForm.noReceiptsFou nd" = "There are no unpaid receipts for the specified details";
+"payments.invoiceForm.noReceiptsFound" = "There are no unpaid receipts for the specified details";
 "payments.common.newSearch" = "New search";
 "auth.temporaryPassword.getTemporaryPassword.first" = "Вам необходимо ";
 "auth.temporaryPassword.getTemporaryPassword.second" = "позвонить в Call Center";
@@ -111,7 +111,7 @@
 "common.amount" = "Amount";
 "common.phoneNumber" = "Phone number";
 "auth.pinInput.passNotEqual" = "Пароли не совпадают";
-"auth.pinInput.validation.error" = "Нельзя использовать простые пин коду 1111,2222,1234.";
+"auth.pinInput.validation.error" = "Нельзя использовать простые комбинации цифр (1111, 2345 и тд.)";
 "auth.pinInput.repeatPass" = "Повторите код";
 "auth.pinInput.alertDialog.title" = "Do you confirm you want to log out?";
 "auth.pinInput.alertDialog.mainText" = "Если вы нажмете на кнопку выйти, вам нужно будет авторизоваться с помощью номера телефона и карты. ";
@@ -138,3 +138,9 @@
 "payments.common.accounts.choose" = "Select an account to pay";
 "payments.mobile.enterPhoneNumber" = "Введите номер телефона";
 "payments.mobile.payAmount" = "Оплатить %s ₸";
+"auth.smsValidation.noAttempts" = "Количество попыток закончилось. Запросите заново SMS.";
+"auth.touchInput.validation.error" = "Ошибка при обработке отпечатка пальца";
+"auth.touchInput.touchNotDistinguished" = "Отпечаток не распознан";
+"auth.touchInput.touchConfigChanged" = "Вход по отпечатку выключен, поскольку изменена конфигурация сканера отпечатков. Для его включения войдите в приложение другим способом и перейдите в настройки.";
+"auth.touchInput.touchScanner.error" = "Ошибка инициализации сканера отпечатка пальца";
+"payments.cellular.title" = "Мобильная связь";
