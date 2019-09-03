@@ -150,11 +150,11 @@
 "products.card.status.notActive" = "Карта не активна";
 "products.card.status.blocked" = "Карта заблокирована";
 "products.card.unblock" = "Разблокировать";
-"settings.applePay.touchIdSettings" = "Apple Pay лучше работает c Touch ID и требует наличия код-пароля";
-"settings.applePay.faceIdSettings" = "Apple Pay лучше работает с Face ID и требует наличия код-пароля";
-"settings.applePay.setup" = "Настройка Apple Pay";
-"settings.applePay.biometricSetup" = "Настроить Face ID и код-пароль";
-"settings.applePay.connect" = "Подключить Apple Pay";
+"settings.applePay.touchIdSettings" = "Apple Pay Touch ID-мен жақсы істейді және код-парольді қажет етеді";
+"settings.applePay.faceIdSettings" = "Apple Pay Face ID-мен жақсы істейді және код-парольді қажет етеді";
+"settings.applePay.setup" = "Apple Pay орнату";
+"settings.applePay.biometricSetup" = "Face ID және коды-парольді орнату";
+"settings.applePay.connect" = "Apple Pay Қосу";
 "payments.invoiceForm.changeAmountHint" = "Сіз төленетін соманы өзгерте аласыз";
 "common.chooseAccount" = "Выберете счет";
 "common.notEnoughFunds" = "Шотта қаражат жеткіліксіз";

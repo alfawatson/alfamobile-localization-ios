@@ -150,11 +150,11 @@
 "products.card.status.notActive" = "Карта не активна";
 "products.card.status.blocked" = "Карта заблокирована";
 "products.card.unblock" = "Разблокировать";
-"settings.applePay.touchIdSettings" = "Apple Pay лучше работает c Touch ID и требует наличия код-пароля";
-"settings.applePay.faceIdSettings" = "Apple Pay лучше работает с Face ID и требует наличия код-пароля";
-"settings.applePay.setup" = "Настройка Apple Pay";
-"settings.applePay.biometricSetup" = "Настроить Face ID и код-пароль";
-"settings.applePay.connect" = "Подключить Apple Pay";
+"settings.applePay.touchIdSettings" = "Apple Pay works best with Touch ID and requires a Pass-code";
+"settings.applePay.faceIdSettings" = "Apple Pay works better with Face ID and requires a Pass-code";
+"settings.applePay.setup" = "Apple Pay settings";
+"settings.applePay.biometricSetup" = "Set Face ID and Pass-code";
+"settings.applePay.connect" = "Connect Apple Pay";
 "payments.invoiceForm.changeAmountHint" = "You can change the amount to pay";
 "common.chooseAccount" = "Выберете счет";
 "common.notEnoughFunds" = "Not enough funds in the account";
