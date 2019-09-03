@@ -170,3 +170,4 @@
 "auth.faceId.prompt" = "Использовать Face ID для быстрого входа в приложение?";
 "auth.touchInput.prompt" = "Использовать отпечаток пальца для быстрого входа в приложение?";
 "auth.registration.agreementPrefix" = "Я подтверждаю что ознакомлен и присоединяюсь к";
+"payments.invoiceForm.checkDebt" = "Проверить задолженность";
