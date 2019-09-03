@@ -34,5 +34,21 @@
         <string>%i fines for %@</string>
       </dict>
     </dict>
+    <key>auth.pinLogin.wrongPin</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format@</string>
+      <key>format</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>Incorrect code. \n You have %i retries left.</string>
+        <key>other</key>
+        <string>Incorrect code. \n You have %i retries left.</string>
+      </dict>
+    </dict>
   </dict>
 </plist>

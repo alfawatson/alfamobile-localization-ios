@@ -42,5 +42,25 @@
         <string>%i штрафов на %@</string>
       </dict>
     </dict>
+    <key>auth.pinLogin.wrongPin</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format@</string>
+      <key>format</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>Неверный код.\nУ вас осталось %i попытка.</string>
+        <key>few</key>
+        <string>Неверный код.\nУ вас осталось %i попытки.</string>
+        <key>many</key>
+        <string>Неверный код.\nУ вас осталось %i попытки.</string>
+        <key>other</key>
+        <string>Неверный код.\nУ вас осталось %i попытки.</string>
+      </dict>
+    </dict>
   </dict>
 </plist>
