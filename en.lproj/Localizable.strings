@@ -9,7 +9,7 @@
 "auth.creditCardInput.title" = "Enter your card number";
 "auth.creditCardInput.invalidCardNumber" = "Invalid card number";
 "auth.creditCardInput.forgotCardNumber" = "I don't remember the card number";
-"auth.registration.agreementText" = "I have %s and agree with the Bank's tariffs";
+"auth.registration.agreementText" = "I have %@ and agree with the Bank's tariffs";
 "transfers.international.onboardingTitle" = "International Transfers";
 "transfers.international.onboardingDescription" = "Make transfers from any Kazakhstan card to any card worldwide. Transfer commission starting from 0.7%%";
 "transfers.international.onboardingButtonTitle" = "Make a transfer";

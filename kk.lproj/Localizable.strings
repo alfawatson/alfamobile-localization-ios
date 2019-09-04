@@ -9,7 +9,7 @@
 "auth.creditCardInput.title" = "Карта нөмірін енгізіңіз";
 "auth.creditCardInput.invalidCardNumber" = "Жарамсыз карта нөмірі";
 "auth.creditCardInput.forgotCardNumber" = "Картаның нөмірі есімде жоқ";
-"auth.registration.agreementText" = "Мен Банктің тарифтерін %s және келісемін";
+"auth.registration.agreementText" = "Мен Банктің тарифтерін %@ және келісемін";
 "transfers.international.onboardingTitle" = "Халықаралық аударымдар";
 "transfers.international.onboardingDescription" = "Қазақстандық картадан әлемнің кез-келген банк картасына аударым жасаңыз. Аударым комиссия - 0,7%%";
 "transfers.international.onboardingButtonTitle" = "Аударманы жасау";

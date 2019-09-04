@@ -9,7 +9,7 @@
 "auth.creditCardInput.title" = "Введите номер карты";
 "auth.creditCardInput.invalidCardNumber" = "Неверный номер карты";
 "auth.creditCardInput.forgotCardNumber" = "Не помню номер карты";
-"auth.registration.agreementText" = "с тарифами Банка %s и согласен";
+"auth.registration.agreementText" = "с тарифами Банка %@ и согласен";
 "transfers.international.onboardingTitle" = "Международные переводы";
 "transfers.international.onboardingDescription" = "Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%%";
 "transfers.international.onboardingButtonTitle" = "Совершить перевод";

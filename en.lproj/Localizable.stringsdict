@@ -13,9 +13,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>li</string>
         <key>one</key>
-        <string>%i try left</string>
+        <string>%li try left</string>
         <key>other</key>
-        <string>%i tries left</string>
+        <string>%li tries left</string>
       </dict>
     </dict>
     <key>payments.drivingFine.finesCount</key>
@@ -45,9 +45,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>li</string>
         <key>one</key>
-        <string>Incorrect code. \n You have %i retries left.</string>
+        <string>Incorrect code. \n You have %li retries left.</string>
         <key>other</key>
-        <string>Incorrect code. \n You have %i retries left.</string>
+        <string>Incorrect code. \n You have %li retries left.</string>
       </dict>
     </dict>
   </dict>
