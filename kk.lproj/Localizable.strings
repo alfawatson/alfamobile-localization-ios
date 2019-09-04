@@ -9,7 +9,7 @@
 "auth.creditCardInput.title" = "Карта нөмірін енгізіңіз";
 "auth.creditCardInput.invalidCardNumber" = "Жарамсыз карта нөмірі";
 "auth.creditCardInput.forgotCardNumber" = "Картаның нөмірі есімде жоқ";
-"auth.registration.agreementText" = "Мен Банктің тарифтерін оқып шықтым және келісемін";
+"auth.registration.agreementText" = "Мен Банктің тарифтерін %s және келісемін";
 "transfers.international.onboardingTitle" = "Халықаралық аударымдар";
 "transfers.international.onboardingDescription" = "Қазақстандық картадан әлемнің кез-келген банк картасына аударым жасаңыз. Аударым комиссия - 0,7%%";
 "transfers.international.onboardingButtonTitle" = "Аударманы жасау";
@@ -34,7 +34,7 @@
 "common.cancel" = "Болдырмау";
 "auth.pinInput.repeatPin" = "Кодты қайталаңыз";
 "common.call" = "Шалу";
-"auth.temporaryPassword.getTemporaryPassword" = "Сізге байланыс орталығына қоңырау шалып, \n уақытша пароль алу керек";
+"auth.temporaryPassword.getTemporaryPassword" = "Сізге байланыс орталығына қоңырау шалып, уақытша пароль алу керек";
 "auth.temporaryPassword.name" = "Уақытша пароль";
 "auth.temporaryPassword.callCenterForFree" = "Байланыс орталығына қоңырау шалыңыз. Ұялы телефоннан тегін.";
 "payments.invoiceForm.checkInvoice" = "Түбіртекті тексеру";
@@ -171,3 +171,4 @@
 "auth.touchInput.prompt" = "Использовать отпечаток пальца для быстрого входа в приложение?";
 "auth.registration.agreementPrefix" = "Я подтверждаю что ознакомлен и присоединяюсь к";
 "payments.invoiceForm.checkDebt" = "Проверить задолженность";
+"auth.registration.agreementText.colored" = "оқып шықтым";

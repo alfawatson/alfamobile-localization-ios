@@ -9,7 +9,7 @@
 "auth.creditCardInput.title" = "Enter your card number";
 "auth.creditCardInput.invalidCardNumber" = "Invalid card number";
 "auth.creditCardInput.forgotCardNumber" = "I don't remember the card number";
-"auth.registration.agreementText" = "I have read and agree with the Bank's tariffs";
+"auth.registration.agreementText" = "I have %s and agree with the Bank's tariffs";
 "transfers.international.onboardingTitle" = "International Transfers";
 "transfers.international.onboardingDescription" = "Make transfers from any Kazakhstan card to any card worldwide. Transfer commission starting from 0.7%%";
 "transfers.international.onboardingButtonTitle" = "Make a transfer";
@@ -34,7 +34,7 @@
 "common.cancel" = "Cancel";
 "auth.pinInput.repeatPin" = "Confirm code";
 "common.call" = "Call";
-"auth.temporaryPassword.getTemporaryPassword" = "You need to call the call center \n and get a temporary password";
+"auth.temporaryPassword.getTemporaryPassword" = "You need to call the call center and get a temporary password";
 "auth.temporaryPassword.name" = "Temporary Password";
 "auth.temporaryPassword.callCenterForFree" = "Call the call center. Free from mobile phone.";
 "payments.invoiceForm.checkInvoice" = "Check receipt";
@@ -171,3 +171,4 @@
 "auth.touchInput.prompt" = "Использовать отпечаток пальца для быстрого входа в приложение?";
 "auth.registration.agreementPrefix" = "Я подтверждаю что ознакомлен и присоединяюсь к";
 "payments.invoiceForm.checkDebt" = "Проверить задолженность";
+"auth.registration.agreementText.colored" = "read";

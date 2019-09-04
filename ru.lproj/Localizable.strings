@@ -9,7 +9,7 @@
 "auth.creditCardInput.title" = "Введите номер карты";
 "auth.creditCardInput.invalidCardNumber" = "Неверный номер карты";
 "auth.creditCardInput.forgotCardNumber" = "Не помню номер карты";
-"auth.registration.agreementText" = "с тарифами Банка ознакомлен и согласен";
+"auth.registration.agreementText" = "с тарифами Банка %s и согласен";
 "transfers.international.onboardingTitle" = "Международные переводы";
 "transfers.international.onboardingDescription" = "Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%%";
 "transfers.international.onboardingButtonTitle" = "Совершить перевод";
@@ -34,7 +34,7 @@
 "common.cancel" = "Отмена";
 "auth.pinInput.repeatPin" = "Подтвердите код";
 "common.call" = "Вызов";
-"auth.temporaryPassword.getTemporaryPassword" = "Вам необходимо позвонить в Call Center \nи получить временный пароль";
+"auth.temporaryPassword.getTemporaryPassword" = "Вам необходимо позвонить в Call Center и получить временный пароль";
 "auth.temporaryPassword.name" = "Временный пароль";
 "auth.temporaryPassword.callCenterForFree" = "Позвонить в Call Center. Бесплатно с мобильного телефона.";
 "payments.invoiceForm.checkInvoice" = "Проверить квитанцию";
@@ -171,3 +171,4 @@
 "auth.touchInput.prompt" = "Использовать отпечаток пальца для быстрого входа в приложение?";
 "auth.registration.agreementPrefix" = "Я подтверждаю что ознакомлен и присоединяюсь к";
 "payments.invoiceForm.checkDebt" = "Проверить задолженность";
+"auth.registration.agreementText.colored" = "ознакомлен";
