@@ -29,9 +29,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>li</string>
         <key>one</key>
-        <string>%@-ге %i айыппұл бар</string>
+        <string>%@-ге %li айыппұл бар</string>
         <key>other</key>
-        <string>%@-ге %i айыппұл бар</string>
+        <string>%@-ге %li айыппұл бар</string>
       </dict>
     </dict>
     <key>auth.pinLogin.wrongPin</key>

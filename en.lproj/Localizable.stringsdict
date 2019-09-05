@@ -29,9 +29,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>li</string>
         <key>one</key>
-        <string>%i fine for %@</string>
+        <string>%li fine for %@</string>
         <key>other</key>
-        <string>%i fines for %@</string>
+        <string>%li fines for %@</string>
       </dict>
     </dict>
     <key>auth.pinLogin.wrongPin</key>

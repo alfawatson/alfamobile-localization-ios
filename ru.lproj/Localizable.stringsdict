@@ -33,13 +33,13 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>li</string>
         <key>one</key>
-        <string>%i штраф на %@</string>
+        <string>%li штраф на %@</string>
         <key>few</key>
-        <string>%i штрафа на %@</string>
+        <string>%li штрафа на %@</string>
         <key>many</key>
-        <string>%i штрафов на %@</string>
+        <string>%li штрафов на %@</string>
         <key>other</key>
-        <string>%i штрафов на %@</string>
+        <string>%li штрафов на %@</string>
       </dict>
     </dict>
     <key>auth.pinLogin.wrongPin</key>

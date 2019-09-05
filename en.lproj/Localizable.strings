@@ -107,7 +107,7 @@
 "common.fromAccount" = "From account";
 "common.amount" = "Amount";
 "common.phoneNumber" = "Phone number";
-"auth.pinInput.passNotEqual" = "Пароли не совпадают";
+"auth.pinInput.passNotEqual" = "Коды не совпадают";
 "auth.pinInput.validation.error" = "Нельзя использовать простые комбинации цифр (1111, 2345 и тд.)";
 "auth.pinInput.repeatPass" = "Повторите код";
 "auth.pinLogin.alertDialog.title" = "Do you confirm you want to log out?";
@@ -172,3 +172,5 @@
 "auth.registration.agreementPrefix" = "Я подтверждаю что ознакомлен и присоединяюсь к";
 "payments.invoiceForm.checkDebt" = "Проверить задолженность";
 "auth.registration.agreementText.colored" = "read";
+"payments.drivingFine.checking" = "Checking for fines ...";
+"payments.simple.checkAgain" = "Проверить еще раз";

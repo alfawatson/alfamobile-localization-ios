@@ -107,7 +107,7 @@
 "common.fromAccount" = "Шоттан";
 "common.amount" = "Сома";
 "common.phoneNumber" = "Телефон нөмірі";
-"auth.pinInput.passNotEqual" = "Пароли не совпадают";
+"auth.pinInput.passNotEqual" = "Коды не совпадают";
 "auth.pinInput.validation.error" = "Нельзя использовать простые комбинации цифр (1111, 2345 и тд.)";
 "auth.pinInput.repeatPass" = "Повторите код";
 "auth.pinLogin.alertDialog.title" = "Шынымен шыққыңыз келе ме?";
@@ -172,3 +172,5 @@
 "auth.registration.agreementPrefix" = "Я подтверждаю что ознакомлен и присоединяюсь к";
 "payments.invoiceForm.checkDebt" = "Проверить задолженность";
 "auth.registration.agreementText.colored" = "оқып шықтым";
+"payments.drivingFine.checking" = "Болуын тексеру айыппұл...";
+"payments.simple.checkAgain" = "Проверить еще раз";
