@@ -45,11 +45,11 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>li</string>
         <key>one</key>
-        <string>Неверный код.\nУ вас осталось %li попытка.</string>
+        <string>Неверный код.\nУ вас осталась %li попытка.</string>
         <key>few</key>
         <string>Неверный код.\nУ вас осталось %li попытки.</string>
         <key>many</key>
-        <string>Неверный код.\nУ вас осталось %li попытки.</string>
+        <string>Неверный код.\nУ вас осталось %li попыток.</string>
         <key>other</key>
         <string>Неверный код.\nУ вас осталось %li попытки.</string>
       </dict>

@@ -162,7 +162,7 @@
 "common.validation.empty" = "Please fill in the field to continue.";
 "common.validation.invalid" = "The field is not filled correctly";
 "common.logout" = "Выйти";
-"auth.pinLogin.enterPin" = "Введите код для быстрого входа";
+"auth.pinLogin.enterPin" = "Введите код \nдля быстрого входа";
 "auth.pinLogin.forgotPin" = "Forgot \npassword?";
 "auth.pinInput.cancelRegister" = "Cancel Registration";
 "auth.pinInput.cancelRegisterMessage" = "Если вы нажмёте на кнопку выйти, все данные регистрации будут потеряны ";
@@ -174,3 +174,5 @@
 "auth.registration.agreementText.colored" = "read";
 "payments.drivingFine.checking" = "Checking for fines ...";
 "payments.simple.checkAgain" = "Проверить еще раз";
+"payments.common.notEnoughMoney" = "Сумма операции превышает остаток на счете";
+"common.fillAllfields" = "Заполните все поля";

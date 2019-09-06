@@ -162,7 +162,7 @@
 "common.validation.empty" = "Жалғастыру үшін өрісті толтырыңыз.";
 "common.validation.invalid" = "Өріс дұрыс толтырылмаған";
 "common.logout" = "Выйти";
-"auth.pinLogin.enterPin" = "Введите код для быстрого входа";
+"auth.pinLogin.enterPin" = "Введите код \nдля быстрого входа";
 "auth.pinLogin.forgotPin" = "Забыли \nпароль?";
 "auth.pinInput.cancelRegister" = "Отменить регистрацию";
 "auth.pinInput.cancelRegisterMessage" = "Если вы нажмёте на кнопку выйти, все данные регистрации будут потеряны ";
@@ -174,3 +174,5 @@
 "auth.registration.agreementText.colored" = "оқып шықтым";
 "payments.drivingFine.checking" = "Болуын тексеру айыппұл...";
 "payments.simple.checkAgain" = "Проверить еще раз";
+"payments.common.notEnoughMoney" = "Сумма операции превышает остаток на счете";
+"common.fillAllfields" = "Заполните все поля";
