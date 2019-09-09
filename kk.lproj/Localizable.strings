@@ -180,4 +180,4 @@
 "payments.common.all" = "Барлығы";
 "payments.common.favorites" = "Жиі";
 "payments.common.history" = "Тарихы";
-"payments.InvoiceForm.debtOnDate" = "%@ на %@";
+"payments.invoiceForm.debtOnDate" = "%@ на %@";

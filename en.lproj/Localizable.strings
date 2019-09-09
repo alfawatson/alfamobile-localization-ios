@@ -180,4 +180,4 @@
 "payments.common.all" = "All";
 "payments.common.favorites" = "Favorites";
 "payments.common.history" = "History";
-"payments.InvoiceForm.debtOnDate" = "%@ на %@";
+"payments.invoiceForm.debtOnDate" = "%@ на %@";
