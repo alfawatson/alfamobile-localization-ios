@@ -176,3 +176,7 @@
 "payments.simple.checkAgain" = "Проверить еще раз";
 "payments.common.notEnoughMoney" = "Сумма операции превышает остаток на счете";
 "common.fillAllfields" = "Заполните все поля";
+"payments.common.payments" = "Платежи";
+"payments.common.all" = "Все";
+"payments.common.favorites" = "Частые";
+"payments.common.history" = "История";
