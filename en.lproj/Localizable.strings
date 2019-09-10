@@ -181,3 +181,5 @@
 "payments.common.favorites" = "Favorites";
 "payments.common.history" = "History";
 "payments.invoiceForm.debtOnDate" = "%@ на %@";
+"auth.touchInput.reason" = "Используйте отпечаток пальца для входа";
+"auth.faceId.reason" = "Используйте Face ID для входа в приложение";

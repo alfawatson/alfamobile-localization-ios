@@ -157,7 +157,7 @@
 "settings.applePay.connect" = "Подключить Apple Pay";
 "payments.invoiceForm.changeAmountHint" = "Вы можете изменить сумму к оплате";
 "common.chooseAccount" = "Выберете счет";
-"common.notEnoughFunds" = "Недостаточно средств на счету";
+"common.notEnoughFunds" = "Недостаточно средств на выбранном счете";
 "common.enterAmount" = "Введите сумму";
 "common.validation.empty" = "Пожалуйста, заполните поле что бы продолжить";
 "common.validation.invalid" = "Поле заполнено не корректно";
@@ -181,3 +181,5 @@
 "payments.common.favorites" = "Частые";
 "payments.common.history" = "История";
 "payments.invoiceForm.debtOnDate" = "%@ на %@";
+"auth.touchInput.reason" = "Используйте отпечаток пальца для входа";
+"auth.faceId.reason" = "Используйте Face ID для входа в приложение";
