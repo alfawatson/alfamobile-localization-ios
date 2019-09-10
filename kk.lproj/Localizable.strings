@@ -183,3 +183,5 @@
 "payments.invoiceForm.debtOnDate" = "%@ на %@";
 "auth.touchInput.reason" = "Используйте отпечаток пальца для входа";
 "auth.faceId.reason" = "Используйте Face ID для входа в приложение";
+"payments.invoiceForm.accountNumber" = "Шот нөмірі";
+"payments.subscriptions.delete" = "Жиілерден алып тастау";
