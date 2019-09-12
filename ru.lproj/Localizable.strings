@@ -187,3 +187,4 @@
 "payments.subscriptions.delete" = "Удалить из Частых";
 "auth_pinLogin_attempt_exceeded_title" = "Вы исчерпали попытки входа";
 "auth_pinLogin_attempt_exceeded_text" = "Восстановите пароль и попробуйте снова, это займет не более 2-х минут";
+"payments.barcodeInstruction" = "Наведите рамку на штрих-код";
