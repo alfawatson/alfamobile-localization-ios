@@ -211,3 +211,5 @@
 "products.card.action.block.title" = "Блокировать карту";
 "products.card.action.block.subTitle" = "Временная блокировка";
 "products.card.action.unblock.title" = "Разблокировать карту";
+"products.card.actions" = "Управление";
+"products.card.statement" = "Выписка";
