@@ -185,3 +185,5 @@
 "auth.faceId.reason" = "Используйте Face ID для входа в приложение";
 "payments.invoiceForm.accountNumber" = "Account number";
 "payments.subscriptions.delete" = "Remove from Favorites";
+"auth_pinLogin_attempt_exceeded_title" = "Вы исчерпали попытки входа";
+"auth_pinLogin_attempt_exceeded_text" = "Восстановите пароль и попробуйте снова, это займет не более 2-х минут";
