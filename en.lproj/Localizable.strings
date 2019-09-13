@@ -213,3 +213,6 @@
 "products.card.action.unblock.title" = "Разблокировать карту";
 "products.card.actions" = "Управление";
 "products.card.statement" = "Выписка";
+"products.card.setPinCode.title" = "Установите пин-код";
+"products.card.limits.mainTitle" = "Общий лимит \n(на все операции по карте)";
+"products.card.limits.atm.title" = "Снятие наличных в банкоматах";
