@@ -228,3 +228,6 @@
 "common.filters.to" = "По";
 "common.filters.title" = "Фильтр";
 "common.filters.datePlaceholder" = "ДД/ММ/ГГГ";
+"common.filters.error.dates" = "Даты";
+"common.filters.error.enterDateFrom" = "Введите дату начала периода";
+"common.filters.error.enterDateTo" = "Введите дату конца периода";
