@@ -216,3 +216,15 @@
 "products.card.setPinCode.title" = "Установите пин-код";
 "products.card.limits.mainTitle" = "Общий лимит \n(на все операции по карте)";
 "products.card.limits.atm.title" = "Снятие наличных в банкоматах";
+"common.filters" = "Фильтры";
+"common.filters.reset" = "Сбросить все";
+"common.filters.weekly" = "За неделю";
+"common.filters.month" = "За месяц";
+"common.filters.month.three" = "За три месяца";
+"common.filters.year.half" = "За полгода";
+"common.filters.year" = "За год";
+"common.filters.period" = "За период";
+"common.filters.from" = "C";
+"common.filters.to" = "По";
+"common.filters.title" = "Фильтр";
+"common.filters.datePlaceholder" = "ДД/ММ/ГГГ";
