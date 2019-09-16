@@ -231,3 +231,9 @@
 "common.filters.error.dates" = "Даты";
 "common.filters.error.enterDateFrom" = "Введите дату начала периода";
 "common.filters.error.enterDateTo" = "Введите дату конца периода";
+"products.card.block.title" = "Блокировка карты";
+"products.card.block.subtitle" = "Вы уверены, что хотите заблокировать карту?";
+"products.card.limits.spent" = "Потрачено %@ из %@";
+"common.day" = "день";
+"common.month" = "мес";
+"products.card.limit" = "Лимит";
