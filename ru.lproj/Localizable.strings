@@ -163,7 +163,7 @@
 "common.validation.invalid" = "Поле заполнено не корректно";
 "common.logout" = "Выйти";
 "auth.pinLogin.enterPin" = "Введите код \nдля быстрого входа";
-"auth.pinLogin.forgotPin" = "Забыли \nпароль?";
+"auth.pinLogin.forgotPin" = "Забыли \nкод?";
 "auth.pinInput.cancelRegister" = "Отменить регистрацию";
 "auth.pinInput.cancelRegisterMessage" = "Если вы нажмёте на кнопку выйти, все данные регистрации будут потеряны ";
 "common.stay" = "Остаться";
@@ -239,3 +239,10 @@
 "products.card.limit" = "Лимит";
 "products.card.limits.pos.title" = "Оплата картой (через POS-терминалы)";
 "common.funds.add" = "Пополнить";
+"payments.subscriptions.invoice.new" = "Новая квитанция";
+"payments.subscriptions.invoice.no" = "Нет новых квитанций";
+"common.loading" = "Загрузка";
+"products.card.status.action.activated" = "Карта активирована!";
+"products.card.status.action.blocked" = "Карта заблокирована!";
+"products.card.status.action.unblocked" = "Карта разблокирована!";
+"payments.drivingFine.fio.hint" = "Укажите данные, как в документе, используя буквы казахского алфавита, если необходимо";
