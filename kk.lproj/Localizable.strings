@@ -237,3 +237,5 @@
 "common.day" = "день";
 "common.month" = "мес";
 "products.card.limit" = "Лимит";
+"products.card.limits.pos.title" = "Оплата картой (через POS-терминалы)";
+"common.funds.add" = "Пополнить";
