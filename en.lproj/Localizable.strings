@@ -251,3 +251,6 @@
 "products.card.limit.set.title" = "Текущий лимит*";
 "common.noItemsFound" = "Ничего не нашли";
 "payments.history.noPaymentsInPeriod" = "В выбранный период платежей не было";
+"common.edit" = "Изменить";
+"products.card.action.internetTransaction.on" = "Интернет транзакции включены!";
+"products.card.action.internetTransaction.off" = "Интернет транзакции выключены!";
