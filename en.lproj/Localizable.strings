@@ -246,3 +246,8 @@
 "products.card.status.action.blocked" = "Карта заблокирована!";
 "products.card.status.action.unblocked" = "Карта разблокирована!";
 "payments.drivingFine.fio.hint" = "Укажите данные, как в документе, используя буквы казахского алфавита, если необходимо";
+"common.today" = "Сегодня";
+"common.yesterday" = "Вчера";
+"products.card.limit.set.title" = "Текущий лимит*";
+"common.noItemsFound" = "Ничего не нашли";
+"payments.history.noPaymentsInPeriod" = "В выбранный период платежей не было";
