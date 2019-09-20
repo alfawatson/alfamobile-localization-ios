@@ -214,7 +214,7 @@
 "products.card.actions" = "Управление";
 "products.card.statement" = "Выписка";
 "products.card.setPinCode.title" = "Установите пин-код";
-"products.card.limits.mainTitle" = "Общий лимит \n(на все операции по карте)";
+"products.card.limits.mainTitle" = "Лимит на все операции по карте";
 "products.card.limits.atm.title" = "Снятие наличных в банкоматах";
 "common.filters" = "Фильтры";
 "common.filters.reset" = "Сбросить все";
@@ -254,3 +254,14 @@
 "common.edit" = "Изменить";
 "products.card.action.internetTransaction.on" = "Интернет транзакции включены!";
 "products.card.action.internetTransaction.off" = "Интернет транзакции выключены!";
+"products.card.limit.noMore" = "не более %@";
+"products.card.alfacheck.title" = "Услуга \"Альфа-Чек\"";
+"products.card.alfacheck.mainDescription" = "Получайте моментальные SMS уведомления или push-уведомления:";
+"products.card.alfacheck.goods" = "о покупках";
+"products.card.alfacheck.balance" = "об остатках";
+"products.card.alfacheck.limits" = "о лимитах";
+"common.changesSaved" = "Изменения сохранены";
+"common.serviceEnabled" = "Услуга подключена";
+"products.card.limits.atm.description" = "* Лимит действует 24 часа с момента первого снятия в банкоматах";
+"products.card.limits.pos.description" = "* Лимит действует 24 часа с момента первой оплаты через POS терминал";
+"payments.all.searchPlaceholder" = "Қызмет атауын енгізіңіз";
