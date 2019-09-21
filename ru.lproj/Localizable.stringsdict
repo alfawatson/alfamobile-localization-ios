@@ -62,5 +62,25 @@
         <string>Неверный код.\nУ вас осталось %li попытки.</string>
       </dict>
     </dict>
+    <key>payments.drivingFine.result.finesCount</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format@</string>
+      <key>format</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li штраф ПДД</string>
+        <key>few</key>
+        <string>%li штрафа ПДД</string>
+        <key>many</key>
+        <string>%li штрафов ПДД</string>
+        <key>other</key>
+        <string>%li штрафов ПДД</string>
+      </dict>
+    </dict>
   </dict>
 </plist>
