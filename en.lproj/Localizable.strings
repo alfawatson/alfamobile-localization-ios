@@ -265,3 +265,15 @@
 "products.card.limits.atm.description" = "* Лимит действует 24 часа с момента первого снятия в банкоматах";
 "products.card.limits.pos.description" = "* Лимит действует 24 часа с момента первой оплаты через POS терминал";
 "payments.all.searchPlaceholder" = "Enter service name";
+"products.statement.holdTitle" = "В обработке";
+"common.filters.fromTo" = "С %@ по %@";
+"common.filters.allOperationForPerior" = "Все операции %@";
+"products.statement.updateTimeTitle" = "Выписка актуальная на %@";
+"products.requisites.account" = "Номер счета";
+"products.requisites.cardNumber" = "Номер карты";
+"products.requisites.name" = "ФИО клиента";
+"products.requisites.idn" = "ИИН клиента";
+"products.requisites.bank" = "Банк получателя";
+"products.requisites.bik" = "БИК получателя";
+"products.requisites.send" = "Отправить реквизиты";
+"Common.myCards" = "Мои карты";
