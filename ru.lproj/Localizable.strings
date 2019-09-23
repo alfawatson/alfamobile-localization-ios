@@ -276,4 +276,4 @@
 "products.requisites.bank" = "Банк получателя";
 "products.requisites.bik" = "БИК получателя";
 "products.requisites.send" = "Отправить реквизиты";
-"Common.myCards" = "Мои карты";
+"common.myCards" = "Мои карты";
