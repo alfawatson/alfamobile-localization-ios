@@ -282,3 +282,10 @@
 "products.card.action.changeCurrency.main" = "Основная";
 "products.card.action.changeCurrency.chooseCurrency" = "Выберите валюту";
 "products.card.action.changeCurrency.footerNote" = "При любых транзакциях по карте, средства будут сниматься с выбранного счета";
+"common.itemCopied" = "%@ скопирован.";
+"p2p.common.cardDoesNotExist" = "Card with such number does not exist";
+"common.done" = "Done";
+"common.selectFromList" = "Select from list";
+"p2p.common.saveCardData" = "Save card data";
+"p2p.common.cardName" = "Card name";
+"p2p.common.newCard" = "New card";
