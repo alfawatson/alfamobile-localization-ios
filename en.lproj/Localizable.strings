@@ -294,3 +294,8 @@
 "p2p.common.invalidCvv" = "Invalid CVV";
 "p2p.common.expiryDate" = "Expiration Date";
 "common.add" = "Add";
+"common.enable" = "Подключить";
+"products.card.alfacheck.phoneTitle" = "Ваш номер телефона";
+"banking.statement.updateDate" = "Выписка актуальна на %@";
+"banking.statement.weekFilter" = "Все операции за неделю";
+"banking.statement.filteredEmpty" = "Нет операций по карте за выбранный период";
