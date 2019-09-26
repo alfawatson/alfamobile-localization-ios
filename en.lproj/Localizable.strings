@@ -289,3 +289,4 @@
 "p2p.common.saveCardData" = "Save card data";
 "p2p.common.cardName" = "Card name";
 "p2p.common.newCard" = "New card";
+"products.card.limits.limitSet" = "Лимит изменен!";

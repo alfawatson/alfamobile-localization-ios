@@ -289,3 +289,4 @@
 "p2p.common.saveCardData" = "Карта деректерін сақтау";
 "p2p.common.cardName" = "Картаның атауы";
 "p2p.common.newCard" = "Жаңа карта";
+"products.card.limits.limitSet" = "Лимит изменен!";
