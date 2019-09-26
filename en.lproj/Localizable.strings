@@ -290,3 +290,7 @@
 "p2p.common.cardName" = "Card name";
 "p2p.common.newCard" = "New card";
 "products.card.limits.limitSet" = "Лимит изменен!";
+"p2p.common.invalidExpiryDate" = "Invalid expiration date";
+"p2p.common.invalidCvv" = "Invalid CVV";
+"p2p.common.expiryDate" = "Expiration Date";
+"common.add" = "Add";

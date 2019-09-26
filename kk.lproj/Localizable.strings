@@ -290,3 +290,7 @@
 "p2p.common.cardName" = "Картаның атауы";
 "p2p.common.newCard" = "Жаңа карта";
 "products.card.limits.limitSet" = "Лимит изменен!";
+"p2p.common.invalidExpiryDate" = "Жарамдылық мерзімі жарамсыз";
+"p2p.common.invalidCvv" = "CVV жарамсыз";
+"p2p.common.expiryDate" = "Жарамдылық мерзімі";
+"common.add" = "Қосу";
