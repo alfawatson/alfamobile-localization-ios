@@ -274,7 +274,7 @@
 "products.requisites.name" = "ФИО клиента";
 "products.requisites.idn" = "ИИН клиента";
 "products.requisites.bank" = "Банк получателя";
-"products.requisites.bik" = "БИК получателя";
+"products.requisites.bik" = "БИК банка";
 "products.requisites.send" = "Отправить реквизиты";
 "common.myCards" = "Мои карты";
 "products.card.action.changeCurrency.usdSubtitle" = "$ - доллар";
@@ -299,3 +299,6 @@
 "banking.statement.updateDate" = "Выписка актуальна на %@";
 "banking.statement.weekFilter" = "Все операции за неделю";
 "banking.statement.filteredEmpty" = "Нет операций по карте за выбранный период";
+"products.requisites.kztAccountNumber" = "Номер тенгового счета";
+"products.requisites.usdAccountNumber" = "Номер долларового счета";
+"products.requisites.eurAccountNumber" = "Номер еврового счета";
