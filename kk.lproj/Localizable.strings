@@ -302,3 +302,9 @@
 "products.requisites.kztAccountNumber" = "Номер тенгового счета";
 "products.requisites.usdAccountNumber" = "Номер долларового счета";
 "products.requisites.eurAccountNumber" = "Номер еврового счета";
+"common.save" = " Сохранить";
+"products.card.action.name.enterName" = "Введите название карты";
+"p2p.common.savedCards" = "Сақталған карталар";
+"p2p.common.myCards" = "Менің карталарым";
+"p2p.addCard.showAllMyCards" = "Менің барлық карталарымды көрсету";
+"p2p.addCard.addNewCard" = "Жаңа карта қосыңыз";
