@@ -308,3 +308,13 @@
 "p2p.common.myCards" = "Мои карты";
 "p2p.addCard.showAllMyCards" = "Показать все мои карты";
 "p2p.addCard.addNewCard" = "Добавить новую карту";
+"transfers.addCard.choose" = "Выберите карту";
+"transfers.p2p.title" = "С карты на карту";
+"transfers.p2p.commission.progress" = "Производится расчет комиссии…";
+"transfers.p2p.to" = "Куда";
+"transfers.p2p.limits" = "Лимиты и тарифы";
+"transfers.p2p.cards.empty.title" = "Нет сохраненных карт";
+"transfers.p2p.cards.empty.message" = "Введите данные новой карты на странице перевода";
+"transfers.p2p.cvv.message" = "3 последние цифры на обратной стороне карты";
+"payments.common.to" = "Куда";
+"payments.common.confirm" = "Подтвердить";

@@ -123,7 +123,7 @@
 "common.validation.invalidIin" = "ЖСН қате енгізілді";
 "common.apply" = "Қолдану";
 "common.retry" = "Қайталаңыз";
-"payments.common.accounts_empty" = "Нет доступных счетов";
+"payments.common.accounts_empty" = "Айыппұлдар жоқ";
 "payments.common.error" = "Что-то пошло не так, попробуйте еще раз";
 "common.phoneNumber.invalid" = "Неверный номер телефона";
 "payments.mobile.title" = "Мобильная связь";
@@ -308,3 +308,13 @@
 "p2p.common.myCards" = "Менің карталарым";
 "p2p.addCard.showAllMyCards" = "Менің барлық карталарымды көрсету";
 "p2p.addCard.addNewCard" = "Жаңа карта қосыңыз";
+"transfers.addCard.choose" = "Выберите карту";
+"transfers.p2p.title" = "С карты на карту";
+"transfers.p2p.commission.progress" = "Производится расчет комиссии…";
+"transfers.p2p.to" = "Куда";
+"transfers.p2p.limits" = "Лимиты и тарифы";
+"transfers.p2p.cards.empty.title" = "Нет сохраненных карт";
+"transfers.p2p.cards.empty.message" = "Введите данные новой карты на странице перевода";
+"transfers.p2p.cvv.message" = "3 последние цифры на обратной стороне карты";
+"payments.common.to" = "Қайда";
+"payments.common.confirm" = "Растау";
