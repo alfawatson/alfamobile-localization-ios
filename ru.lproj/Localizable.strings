@@ -327,3 +327,5 @@
 переводы";
 "transfers.result.retryButton" = "Повторить\
 перевод";
+"transfers.result.retryButtonOneLine" = "Повторить перевод";
+"transfers.result.returnButtonOneLine" = "Вернуться в переводы";
