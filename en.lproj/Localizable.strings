@@ -322,5 +322,5 @@
 "transfers.result.successTitle" = "Transfer accepted";
 "transfers.result.failureTitle" = "Transfer declined";
 "transfers.result.historyButton" = "Transfer\nhistory";
-"transfers.result.returnButton" = "Back to\ntransfers";
+"transfers.result.returnButton" = "Back to transfers";
 "transfers.result.retryButton" = "Retry";

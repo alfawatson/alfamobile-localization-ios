@@ -322,5 +322,5 @@
 "transfers.result.successTitle" = "Аударым қабылданды";
 "transfers.result.failureTitle" = "Аударым қабылданбады";
 "transfers.result.historyButton" = "Аудармалар\nжурналы";
-"transfers.result.returnButton" = "Аудармаларга\nоралу";
+"transfers.result.returnButton" = "Аудармаларга оралу";
 "transfers.result.retryButton" = "Қайталау";
