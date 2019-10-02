@@ -318,3 +318,4 @@
 "transfers.p2p.cvv.message" = "3 последние цифры на обратной стороне карты";
 "payments.common.to" = "Қайда";
 "payments.common.confirm" = "Растау";
+"transfers.common.confirm" = "Аударымды растау";
