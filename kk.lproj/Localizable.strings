@@ -319,3 +319,8 @@
 "payments.common.to" = "Қайда";
 "payments.common.confirm" = "Растау";
 "transfers.common.confirm" = "Аударымды растау";
+"transfers.result.successTitle" = "Аударым қабылданды";
+"transfers.result.failureTitle" = "Аударым қабылданбады";
+"transfers.result.historyButton" = "Аудармалар\nжурналы";
+"transfers.result.returnButton" = "Аудармаларга\nоралу";
+"transfers.result.retryButton" = "Қайталау";

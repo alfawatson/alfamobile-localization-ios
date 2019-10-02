@@ -319,3 +319,11 @@
 "payments.common.to" = "Куда";
 "payments.common.confirm" = "Подтвердить";
 "transfers.common.confirm" = "Подтверждение перевода";
+"transfers.result.successTitle" = "Перевод принят";
+"transfers.result.failureTitle" = "Перевод отклонен";
+"transfers.result.historyButton" = "История\
+переводов";
+"transfers.result.returnButton" = "Вернуться в\
+переводы";
+"transfers.result.retryButton" = "Повторить\
+перевод";
