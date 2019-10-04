@@ -329,3 +329,10 @@
 перевод";
 "transfers.result.retryButtonOneLine" = "Повторить перевод";
 "transfers.result.returnButtonOneLine" = "Вернуться в переводы";
+"common.total" = "Итого";
+"common.accountAmount" = "Сумма на счете";
+"products.deposit.depositBalance" = "Сумма на депозите";
+"products.currentAcc.renameTitle" = "Изменить название счета";
+"products.deposit.renameTitle" = "Изменить название депозита";
+"products.currentAcc.rename" = "Название счета";
+"products.deposit.rename" = "Название депозита";

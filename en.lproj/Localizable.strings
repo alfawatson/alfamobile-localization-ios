@@ -326,3 +326,10 @@
 "transfers.result.retryButton" = "Retry";
 "transfers.result.retryButtonOneLine" = "Retry transfer";
 "transfers.result.returnButtonOneLine" = "Back to transfers";
+"common.total" = "Итого";
+"common.accountAmount" = "Сумма на счете";
+"products.deposit.depositBalance" = "Сумма на депозите";
+"products.currentAcc.renameTitle" = "Изменить название счета";
+"products.deposit.renameTitle" = "Изменить название депозита";
+"products.currentAcc.rename" = "Название счета";
+"products.deposit.rename" = "Название депозита";
