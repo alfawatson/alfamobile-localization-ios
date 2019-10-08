@@ -345,8 +345,9 @@
 "transfers.byPhone.timitsAndTarfis" = "Лимиты и тарифы";
 "common.rules" = "Условия";
 "common.limits" = "Лимиты";
-"products.amount.accountAmount" = "Сумма на счете";
 "common.sms.error.ttl" = "Срок действия вашего SMS кода истёк. Запросить еще одно SMS?";
 "products.currentAcc.action.name.subTitle" = "Текущий счет";
 "products.debitcard.action.name.subTitle" = "Дебетовая карта";
 "products.card.action.alfaCheck.enabled" = "Альфа-чек подключен!";
+"products.currentAcc.balance" = "Сумма на счете";
+"products.card.balance" = "Сумма на карте";
