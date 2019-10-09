@@ -348,3 +348,5 @@
 "products.card.action.alfaCheck.enabled" = "Альфа-чек подключен!";
 "products.currentAcc.balance" = "Сумма на счете";
 "products.card.balance" = "Сумма на карте";
+"transfers.result.successTitleWithAmount" = "Перевод %@ принят\nв обработку";
+"transfers.common.confirmAndPay" = "Подтвердить и перевести";
