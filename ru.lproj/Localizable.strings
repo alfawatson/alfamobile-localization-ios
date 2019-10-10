@@ -353,3 +353,5 @@
 "products.card.balance" = "Сумма на карте";
 "transfers.result.successTitleWithAmount" = "Перевод %@ принят\nв обработку";
 "transfers.common.confirmAndPay" = "Подтвердить и перевести";
+"common.destination" = "Кому";
+"common.fillField" = "Заполните поле";
