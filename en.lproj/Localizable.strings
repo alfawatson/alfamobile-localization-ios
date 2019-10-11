@@ -333,7 +333,7 @@
 "products.deposit.renameTitle" = "Изменить наименование депозита";
 "products.currentAcc.rename" = "Наименование счета";
 "products.deposit.rename" = "Наименование депозита";
-"transfers.byPhone.phone" = "Номер телефона";
+"transfers.byPhone.phone" = "Кому";
 "transfers.byPhone.amount" = "Сумма перевода";
 "transfers.byPhone.title" = "По номеру телефона";
 "transfers.byPhone.minAmount" = "Минимальная сумма перевода - %@";
@@ -351,3 +351,4 @@
 "transfers.result.successTitleWithAmount" = "Перевод %@ принят\nв обработку";
 "transfers.common.confirmAndPay" = "Подтвердить и перевести";
 "common.destination" = "Кому";
+"common.fillField" = "Fill in the field";
