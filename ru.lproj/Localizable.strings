@@ -336,7 +336,7 @@
 "products.deposit.renameTitle" = "Изменить наименование депозита";
 "products.currentAcc.rename" = "Наименование счета";
 "products.deposit.rename" = "Наименование депозита";
-"transfers.byPhone.phone" = "Номер телефона";
+"transfers.byPhone.phone" = "Кому";
 "transfers.byPhone.amount" = "Сумма перевода";
 "transfers.byPhone.title" = "По номеру телефона";
 "transfers.byPhone.minAmount" = "Минимальная сумма перевода - %@";
@@ -355,3 +355,8 @@
 "transfers.common.confirmAndPay" = "Подтвердить и перевести";
 "common.destination" = "Кому";
 "common.fillField" = "Заполните поле";
+"transfers.byPhone.destinationPhone" = "Номер телефона получателя";
+"common.notEnoughFunds.popup.title" = "Недостаточно средств";
+"common.notEnoughFunds.popup.message" = "Измените сумму перевода или выберите другую карту";
+"common.limitsAndTarifs" = "Лимиты и тарифы";
+"transfers.byPhone.error.customerPhoneNotFound" = "Клиент не найден";
