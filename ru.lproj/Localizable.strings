@@ -359,4 +359,4 @@
 "common.notEnoughFunds.popup.title" = "Недостаточно средств";
 "common.notEnoughFunds.popup.message" = "Измените сумму перевода или выберите другую карту";
 "common.limitsAndTarifs" = "Лимиты и тарифы";
-"transfers.byPhone.error.customerPhoneNotFound" = "Клиент не найден";
+"transfers.result.failedToGoTitle" = "Перевод не прошел";
