@@ -359,3 +359,7 @@
 "transfers.result.failedToGoTitle" = "Перевод не прошел";
 "nfcScanCard.mainHint" = "Приложите карту к задней части устройства";
 "payments.paymentForm.checkPaymentError" = "Платеж не был обработан. Попробуйте еще раз.";
+"AlfaBlack.Statement.ownFunds" = "Собственные средства";
+"AlfaBlack.Statement.creditLimit" = "Кредитный лимит";
+"AlfaBlack.Statement.inInstallments" = "В рассрочке";
+"AlfaBlack.Statement.inCredit" = "В кредите";
