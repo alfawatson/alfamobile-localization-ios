@@ -357,3 +357,5 @@
 "common.notEnoughFunds.popup.message" = "Измените сумму перевода или выберите другую карту";
 "common.limitsAndTarifs" = "Лимиты и тарифы";
 "transfers.result.failedToGoTitle" = "Перевод не прошел";
+"nfcScanCard.mainHint" = "Приложите карту к задней части устройства";
+"payments.paymentForm.checkPaymentError" = "Платеж не был обработан. Попробуйте еще раз.";
