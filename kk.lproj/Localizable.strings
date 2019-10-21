@@ -80,7 +80,7 @@
 "payments.bill.violation" = "Нарушение";
 "payments.bill.protocolNumber" = "Номер протокола";
 "common.error.timeout" = "Время ожидания истекло. Попробуйте еще раз.";
-"common.error.any" = "Произошла непредвиденная ошибка. Повторите попытку позже. ";
+"common.error.any" = "Произошла непредвиденная ошибка. Повторите попытку позже.";
 "payments.invoiceForm.currentMeterValues" = "Ағымдағы есептегіш көрсеткіштері";
 "payments.invoiceForm.previousMeterValues" = "Алдыңғы есептегіш көрсеткіштері";
 "payments.invoiceForm.enteredAmountNote" = "Төлеуге болатын соманы өзгерте аласыз";
@@ -192,7 +192,7 @@
 "payments.history.status.new" = "В обработке";
 "payments.history.status.cancel" = "Не прошел";
 "products.card.action.limit.title" = "Лимиты";
-"products.card.action.limit.subTitle" = "Интернет-платежи, оплата картой";
+"products.card.action.limit.subTitle" = "Интернет платежи, оплата картой";
 "products.card.action.name.title" = "Изменить название карты";
 "products.card.action.name.subTitle" = "Мультивалютная карта";
 "products.card.action.changeCurrency.title" = "Сменить основную валюту";
@@ -299,9 +299,9 @@
 "banking.statement.updateDate" = "Выписка актуальна на %@";
 "banking.statement.weekFilter" = "Все операции за неделю";
 "banking.statement.filteredEmpty" = "Нет операций по карте за выбранный период";
-"products.requisites.kztAccountNumber" = "Номер тенгового счета";
+"products.requisites.kztAccountNumber" = "Номер счета в тенге";
 "products.requisites.usdAccountNumber" = "Номер долларового счета";
-"products.requisites.eurAccountNumber" = "Номер еврового счета";
+"products.requisites.eurAccountNumber" = "Номер счета в евро";
 "common.save" = " Сохранить";
 "products.card.action.name.enterName" = "Введите название карты";
 "p2p.common.savedCards" = "Сақталған карталар";
@@ -310,7 +310,7 @@
 "p2p.addCard.addNewCard" = "Жаңа карта қосыңыз";
 "transfers.addCard.choose" = "Картаны таңдаңыз";
 "transfers.p2p.title" = "С карты на карту";
-"transfers.p2p.commission.progress" = "Производится расчет комиссии…";
+"transfers.p2p.commission.progress" = "Комиссиясының есебі...";
 "transfers.p2p.to" = "Куда";
 "transfers.p2p.limits" = "Лимиты и тарифы";
 "transfers.p2p.cards.empty.title" = "Нет сохраненных карт";
@@ -364,3 +364,16 @@
 "alfaBlack.statement.inInstallments" = "В рассрочке";
 "alfaBlack.statement.inCredit" = "В кредите";
 "alfaBlack.statement.availableAmount" = "Доступная сумма";
+"nfcScan.scanNfcCardError" = "Произошла ошибка при считывании карты. Приложите снова";
+"common.close" = "Закрыть";
+"nfcScan.toSettings" = "В настройки";
+"nfcScan.disableSettings" = "Для работы нужно включить nfc в настройках";
+"common.notification" = "Уведомление";
+"nfcScan.disabled" = "Для вашего телефона это не доступно";
+"transfers.common.chooseProduct" = "Выбрать счёт";
+"auth.pinLogin.securityLogout" = "Ваши данные для быстрого входа устарели. Войдите с помощью вашего номера телефона.";
+"transfers.account.title" = "Между своими счетами";
+"transfers.account.willBeDebited" = "Спишется";
+"transfers.account.willBeCredited" = "Зачислится";
+"transfers.account.willDebitCreditAmounts" = "Будет списано %@, зачислено %@";
+"transfers.p2p.commission.notYet" = "Комиссия есептелмеген";
