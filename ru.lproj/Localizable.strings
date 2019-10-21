@@ -380,4 +380,4 @@
 "transfers.account.willBeCredited" = "Зачислится";
 "transfers.account.willDebitCreditAmounts" = "Будет списано %@, зачислено %@";
 "transfers.p2p.commission.notYet" = "Комиссия не рассчитана";
-"deposit.productName" = "Название продукта";
+"payments.common.remove.message" = "Вы действительно хотите удалить этот платеж?";
