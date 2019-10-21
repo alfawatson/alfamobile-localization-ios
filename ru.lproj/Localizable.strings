@@ -119,7 +119,7 @@
 "payments.drivingFine.protocolNum" = "№ протокола";
 "auth.pinLogin.title" = "Введите код или приложите палец \n для быстрого доступа";
 "auth.pinLogin.noAttempts" = "Превышено количество попыток";
-"payments.drivingFine.noFinesFound" = "Нарушений не найдено";
+"payments.drivingFine.noFinesFound" = "По ФИО/ИИН клиента нарушений нет";
 "common.validation.invalidIin" = "Введен неверный ИИН";
 "common.apply" = "Применить";
 "common.retry" = "Повторить";
@@ -380,3 +380,4 @@
 "transfers.account.willBeCredited" = "Зачислится";
 "transfers.account.willDebitCreditAmounts" = "Будет списано %@, зачислено %@";
 "transfers.p2p.commission.notYet" = "Комиссия не рассчитана";
+"deposit.productName" = "Название продукта";
