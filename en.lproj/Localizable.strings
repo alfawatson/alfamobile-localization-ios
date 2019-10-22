@@ -330,7 +330,7 @@
 "common.accountAmount" = "Сумма на счете";
 "products.deposit.depositBalance" = "Сумма на депозите";
 "products.currentAcc.renameTitle" = "Изменить наименование счета";
-"products.deposit.renameTitle" = "Изменить наименование депозита";
+"products.deposit.renameTitle" = "Изменить название продукта";
 "products.currentAcc.rename" = "Наименование счета";
 "products.deposit.rename" = "Наименование депозита";
 "transfers.byPhone.phone" = "To whom";
@@ -390,3 +390,5 @@
 "products.depositInfo.number" = "Номер договора";
 "common.refresh" = "Обновить";
 "auth.pinLogin.withoutTouchTitle" = "Введите код\n для быстрого доступа";
+"transfers.p2p.cards.senderCard" = "Карта отправителя";
+"transfers.p2p.cvv.enterSenderCvv" = "Введите CVV карты отправителя";
