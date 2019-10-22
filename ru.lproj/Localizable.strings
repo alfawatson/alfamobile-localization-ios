@@ -391,3 +391,5 @@
 "products.depositInfo.sumReward" = "Сумма начисленного вознаграждения";
 "products.depositInfo.term" = "Срок депозита";
 "products.depositInfo.number" = "Номер договора";
+"common.refresh" = "Обновить";
+"auth.pinLogin.withoutTouchTitle" = "Введите код\n для быстрого доступа";
