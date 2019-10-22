@@ -315,7 +315,7 @@
 "transfers.p2p.limits" = "Лимиты и тарифы";
 "transfers.p2p.cards.empty.title" = "Нет сохраненных карт";
 "transfers.p2p.cards.empty.message" = "Введите данные новой карты на странице перевода";
-"transfers.p2p.cvv.message" = "3 последние цифры на обратной стороне карты";
+"transfers.p2p.cvv.message" = "3 цифры на обратной стороне карты";
 "payments.common.to" = "Куда";
 "payments.common.confirm" = "Подтвердить";
 "transfers.common.confirm" = "Подтверждение перевода";
@@ -381,3 +381,13 @@
 "transfers.account.willDebitCreditAmounts" = "Будет списано %@, зачислено %@";
 "transfers.p2p.commission.notYet" = "Комиссия не рассчитана";
 "payments.common.remove.message" = "Вы действительно хотите удалить этот платеж?";
+"products.depositInfo.name" = "Название продукта";
+"products.depositInfo.balance" = "Баланс";
+"products.depositInfo.availableBalance" = "Доступный остаток";
+"products.depositInfo.openAmount" = "Сумма открытия";
+"products.depositInfo.minBalance" = "Неснижаемый остаток";
+"products.depositInfo.percent" = "Ставка вознаграждения";
+"products.depositInfo.percentGESV" = "Годовая эффективная ставка";
+"products.depositInfo.sumReward" = "Сумма начисленного вознаграждения";
+"products.depositInfo.term" = "Срок депозита";
+"products.depositInfo.number" = "Номер договора";
