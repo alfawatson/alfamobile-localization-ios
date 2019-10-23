@@ -308,7 +308,7 @@
 "p2p.common.myCards" = "Мои карты";
 "p2p.addCard.showAllMyCards" = "Показать все мои карты";
 "p2p.addCard.addNewCard" = "Добавить новую карту";
-"transfers.addCard.choose" = "Выберите карту";
+"transfers.addCard.selectSender" = "Выберите карту отправителя";
 "transfers.p2p.title" = "С карты на карту";
 "transfers.p2p.commission.progress" = "Производится расчет комиссии…";
 "transfers.p2p.to" = "Куда";
@@ -399,3 +399,6 @@
 "products.deposit.alfaReliable" = "Депозит \"Альфа-Надежный\"";
 "products.deposit.alfaFlexible" = "Депозит \"Альфа-Гибкий\"";
 "common.deposit" = "Депозит";
+"transfers.own.success.withAmount" = "Перевели %s \nмежду вашими счетами";
+"common.returnToMain" = "Вернуться на главную";
+"transfers.addCard.recipientCardNumber" = "Номер карты получателя";
