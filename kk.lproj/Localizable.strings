@@ -398,4 +398,3 @@
 "common.deposit" = "Депозит";
 "transfers.own.success.withAmount" = "Перевели %s \nмежду вашими счетами";
 "common.returnToMain" = "Вернуться на главную";
-"transfers.addCard.recipientCardNumber" = "Номер карты получателя";
