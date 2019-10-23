@@ -393,3 +393,6 @@
 "transfers.p2p.cards.senderCard" = "Карта отправителя";
 "transfers.p2p.cvv.enterSenderCvv" = "Введите CVV карты отправителя";
 "transfers.p2p.addCvv.title" = "CVV карты отправителя";
+"products.deposit.alfaReliable" = "Депозит \"Альфа-Надежный\"";
+"products.deposit.alfaFlexible" = "Депозит \"Альфа-Гибкий\"";
+"common.deposit" = "Депозит";
