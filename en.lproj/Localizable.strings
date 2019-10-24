@@ -398,3 +398,8 @@
 "common.deposit" = "Депозит";
 "transfers.own.success.withAmount" = "Перевели %s \nмежду вашими счетами";
 "common.returnToMain" = "Вернуться на главную";
+"transfers.p2p.holder.hint" = "Имя получателя (как на карте)";
+"transfers.p2p.holder.title" = "Имя держателя карты";
+"transfers.p2p.holder.message" = "Введите имя так же, как указано на карте получателя";
+"payments.invoiceForm.squareMeters" = "%@ m²";
+"payments.invoiceForm.numberOfTenants" = "%d people";
