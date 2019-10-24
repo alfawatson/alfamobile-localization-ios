@@ -402,4 +402,4 @@
 "transfers.p2p.holder.title" = "Имя держателя карты";
 "transfers.p2p.holder.message" = "Введите имя так же, как указано на карте получателя";
 "payments.invoiceForm.squareMeters" = "%@ м²";
-"payments.invoiceForm.numberOfTenants" = "%d адам";
+"payments.invoiceForm.numberOfTenantsValue" = "%d адам";
