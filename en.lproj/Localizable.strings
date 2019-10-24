@@ -403,3 +403,6 @@
 "transfers.p2p.holder.message" = "Введите имя так же, как указано на карте получателя";
 "payments.invoiceForm.squareMeters" = "%@ m²";
 "payments.invoiceForm.numberOfTenantsValue" = "%d people";
+"common.requestErrorMessage" = "Произошла системная ошибка, проверьте интернет соединение или попробуйте обновить страницу";
+"changeUserNumber.disclaimer" = "The confirmation code for the operation will be sent to the number %@.\
+If this number is not available, contact the bank branch.";
