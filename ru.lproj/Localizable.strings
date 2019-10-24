@@ -407,5 +407,5 @@
 "payments.invoiceForm.squareMeters" = "%@ м²";
 "payments.invoiceForm.numberOfTenantsValue" = "%d чел";
 "common.requestErrorMessage" = "Произошла системная ошибка, проверьте интернет соединение или попробуйте обновить страницу";
-"changeUserNumber.disclaimer" = "Код подтверждения для совершения операции придет на номер %@.\
+"settings.changeUserNumber.disclaimer" = "Код подтверждения для совершения операции придет на номер %@.\
 Если данный номер недоступен, обратитесь в отделение банка.";
