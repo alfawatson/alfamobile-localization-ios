@@ -329,10 +329,10 @@
 "common.total" = "Итого";
 "common.accountAmount" = "Сумма на счете";
 "products.deposit.depositBalance" = "Сумма на депозите";
-"products.currentAcc.renameTitle" = "Изменить наименование счета";
+"products.currentAcc.renameTitle" = "Изменить название счета";
 "products.deposit.renameTitle" = "Изменить название продукта";
-"products.currentAcc.rename" = "Наименование счета";
-"products.deposit.rename" = "Наименование депозита";
+"products.currentAcc.rename" = "Название счета";
+"products.deposit.rename" = "Название депозита";
 "transfers.byPhone.phone" = "To whom";
 "transfers.byPhone.amount" = "Transfer amount";
 "transfers.byPhone.title" = "By phone number";
