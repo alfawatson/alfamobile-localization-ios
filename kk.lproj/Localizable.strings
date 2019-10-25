@@ -415,3 +415,4 @@
 "settings.changeUserNumber.newPhoneNumber" = "Жаңа телефон нөмірі";
 "settings.changeUserNumber.repeatNewPhoneNumber" = "Жаңа телефон нөмірін қайталаңыз";
 "settings.changeUserNumber.title" = "Телефон нөмірін өзгерту";
+"payments.operationResult.addedToFavoritesTwoLines" = "Добавлено\nв Частые";

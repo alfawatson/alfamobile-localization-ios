@@ -415,3 +415,4 @@ If this number is not available, contact the bank branch.";
 "settings.changeUserNumber.newPhoneNumber" = "New phone number";
 "settings.changeUserNumber.repeatNewPhoneNumber" = "Repeat new phone number";
 "settings.changeUserNumber.title" = "Change phone number";
+"payments.operationResult.addedToFavoritesTwoLines" = "Добавлено\nв Частые";

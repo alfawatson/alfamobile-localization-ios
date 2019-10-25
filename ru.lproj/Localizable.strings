@@ -418,3 +418,4 @@
 "settings.changeUserNumber.newPhoneNumber" = "Новый номер телефона";
 "settings.changeUserNumber.repeatNewPhoneNumber" = "Повторите новый номер телефона";
 "settings.changeUserNumber.title" = "Смена номера телефона";
+"payments.operationResult.addedToFavoritesTwoLines" = "Добавлено\nв Частые";
