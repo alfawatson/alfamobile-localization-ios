@@ -406,3 +406,12 @@
 "common.requestErrorMessage" = "Произошла системная ошибка, проверьте интернет соединение или попробуйте обновить страницу";
 "settings.changeUserNumber.disclaimer" = "Операцияны растау коды %@ нөміріне жіберіледі.\
 Егер бұл нөмір болмаса, банк бөлімшесіне хабарласыңыз.";
+"settings.changeUserNumber.enterNewPhone" = "Жаңа телефон нөмірін енгізіңіз";
+"settings.changeUserNumber.repeatNewPhone" = "Жаңа телефон нөмірін қайталаңыз";
+"settings.changeUserNumber.phonesDontMatch" = "Телефон нөмірлері сәйкес келмейді";
+"settings.changeUserNumber.result.successTitle" = "Нөмір сәтті өзгертілді";
+"settings.changeUserNumber.result.successDescription" = "Өтінішке кіру және растау кодтарын алу үшін жаңа нөмірді пайдаланыңыз";
+"settings.changeUserNumber.result.loginWithNewNumber" = "Жаңа нөмірмен кіру";
+"settings.changeUserNumber.newPhoneNumber" = "Жаңа телефон нөмірі";
+"settings.changeUserNumber.repeatNewPhoneNumber" = "Жаңа телефон нөмірін қайталаңыз";
+"settings.changeUserNumber.title" = "Телефон нөмірін өзгерту";

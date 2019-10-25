@@ -409,3 +409,12 @@
 "common.requestErrorMessage" = "Произошла системная ошибка, проверьте интернет соединение или попробуйте обновить страницу";
 "settings.changeUserNumber.disclaimer" = "Код подтверждения для совершения операции придет на номер %@.\
 Если данный номер недоступен, обратитесь в отделение банка.";
+"settings.changeUserNumber.enterNewPhone" = "Введите новый номер телефона";
+"settings.changeUserNumber.repeatNewPhone" = "Повторите новый номер телефона";
+"settings.changeUserNumber.phonesDontMatch" = "Номера телефонов не совпадают";
+"settings.changeUserNumber.result.successTitle" = "Номер успешно изменен";
+"settings.changeUserNumber.result.successDescription" = "Используйте новый номер для входа в приложение и получения кодов подтверждения";
+"settings.changeUserNumber.result.loginWithNewNumber" = "Войти с новым номером";
+"settings.changeUserNumber.newPhoneNumber" = "Новый номер телефона";
+"settings.changeUserNumber.repeatNewPhoneNumber" = "Повторите новый номер телефона";
+"settings.changeUserNumber.title" = "Смена номера телефона";

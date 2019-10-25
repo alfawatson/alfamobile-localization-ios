@@ -406,3 +406,12 @@
 "common.requestErrorMessage" = "Произошла системная ошибка, проверьте интернет соединение или попробуйте обновить страницу";
 "settings.changeUserNumber.disclaimer" = "The confirmation code for the operation will be sent to the number %@.\
 If this number is not available, contact the bank branch.";
+"settings.changeUserNumber.enterNewPhone" = "Enter a new phone number";
+"settings.changeUserNumber.repeatNewPhone" = "Repeat new phone number";
+"settings.changeUserNumber.phonesDontMatch" = "Phone numbers do not match";
+"settings.changeUserNumber.result.successTitle" = "Number changed successfully";
+"settings.changeUserNumber.result.successDescription" = "Use the new number to enter the application and receive confirmation codes";
+"settings.changeUserNumber.result.loginWithNewNumber" = "Login with new number";
+"settings.changeUserNumber.newPhoneNumber" = "New phone number";
+"settings.changeUserNumber.repeatNewPhoneNumber" = "Repeat new phone number";
+"settings.changeUserNumber.title" = "Change phone number";
