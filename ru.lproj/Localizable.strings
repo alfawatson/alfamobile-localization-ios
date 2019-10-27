@@ -165,7 +165,7 @@
 "auth.pinLogin.enterPin" = "Введите код \nдля быстрого входа";
 "auth.pinLogin.forgotPin" = "Забыли \nкод?";
 "auth.pinInput.cancelRegister" = "Отменить регистрацию";
-"auth.pinInput.cancelRegisterMessage" = "Если вы нажмёте на кнопку выйти, все данные регистрации будут потеряны ";
+"auth.pinInput.cancelRegisterMessage" = "Если вы нажмёте на кнопку выйти, все данные регистрации будут потеряны";
 "common.stay" = "Остаться";
 "auth.faceId.prompt" = "Использовать Face ID для быстрого входа в приложение?";
 "auth.touchInput.prompt" = "Использовать отпечаток пальца для быстрого входа в приложение?";
@@ -419,3 +419,5 @@
 "settings.changeUserNumber.repeatNewPhoneNumber" = "Повторите новый номер телефона";
 "settings.changeUserNumber.title" = "Смена номера телефона";
 "payments.operationResult.addedToFavoritesTwoLines" = "Добавлено\nв Частые";
+"settings.pin.changeMessage" = "Для того, чтобы сменить код доступа, введите ваш текущий код";
+"auth.pinInput.pinInstalled" = "Код доступа установлен";

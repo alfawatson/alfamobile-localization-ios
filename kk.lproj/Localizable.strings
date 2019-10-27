@@ -107,9 +107,9 @@
 "common.fromAccount" = "Шоттан";
 "common.amount" = "Сома";
 "common.phoneNumber" = "Телефон нөмірі";
-"auth.pinInput.passNotEqual" = "Коды не совпадают";
-"auth.pinInput.validation.error" = "Нельзя использовать простые комбинации цифр (1111, 2345 и тд.)";
-"auth.pinInput.repeatPass" = "Повторите код";
+"auth.pinInput.passNotEqual" = "Кодтар сәйкес келмейді";
+"auth.pinInput.validation.error" = "Сіз женiл сан комбинациясын қолдана алмайсыз (1111, 2345, т.б.)";
+"auth.pinInput.repeatPass" = "Кодты қайталаңыз";
 "auth.pinLogin.alertDialog.title" = "Шынымен шыққыңыз келе ме?";
 "auth.pinLogin.alertDialog.mainText" = "Если вы нажмете на кнопку выйти, вам нужно будет авторизоваться с помощью номера телефона и карты.";
 "payments.drivingFine.fio" = "Аты-жөні";
@@ -164,8 +164,8 @@
 "common.logout" = "Выйти";
 "auth.pinLogin.enterPin" = "Введите код \nдля быстрого входа";
 "auth.pinLogin.forgotPin" = "Забыли \nкод?";
-"auth.pinInput.cancelRegister" = "Отменить регистрацию";
-"auth.pinInput.cancelRegisterMessage" = "Если вы нажмёте на кнопку выйти, все данные регистрации будут потеряны ";
+"auth.pinInput.cancelRegister" = "Тіркеуден бас тарту";
+"auth.pinInput.cancelRegisterMessage" = "Егер сіз Шығу түймесін бассаңыз, барлық тіркеу деректері жоғалады.";
 "common.stay" = "Остаться";
 "auth.faceId.prompt" = "Использовать Face ID для быстрого входа в приложение?";
 "auth.touchInput.prompt" = "Использовать отпечаток пальца для быстрого входа в приложение?";
@@ -416,3 +416,5 @@
 "settings.changeUserNumber.repeatNewPhoneNumber" = "Жаңа телефон нөмірін қайталаңыз";
 "settings.changeUserNumber.title" = "Телефон нөмірін өзгерту";
 "payments.operationResult.addedToFavoritesTwoLines" = "Добавлено\nв Частые";
+"settings.pin.changeMessage" = "Для того, чтобы сменить код доступа, введите ваш текущий код";
+"auth.pinInput.pinInstalled" = "Код орнатылды";
