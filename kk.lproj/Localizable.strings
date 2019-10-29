@@ -330,7 +330,7 @@
 "common.accountAmount" = "Сумма на счете";
 "products.deposit.depositBalance" = "Сумма на депозите";
 "products.currentAcc.renameTitle" = "Шоттың атауы өзгерту";
-"products.deposit.renameTitle" = "Депозиттың атауы өзгерту";
+"products.deposit.renameTitle" = "Изменить название";
 "products.currentAcc.rename" = "Шоттың атауы";
 "products.deposit.rename" = "Депозит атауы";
 "transfers.byPhone.phone" = "Кімге";
@@ -418,3 +418,4 @@
 "payments.operationResult.addedToFavoritesTwoLines" = "Добавлено\nв Частые";
 "settings.pin.changeMessage" = "Для того, чтобы сменить код доступа, введите ваш текущий код";
 "auth.pinInput.pinInstalled" = "Код орнатылды";
+"settings.selectPaymentPurposeCode" = "Выберите КНП";

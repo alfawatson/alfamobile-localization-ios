@@ -330,7 +330,7 @@
 "common.accountAmount" = "Сумма на счете";
 "products.deposit.depositBalance" = "Сумма на депозите";
 "products.currentAcc.renameTitle" = "Изменить название счета";
-"products.deposit.renameTitle" = "Изменить название продукта";
+"products.deposit.renameTitle" = "Изменить название";
 "products.currentAcc.rename" = "Название счета";
 "products.deposit.rename" = "Название депозита";
 "transfers.byPhone.phone" = "To whom";
@@ -418,3 +418,4 @@ If this number is not available, contact the bank branch.";
 "payments.operationResult.addedToFavoritesTwoLines" = "Добавлено\nв Частые";
 "settings.pin.changeMessage" = "Для того, чтобы сменить код доступа, введите ваш текущий код";
 "auth.pinInput.pinInstalled" = "Pass code set";
+"settings.selectPaymentPurposeCode" = "Выберите КНП";
