@@ -443,3 +443,4 @@ If this number is not available, contact the bank branch.";
 "transfers.p2p.minAmount" = "Минимальная сумма";
 "transfers.p2p.maxAmount" = "Максимальная сумма";
 "transfers.p2p.feeEmpty" = "Комиссия не рассчитана";
+"settings.selectKBE" = "Выберите КБЕ получателя";
