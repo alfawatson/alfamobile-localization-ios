@@ -444,3 +444,6 @@
 "transfers.p2p.maxAmount" = "Максимальная сумма";
 "transfers.p2p.feeEmpty" = "Комиссия не рассчитана";
 "settings.selectKBE" = "Выберите КБЕ получателя";
+"transfers.p2p.fullNameTip" = "Имя получателя (как на карте)";
+"transfers.p2p.fullNameAlertTitle" = "Имя держателя карты";
+"transfers.p2p.fullNameAlertDescription" = "Введите имя так же, как указано на карте получателя";
