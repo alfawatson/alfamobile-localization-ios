@@ -170,7 +170,7 @@
 "auth.faceId.prompt" = "Использовать Face ID для быстрого входа в приложение?";
 "auth.touchInput.prompt" = "Использовать отпечаток пальца для быстрого входа в приложение?";
 "auth.registration.agreementPrefix" = "Я подтверждаю, что ознакомлен и присоединяюсь к";
-"payments.invoiceForm.checkDebt" = "Проверить задолженность";
+"payments.invoiceForm.checkDebt" = "Узнать задолженность";
 "auth.registration.agreementText.colored" = "ознакомлен";
 "payments.drivingFine.checking" = "Проверка наличия штрафов...";
 "payments.simple.checkAgain" = "Проверить еще раз";
@@ -364,8 +364,8 @@
 "payments.paymentForm.checkPaymentError" = "Платеж не был обработан. Попробуйте еще раз.";
 "alfaBlack.statement.ownFunds" = "Собственные средства";
 "alfaBlack.statement.creditLimit" = "Кредитный лимит";
-"alfaBlack.statement.inInstallments" = "В рассрочке";
-"alfaBlack.statement.inCredit" = "В кредите";
+"alfaBlack.statement.purchases" = "Покупки";
+"alfaBlack.statement.otherOperations" = "Другие операции";
 "alfaBlack.statement.availableAmount" = "Доступная сумма";
 "nfcScan.scanNfcCardError" = "Произошла ошибка при считывании карты. Приложите снова";
 "common.close" = "Закрыть";
@@ -450,3 +450,8 @@
 "transfers.p2p.fullNameTip" = "Имя получателя (как на карте)";
 "transfers.p2p.fullNameAlertTitle" = "Имя держателя карты";
 "transfers.p2p.fullNameAlertDescription" = "Введите имя так же, как указано на карте получателя";
+"p2p.internation.holder.hint" = "Введите название";
+"external.transaction.physical.identifier.error" = "Укажите ИИН";
+"common.enterAccountNumber" = "Укажите номер счета";
+"common.enterFio" = "Укажите ФИО";
+"alfaBlack.statement.monthlyPaymentExpired" = "Просрочено";
