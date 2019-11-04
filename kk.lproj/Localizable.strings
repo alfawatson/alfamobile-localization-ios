@@ -452,3 +452,4 @@
 "common.enterAccountNumber" = "Укажите номер счета";
 "common.enterFio" = "Укажите ФИО";
 "alfaBlack.statement.monthlyPaymentExpired" = "Просрочено";
+"common.showBank" = "Укажите банк";

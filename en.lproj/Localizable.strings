@@ -452,3 +452,4 @@ If this number is not available, contact the bank branch.";
 "common.enterAccountNumber" = "Укажите номер счета";
 "common.enterFio" = "Укажите ФИО";
 "alfaBlack.statement.monthlyPaymentExpired" = "Просрочено";
+"common.showBank" = "Укажите банк";
