@@ -453,3 +453,5 @@ If this number is not available, contact the bank branch.";
 "common.enterFio" = "Укажите ФИО";
 "alfaBlack.statement.monthlyPaymentExpired" = "Просрочено";
 "common.showBank" = "Укажите банк";
+"alfaBlack.statement.inInstallments" = "В рассрочке";
+"alfaBlack.statement.inCredit" = "В кредите";
