@@ -455,5 +455,12 @@
 "common.showBank" = "Укажите банк";
 "alfaBlack.statement.inInstallments" = "В рассрочке";
 "alfaBlack.statement.inCredit" = "В кредите";
-"settings.more.chooseCity" = "Город или область";
+"settings.more.chooseCity" = "Город или регион";
 "common.rezident" = "Резидент";
+"settings.security" = "Настройки безопасности";
+"settings.faceIDLogin" = "Вход по FaceID";
+"settings.changePassword" = "Изменить код-пароль";
+"settings.changePhone" = "Изменить номер телефона";
+"settings.notifications" = "Уведомления";
+"settings.pushNotifications" = "Push-уведомления";
+"settings.mapWithATMs" = "Банкоматы и терминалы";
