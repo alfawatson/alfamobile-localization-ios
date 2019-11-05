@@ -458,3 +458,5 @@
 "common.showBank" = "Укажите банк";
 "alfaBlack.statement.inInstallments" = "В рассрочке";
 "alfaBlack.statement.inCredit" = "В кредите";
+"settings.more.chooseCity" = "Город или область";
+"common.rezident" = "Резидент";
