@@ -464,3 +464,4 @@ If this number is not available, contact the bank branch.";
 "settings.notifications" = "Уведомления";
 "settings.pushNotifications" = "Push-уведомления";
 "settings.mapWithATMs" = "Банкоматы и терминалы";
+"settings.versionNumber" = "\"Версия %@ (%@)\nАльфа-Банк Казахстан\"";
