@@ -370,11 +370,11 @@
 "nfcScan.scanNfcCardError" = "Произошла ошибка при считывании карты. Приложите снова";
 "common.close" = "Закрыть";
 "nfcScan.toSettings" = "В настройки";
-"nfcScan.disableSettings" = "Для работы нужно включить nfc в настройках";
+"nfcScan.disableSettings" = "Для работы нужно включить NFC в настройках";
 "common.notification" = "Уведомление";
 "nfcScan.disabled" = "Для вашего телефона это не доступно";
 "transfers.common.chooseProduct" = "Выбрать счёт";
-"auth.pinLogin.securityLogout" = "Ваши данные для быстрого входа устарели. Войдите с помощью вашего номера телефона.";
+"auth.pinLogin.securityLogout" = "Ваши данные для быстрого входа устарели. Войдите заново по номеру телефона.";
 "transfers.account.title" = "Между своими счетами";
 "transfers.account.willBeDebited" = "Спишется";
 "transfers.account.willBeCredited" = "Зачислится";
@@ -418,13 +418,13 @@
 "settings.changeUserNumber.newPhoneNumber" = "Новый номер телефона";
 "settings.changeUserNumber.repeatNewPhoneNumber" = "Повторите новый номер телефона";
 "settings.changeUserNumber.title" = "Смена номера телефона";
-"payments.operationResult.addedToFavoritesTwoLines" = "Добавлено\nв Частые";
+"payments.operationResult.addedToFavoritesTwoLines" = "Добавлено\nв частые";
 "settings.pin.changeMessage" = "Для того, чтобы сменить код доступа, введите ваш текущий код";
 "auth.pinInput.pinInstalled" = "Код доступа установлен";
 "settings.selectPaymentPurposeCode" = "Выберите КНП";
 "transfers.byAccountNumber.kbeCode" = "Вид деятельности организации (КБЕ)";
 "transfers.byAccountNumber.toLegal.title" = "Перевод юр. лицу";
-"transfers.p2p.lookup.message" = "Одноразовый цифровой пароль вы можете узнать, обратившись контакт-центр банка, выпустившего Карту Отправителя или в полученной SMS.";
+"transfers.p2p.lookup.message" = "Одноразовый пароль был отправлен в SMS. Если код не получен, обратитесь в контакт-центр банка, выпустившего карту.";
 "common.transaction.purpose" = "Назначение перевода";
 "common.enterComments" = "Введите комментарий";
 "transfers.byAccountNumber.commets" = "Комментарий к переводу (необязательно)";
@@ -474,3 +474,6 @@
 "transfers.byAccountNumber.selectKnp" = "Выберите КНП";
 "transfers.p2p.internationalTitle" = "Международные переводы";
 "common.emptyRequestError" = "По вашему запросу ничего не найдено";
+"banking.emptyStatementHint" = "В вашей выписке пока что ничего нет";
+"banking.statementShowHint" = "Все операции по продукту будут видны здесь";
+"settings.selectRegion" = "Выберите регион";

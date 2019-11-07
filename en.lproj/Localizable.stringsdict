@@ -77,13 +77,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>li</string>
         <key>one</key>
-        <string>%li месяц</string>
-        <key>few</key>
-        <string>%li месяца</string>
-        <key>many</key>
-        <string>%li месяцев</string>
+        <string>month</string>
         <key>other</key>
-        <string>%li месяцев</string>
+        <string>months</string>
       </dict>
     </dict>
   </dict>
