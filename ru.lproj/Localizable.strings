@@ -111,7 +111,7 @@
 "auth.pinInput.validation.error" = "Нельзя использовать простые комбинации цифр (1111, 2345 и тд.)";
 "auth.pinInput.repeatPass" = "Повторите код";
 "auth.pinLogin.alertDialog.title" = "Вы действительно хотите выйти?";
-"auth.pinLogin.alertDialog.mainText" = "Если вы нажмете на кнопку выйти, вам нужно будет авторизоваться с помощью номера телефона и карты.";
+"auth.pinLogin.alertDialog.mainText" = "Если вы нажмете на кнопку \"Выйти\", вам нужно будет авторизоваться с помощью номера телефона и карты.";
 "payments.drivingFine.fio" = "ФИО";
 "payments.drivingFine.iin" = "ИИН";
 "payments.drivingFine.title" = "Штрафы ПДД";
@@ -224,7 +224,7 @@
 "common.filters.year.half" = "За полгода";
 "common.filters.year" = "За год";
 "common.filters.period" = "За период";
-"common.filters.from" = "C";
+"common.filters.from" = "С";
 "common.filters.to" = "По";
 "common.filters.title" = "Фильтр";
 "common.filters.datePlaceholder" = "ДД/ММ/ГГГ";
@@ -282,7 +282,7 @@
 "products.card.action.changeCurrency.main" = "Основная";
 "products.card.action.changeCurrency.chooseCurrency" = "Выберите валюту";
 "products.card.action.changeCurrency.footerNote" = "При любых транзакциях по карте, средства будут сниматься с выбранного счета";
-"common.itemCopied" = "%@ скопирован.";
+"common.itemCopied" = "%@ скопирован";
 "p2p.common.cardDoesNotExist" = "Карта с таким номером не существует";
 "common.done" = "Готово";
 "common.selectFromList" = "Выбрать из списка";
@@ -464,12 +464,13 @@
 "settings.notifications" = "Уведомления";
 "settings.pushNotifications" = "Push-уведомления";
 "settings.mapWithATMs" = "Банкоматы и терминалы";
-"settings.versionNumber" = "\"Версия %@ (%@)\nАльфа-Банк Казахстан\"";
+"settings.versionNumber" = "Версия %@ (%@)\nАльфа-Банк Казахстан";
 "settings.pushNotifications.error.enable" = "Не удалось включить Push-уведомления.";
 "settings.pushNotifications.error.disable" = "Не удалось выключить Push-уведомления.";
 "transfers.byAccountNumber.toLegal.kbe" = "Выберите КБЕ из списка";
 "transfers.byAccountNumber.toLegal.knp" = "Выберите КНП из списка";
 "transfers.byAccountNumber.toLegal.iinBin" = "Укажите ИИН/БИН";
-"transfers.byAccountNumber.toLegal.individualError" = "Перевод невозможен данному поставщику";
+"transfers.byAccountNumber.toLegal.individualError" = "Перевод данному поставщику невозможен";
 "transfers.byAccountNumber.selectKnp" = "Выберите КНП";
 "transfers.p2p.internationalTitle" = "Международные переводы";
+"common.emptyRequestError" = "По вашему запросу ничего не найдено";
