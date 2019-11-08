@@ -11,7 +11,7 @@
 "auth.creditCardInput.forgotCardNumber" = "Не помню номер карты";
 "auth.registration.agreementText" = "с тарифами Банка %@ и согласен";
 "transfers.international.onboardingTitle" = "Международные переводы";
-"transfers.international.onboardingDescription" = "Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%%";
+"transfers.international.onboardingDescription" = "Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%";
 "transfers.international.onboardingButtonTitle" = "Совершить перевод";
 "common.further" = "Далее";
 "auth.ibanInput.title" = "Введите номер счета";
@@ -227,7 +227,7 @@
 "common.filters.from" = "С";
 "common.filters.to" = "По";
 "common.filters.title" = "Фильтр";
-"common.filters.datePlaceholder" = "ДД/ММ/ГГГ";
+"common.filters.datePlaceholder" = "ДД/ММ/ГГГГ";
 "common.filters.error.dates" = "Даты";
 "common.filters.error.enterDateFrom" = "Введите дату начала периода";
 "common.filters.error.enterDateTo" = "Введите дату конца периода";
@@ -406,7 +406,7 @@
 "transfers.p2p.holder.message" = "Введите имя так же, как указано на карте получателя";
 "payments.invoiceForm.squareMeters" = "%@ м²";
 "payments.invoiceForm.numberOfTenantsValue" = "%d чел";
-"common.requestErrorMessage" = "Произошла системная ошибка, проверьте интернет соединение или попробуйте обновить страницу";
+"common.requestErrorMessage" = "Произошла системная ошибка, проверьте интернет соединение или попробуйте обновить страницу";
 "settings.changeUserNumber.disclaimer" = "Код подтверждения для совершения операции придет на номер %@.\
 Если данный номер недоступен, обратитесь в отделение банка.";
 "settings.changeUserNumber.enterNewPhone" = "Введите новый номер телефона";
@@ -458,7 +458,7 @@
 "settings.more.chooseCity" = "Город или регион";
 "common.rezident" = "Резидент";
 "settings.security" = "Настройки безопасности";
-"settings.faceIDLogin" = "Вход по FaceID";
+"settings.faceIDLogin" = "Вход по Face ID";
 "settings.changePassword" = "Изменить код-пароль";
 "settings.changePhone" = "Изменить номер телефона";
 "settings.notifications" = "Уведомления";
@@ -475,12 +475,12 @@
 "transfers.p2p.internationalTitle" = "Международные переводы";
 "common.emptyRequestError" = "По вашему запросу ничего не найдено";
 "banking.emptyStatementHint" = "В вашей выписке пока что ничего нет";
-"banking.statementShowHint" = "Все операции по продукту будут видны здесь";
+"banking.statementShowHint" = "Здесь будут отображены все операции по продукту";
 "settings.selectRegion" = "Выберите регион";
-"ccc.ddd.eee" = "asdsadl";
 "common.paymentSchedule" = "График платежей";
 "common.iinBin.notFound" = "ИИН/БИН не существует";
 "common.accountNotFound" = "Счет не найден";
 "settings.security.touchLogin" = "Вход по отпечатку";
 "settings.pin.enterNewMessage" = "Установите ваш новый код для быстрого входа";
 "settings.pin.confirmNewMessage" = "Повторите ваш новый код";
+"settings.changeUserNumber.invalidPhone" = "Указанный номер не существует";
