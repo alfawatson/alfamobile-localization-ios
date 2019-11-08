@@ -482,3 +482,5 @@
 "common.iinBin.notFound" = "ИИН/БИН не существует";
 "common.accountNotFound" = "Счет не найден";
 "settings.security.touchLogin" = "Вход по отпечатку";
+"settings.pin.enterNewMessage" = "Установите ваш новый код для быстрого входа";
+"settings.pin.confirmNewMessage" = "Повторите ваш новый код";
