@@ -481,3 +481,8 @@ If this number is not available, contact the bank branch.";
 "settings.pin.enterNewMessage" = "Set a new code for the quick access";
 "settings.pin.confirmNewMessage" = "Confirm new code";
 "settings.changeUserNumber.invalidPhone" = "Number is invalid";
+"settings.support.textWhatsApp" = "Написать в WhatsApp";
+"settings.support.instantReply" = "Мгновенный отклик";
+"settings.support.forKZCalls" = "Для звонков по Казахстану";
+"settings.support.callCenter" = "Call Center";
+"settings.support.forInternationalCalls" = "Для международных звонков";
