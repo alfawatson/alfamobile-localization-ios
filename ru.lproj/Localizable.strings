@@ -137,7 +137,7 @@
 "auth.smsValidation.noAttempts" = "Количество попыток закончилось. Запросите заново SMS.";
 "auth.touchInput.validation.error" = "Ошибка при обработке отпечатка пальца";
 "auth.touchInput.touchNotDistinguished" = "Отпечаток не распознан";
-"auth.touchInput.touchConfigChanged" = "Вход по отпечатку выключен, поскольку изменена конфигурация сканера отпечатков. Для его включения войдите в приложение другим способом и перейдите в настройки.";
+"auth.touchInput.touchConfigChanged" = "Вход по отпечатку выключен, из-за изменений в настройках телефона. Войдите в приложение по код-паролю и перейдите в \"Настройки\"";
 "auth.touchInput.touchScanner.error" = "Ошибка инициализации сканера отпечатка пальца";
 "auth.touchInput.allowTouch" = "Разрешить вход по отпечатку пальца?";
 "common.allow" = "Разрешить";
