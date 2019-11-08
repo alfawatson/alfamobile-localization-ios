@@ -199,7 +199,7 @@
 "products.card.action.changeCurrency.subTitle" = "₸ - тенге";
 "products.card.action.internetTransaction.title" = "Интернет-транзакции";
 "products.card.action.requisites.title" = "Реквизиты";
-"products.card.action.requisites.subTitle" = "Номер счета, номер карты, БИН";
+"products.card.action.requisites.subTitle" = "Номер счета, БИК";
 "products.card.action.alfaCheck.title" = "Услуга \"Альфа-Чек\"";
 "products.card.action.alfaCheck.subTitle" = "SMS уведомления";
 "products.card.action.changePin.title" = "Сменить пин-код";
@@ -399,7 +399,7 @@
 "products.deposit.alfaReliable" = "Депозит \"Альфа-Надежный\"";
 "products.deposit.alfaFlexible" = "Депозит \"Альфа-Гибкий\"";
 "common.deposit" = "Депозит";
-"transfers.own.success.withAmount" = "Перевели %s \nмежду вашими счетами";
+"transfers.own.success.withAmount" = "Перевели %@ \nмежду вашими счетами";
 "common.returnToMain" = "Вернуться на главную";
 "transfers.p2p.holder.hint" = "Имя получателя (как на карте)";
 "transfers.p2p.holder.title" = "Имя держателя карты";
@@ -477,3 +477,8 @@
 "banking.emptyStatementHint" = "В вашей выписке пока что ничего нет";
 "banking.statementShowHint" = "Все операции по продукту будут видны здесь";
 "settings.selectRegion" = "Выберите регион";
+"ccc.ddd.eee" = "asdsadl";
+"common.paymentSchedule" = "График платежей";
+"common.iinBin.notFound" = "ИИН/БИН не существует";
+"common.accountNotFound" = "Счет не найден";
+"settings.security.touchLogin" = "Вход по отпечатку";
