@@ -490,3 +490,6 @@
 "settings.push.deregError" = "Не удалось отключить функцию Push-уведомлении. Попробуйте позже.";
 "settings.push.systemError" = "Для активации Push-уведомлений необходимо перейти в настройки";
 "transfers.common.title" = "Аударымдар";
+"common.newOnes" = "Жаңа";
+"common.newOne" = "Новый";
+"transfers.favorites.shortTitle" = "Жылдам аударымдар";

@@ -493,3 +493,6 @@
 "settings.push.deregError" = "Не удалось отключить функцию Push-уведомлении. Попробуйте позже.";
 "settings.push.systemError" = "Для активации Push-уведомлений необходимо перейти в настройки";
 "transfers.common.title" = "Переводы";
+"common.newOnes" = "Новые";
+"common.newOne" = "Новый";
+"transfers.favorites.shortTitle" = "Быстрые";

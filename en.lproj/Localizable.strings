@@ -490,3 +490,6 @@ If this number is not available, contact the bank branch.";
 "settings.push.deregError" = "Не удалось отключить функцию Push-уведомлении. Попробуйте позже.";
 "settings.push.systemError" = "Go to \"Settings\" to activate Push-notifications";
 "transfers.common.title" = "Transfers";
+"common.newOnes" = "New";
+"common.newOne" = "Новый";
+"transfers.favorites.shortTitle" = "Quick transfers";
