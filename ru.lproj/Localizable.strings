@@ -496,3 +496,16 @@
 "common.newOnes" = "Новые";
 "common.newOne" = "Новый";
 "transfers.favorites.shortTitle" = "Быстрые";
+"banking.credits.leftToPay" = "Осталось оплатить";
+"banking.credits.payOffAheadSchedule" = "Погасить досрочно";
+"common.credit" = "Кредит";
+"banking.credit.fullLoanInformation" = "Полная информация о кредите";
+"banking.credit.borrowersMemo" = "Памятка заёмщика";
+"common.fromAlfaAccount" = "Со счета в Альфа-Банке";
+"common.fromAnyCard" = "Картой другого банка";
+"common.fromCash" = "Наличными";
+"common.atmMap" = "Карта банкоматов и терминалов";
+"common.noAcceptableCard" = "У вас не доступных карт";
+"banking.credit.month.payment.success" = "Ежемесячный платеж принят \nв обработку";
+"banking.credit.prepayment.success" = "Досрочное погашение принято \nв обработку";
+"common.resultWillComeInSms" = "Ответ придет посредством SMS";
