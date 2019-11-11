@@ -491,11 +491,11 @@
 "settings.push.systemError" = "Для активации Push-уведомлений необходимо перейти в настройки";
 "transfers.common.title" = "Аударымдар";
 "common.newOnes" = "Жаңа";
-"common.newOne" = "Новый";
+"common.newOne" = "Жаңа";
 "transfers.favorites.shortTitle" = "Жылдам аударымдар";
 "banking.credits.leftToPay" = "Осталось оплатить";
 "banking.credits.payOffAheadSchedule" = "Погасить досрочно";
-"common.credit" = "Кредит";
+"common.credit" = "Несие";
 "banking.credit.fullLoanInformation" = "Полная информация о кредите";
 "banking.credit.borrowersMemo" = "Памятка заёмщика";
 "common.fromAlfaAccount" = "Со счета в Альфа-Банке";
