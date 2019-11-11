@@ -509,3 +509,5 @@
 "banking.credit.month.payment.success" = "Ежемесячный платеж принят \nв обработку";
 "banking.credit.prepayment.success" = "Досрочное погашение принято \nв обработку";
 "common.resultWillComeInSms" = "Ответ придет посредством SMS";
+"auth.pinLogin.forgotMessage" = "Если вы забыли пароль, то вы можете войти с помощью номера телефона и карты.";
+"auth.pinLogin.forgotYesProceed" = "Да, войти";
