@@ -508,3 +508,6 @@
 "common.resultWillComeInSms" = "Ответ придет посредством SMS";
 "auth.pinLogin.forgotMessage" = "Егер сіз кодты ұмытып қалсаңыз, телефон нөмірі және картаңыз нөмірі көмегімен жүйеге кіруіңіз керек.";
 "auth.pinLogin.forgotYesProceed" = "Ия, ұмытып кеттім";
+"common.showBankBic" = "Укажите БИК банка";
+"transfers.byAccountNumber.selectBankBic" = "Выберите БИК банка получателя";
+"common.iinNotFound" = "ИИН не найден";

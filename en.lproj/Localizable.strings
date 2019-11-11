@@ -508,3 +508,6 @@ If this number is not available, contact the bank branch.";
 "common.resultWillComeInSms" = "The result will come in SMS";
 "auth.pinLogin.forgotMessage" = "If you forgot your code, then you need to log in using your phone number and card.";
 "auth.pinLogin.forgotYesProceed" = "Yes, I forgot";
+"common.showBankBic" = "Укажите БИК банка";
+"transfers.byAccountNumber.selectBankBic" = "Выберите БИК банка получателя";
+"common.iinNotFound" = "ИИН не найден";

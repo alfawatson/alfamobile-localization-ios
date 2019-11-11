@@ -511,3 +511,6 @@
 "common.resultWillComeInSms" = "Ответ придет посредством SMS";
 "auth.pinLogin.forgotMessage" = "Если вы забыли свой код, то вам нужно войти с помощью номера телефона и карты.";
 "auth.pinLogin.forgotYesProceed" = "Да, забыл";
+"common.showBankBic" = "Укажите БИК банка";
+"transfers.byAccountNumber.selectBankBic" = "Выберите БИК банка получателя";
+"common.iinNotFound" = "ИИН не найден";
