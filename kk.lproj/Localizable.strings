@@ -510,4 +510,9 @@
 "auth.pinLogin.forgotYesProceed" = "Ия, ұмытып кеттім";
 "common.showBankBic" = "Укажите БИК банка";
 "transfers.byAccountNumber.selectBankBic" = "Выберите БИК банка получателя";
-"common.iinNotFound" = "ИИН не найден";
+"common.iinNotFound" = "ЖСН табылмады";
+"settings.changeUserNumber.notFound" = "Указанный номер не существует";
+"settings.changeUserNumber.clientError.title" = "Номер телефона закреплен за другим клиентом банка";
+"settings.changeUserNumber.clientError.message" = "Басқа нөмірді енгізіп, қайталап көріңіз.";
+"settings.changeUserNumber.result.failedTitle" = "Нөмір өзгермеген";
+"setting.chooseCityTitle" = "Қаланы таңдау";

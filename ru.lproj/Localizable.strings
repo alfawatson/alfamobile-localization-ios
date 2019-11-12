@@ -514,3 +514,8 @@
 "common.showBankBic" = "Укажите БИК банка";
 "transfers.byAccountNumber.selectBankBic" = "Выберите БИК банка получателя";
 "common.iinNotFound" = "ИИН не найден";
+"settings.changeUserNumber.notFound" = "Указанный номер не существует";
+"settings.changeUserNumber.clientError.title" = "Номер телефона закреплен за другим клиентом банка";
+"settings.changeUserNumber.clientError.message" = "Укажите другой номер и повторите попытку";
+"settings.changeUserNumber.result.failedTitle" = "Номер не изменен";
+"setting.chooseCityTitle" = "Выбор города";
