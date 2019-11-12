@@ -516,3 +516,8 @@ If this number is not available, contact the bank branch.";
 "settings.changeUserNumber.clientError.message" = "Enter another number and try again";
 "settings.changeUserNumber.result.failedTitle" = "Number not changed";
 "setting.chooseCityTitle" = "Select a city";
+"banking.credit.rename" = "Название кредита";
+"banking.credit.fromFullDebt" = "из %@";
+"transfers.account.descrText" = "Свои карты и счета";
+"transfers.p2p.descrText" = "Карты КЗ и мира";
+"transfers.byPhone.descrText" = "Клиенту Альфа-Банка";

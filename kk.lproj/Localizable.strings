@@ -516,3 +516,8 @@
 "settings.changeUserNumber.clientError.message" = "Басқа нөмірді енгізіп, қайталап көріңіз.";
 "settings.changeUserNumber.result.failedTitle" = "Нөмір өзгермеген";
 "setting.chooseCityTitle" = "Қаланы таңдау";
+"banking.credit.rename" = "Название кредита";
+"banking.credit.fromFullDebt" = "из %@";
+"transfers.account.descrText" = "Свои карты и счета";
+"transfers.p2p.descrText" = "Карты КЗ и мира";
+"transfers.byPhone.descrText" = "Клиенту Альфа-Банка";

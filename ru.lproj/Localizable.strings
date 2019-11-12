@@ -519,3 +519,8 @@
 "settings.changeUserNumber.clientError.message" = "Укажите другой номер и повторите попытку";
 "settings.changeUserNumber.result.failedTitle" = "Номер не изменен";
 "setting.chooseCityTitle" = "Выбор города";
+"banking.credit.rename" = "Название кредита";
+"banking.credit.fromFullDebt" = "из %@";
+"transfers.account.descrText" = "Свои карты и счета";
+"transfers.p2p.descrText" = "Карты КЗ и мира";
+"transfers.byPhone.descrText" = "Клиенту Альфа-Банка";
