@@ -526,3 +526,5 @@
 "transfers.byPhone.descrText" = "Клиенту Альфа-Банка";
 "transfers.account.shortTitle" = "Между счетами";
 "payments.common.payment" = "Оплата";
+"banking.credit.progressBarSubtitle" = "Оплачено %@ из %@ платежей";
+"banking.common.changeProductName" = "Изменить название продукта";
