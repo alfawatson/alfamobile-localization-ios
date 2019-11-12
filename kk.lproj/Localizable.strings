@@ -522,3 +522,4 @@
 "transfers.p2p.descrText" = "Карты КЗ и мира";
 "transfers.byPhone.descrText" = "Клиенту Альфа-Банка";
 "transfers.account.shortTitle" = "Между счетами";
+"payments.common.payment" = "Оплата";
