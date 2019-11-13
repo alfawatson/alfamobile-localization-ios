@@ -532,3 +532,4 @@
 "transfers.byAccountNumber.descrText" = "Юр. лицам,\nфиз. лицам";
 "transfers.exchange.title" = "Обмен валют";
 "transfers.exchange.descrText" = "Конвертация";
+"transfers.p2p.lookup.description" = "Одноразовый цифровой пароль вы можете узнать, обратившись контакт-центр банка, выпустившего Карту Отправителя или в полученной SMS.";

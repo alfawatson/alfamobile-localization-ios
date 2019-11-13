@@ -529,3 +529,4 @@ If this number is not available, contact the bank branch.";
 "transfers.byAccountNumber.descrText" = "Companies and individuals";
 "transfers.exchange.title" = "Currency exchange";
 "transfers.exchange.descrText" = "Monetary conversion";
+"transfers.p2p.lookup.description" = "Одноразовый цифровой пароль вы можете узнать, обратившись контакт-центр банка, выпустившего Карту Отправителя или в полученной SMS.";

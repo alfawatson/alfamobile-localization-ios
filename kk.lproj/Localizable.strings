@@ -529,3 +529,4 @@
 "transfers.byAccountNumber.descrText" = "Заңды және жеке тұлғалар";
 "transfers.exchange.title" = "Валюта айырбастау";
 "transfers.exchange.descrText" = "Айырбастау";
+"transfers.p2p.lookup.description" = "Одноразовый цифровой пароль вы можете узнать, обратившись контакт-центр банка, выпустившего Карту Отправителя или в полученной SMS.";
