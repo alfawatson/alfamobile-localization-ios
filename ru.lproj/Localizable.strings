@@ -528,3 +528,7 @@
 "payments.common.payment" = "Оплата";
 "banking.credit.progressBarSubtitle" = "Оплачено %@ из %@ платежей";
 "banking.common.changeProductName" = "Изменить название продукта";
+"transfers.byAccountNumber.shortTitle" = "По номеру счета";
+"transfers.byAccountNumber.descrText" = "Юр. лицам,\nфиз. лицам";
+"transfers.exchange.title" = "Обмен валют";
+"transfers.exchange.descrText" = "Конвертация";
