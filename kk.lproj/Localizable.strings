@@ -111,14 +111,14 @@
 "auth.pinInput.validation.error" = "Сіз женiл сан комбинациясын қолдана алмайсыз (1111, 2345, т.б.)";
 "auth.pinInput.repeatPass" = "Кодты қайталаңыз";
 "auth.pinLogin.alertDialog.title" = "Шынымен шыққыңыз келе ме?";
-"auth.pinLogin.alertDialog.mainText" = "Если вы нажмете на кнопку \"Выйти\", вам нужно будет авторизоваться с помощью номера телефона и карты.";
+"auth.pinLogin.alertDialog.mainText" = "Егер сіз «Шығу» түймесін бассаңыз, телефон нөмірі мен картаны пайдаланып кіру қажет.";
 "payments.drivingFine.fio" = "Аты-жөні";
 "payments.drivingFine.iin" = "ЖСН";
 "payments.drivingFine.title" = "Жол жүру айыппұлы";
 "payments.drivingFine.penaltyDate" = "Бұзушылық күні";
 "payments.drivingFine.protocolNum" = "Хаттама №";
 "auth.pinLogin.title" = "Введите код или приложите палец \n для быстрого доступа";
-"auth.pinLogin.noAttempts" = "Превышено количество попыток";
+"auth.pinLogin.noAttempts" = "Қайталау саны асып кетті";
 "payments.drivingFine.noFinesFound" = "Толық атауы / ИИН бойынша бұзушылықтары жоқ";
 "common.validation.invalidIin" = "ЖСН қате енгізілді";
 "common.apply" = "Қолдану";
@@ -520,11 +520,11 @@
 "banking.credit.fromFullDebt" = "из %@";
 "transfers.account.descrText" = "Сіздің шоттар және карталар";
 "transfers.p2p.descrText" = "ҚР және әлем бойынша";
-"transfers.byPhone.descrText" = "Клиенту Альфа-Банка";
+"transfers.byPhone.descrText" = "Клиентке Альфа-Банк";
 "transfers.account.shortTitle" = "Шоттар арасында";
 "payments.common.payment" = "Оплата";
 "banking.credit.progressBarSubtitle" = "Оплачено %@ из %@ платежей";
-"banking.common.changeProductName" = "Изменить название продукта";
+"banking.common.changeProductName" = "Өнімнің атауын өзгерту";
 "transfers.byAccountNumber.shortTitle" = "Шот нөмірі бойынша";
 "transfers.byAccountNumber.descrText" = "Заңды және жеке тұлғалар";
 "transfers.exchange.title" = "Валюта айырбастау";
@@ -562,3 +562,5 @@
 "banking.credit.prepayment.accountFee" = "Комиссия за ведения счета";
 "banking.credit.prepayment.overdueFee" = "Комиссия за просрочку";
 "banking.credit.startAndEndDate.value" = "c %@ по %@";
+"transfers.common.noCard" = "Нет доступных карт";
+"banking.applePay.connected" = "Apple Pay қосылды!";

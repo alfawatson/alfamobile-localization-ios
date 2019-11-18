@@ -562,3 +562,5 @@ If this number is not available, contact the bank branch.";
 "banking.credit.prepayment.accountFee" = "Комиссия за ведения счета";
 "banking.credit.prepayment.overdueFee" = "Комиссия за просрочку";
 "banking.credit.startAndEndDate.value" = "c %@ по %@";
+"transfers.common.noCard" = "Нет доступных карт";
+"banking.applePay.connected" = "Apple Pay connected!";
