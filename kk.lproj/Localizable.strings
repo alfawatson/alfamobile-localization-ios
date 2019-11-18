@@ -564,3 +564,9 @@
 "banking.credit.startAndEndDate.value" = "c %@ по %@";
 "transfers.common.noCard" = "Нет доступных карт";
 "banking.applePay.connected" = "Apple Pay қосылды!";
+"transfers.favorite.removeAlert.desc" = "Удалить перевод из Быстрых?";
+"transfers.favorite.removeAlert.title" = "Удалить?";
+"banking.credit.schedule.paymentDate" = "Дата платежа";
+"banking.credit.schedulePaymentPercent" = "Проценты по кредиту";
+"banking.credit.debt" = "Остаток задолженности";
+"banking.credit.schedule.willPay" = "Не оплачено";
