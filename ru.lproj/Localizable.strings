@@ -573,3 +573,5 @@
 "banking.credit.schedulePaymentPercent" = "Проценты по кредиту";
 "banking.credit.debt" = "Остаток задолженности";
 "banking.credit.schedule.willPay" = "Не оплачено";
+"transfers.states.canceled" = "Отменен";
+"transfers.states.pending" = "В процессе";

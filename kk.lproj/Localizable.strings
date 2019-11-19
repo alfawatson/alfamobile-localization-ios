@@ -546,7 +546,7 @@
 "banking.credit.registrationDate" = "Тіркеу күні";
 "banking.credit.loanAgreementNumber" = "Номер кредитного договора";
 "transfers.main.newTransfer" = "Жаңа аударым";
-"common.rename" = "Переименовать";
+"common.rename" = "Атын өзгерту";
 "transfers.favorite.deleteSubscription" = "Удалить из быстрых";
 "transfers.favorite.emptyListTitle" = "В конце нового перевода или в квитанции";
 "banking.credit.startAndEndDate.title" = "Даты начала и окончания";
@@ -570,3 +570,5 @@
 "banking.credit.schedulePaymentPercent" = "Проценты по кредиту";
 "banking.credit.debt" = "Остаток задолженности";
 "banking.credit.schedule.willPay" = "Не оплачено";
+"transfers.states.canceled" = "Отменен";
+"transfers.states.pending" = "В процессе";
