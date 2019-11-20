@@ -575,3 +575,9 @@
 "banking.credit.schedule.willPay" = "Не оплачено";
 "transfers.states.canceled" = "Отменен";
 "transfers.states.pending" = "В процессе";
+"settings.notifications.push.emptyNotificationsHint" = "У вас пока нет уведомлений";
+"settings.notifications.push.emptyNotificationsShowHint" = "Мы будем отправлять вам информацию по вашим счетам и картам, а также персональные предложения от банка";
+"settings.notifications.cardTransactionsTitle" = "Операции по картам";
+"settings.notifications.cardTransactionsSubtitle" = "Данные о платежах и переводах";
+"settings.notifications.confirmationCodesTitle" = "Коды подтверждения";
+"settings.notifications.confirmationCodesSubtitle" = "Одноразовые пароли";

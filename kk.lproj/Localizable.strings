@@ -547,8 +547,8 @@
 "banking.credit.loanAgreementNumber" = "Номер кредитного договора";
 "transfers.main.newTransfer" = "Жаңа аударым";
 "common.rename" = "Атын өзгерту";
-"transfers.favorite.deleteSubscription" = "Удалить из быстрых";
-"transfers.favorite.emptyListTitle" = "В конце нового перевода или в квитанции";
+"transfers.favorite.deleteSubscription" = "Жиілерден алып тастау";
+"transfers.favorite.emptyListTitle" = "Жаңа аударым соңында немесе түбіртекте";
 "banking.credit.startAndEndDate.title" = "Даты начала и окончания";
 "transfers.favorite.name" = "Название перевода";
 "banking.credit.amountCommission" = "Комиссия за ведение счета";
@@ -572,3 +572,9 @@
 "banking.credit.schedule.willPay" = "Не оплачено";
 "transfers.states.canceled" = "Отменен";
 "transfers.states.pending" = "В процессе";
+"settings.notifications.push.emptyNotificationsHint" = "У вас пока нет уведомлений";
+"settings.notifications.push.emptyNotificationsShowHint" = "Мы будем отправлять вам информацию по вашим счетам и картам, а также персональные предложения от банка";
+"settings.notifications.cardTransactionsTitle" = "Операции по картам";
+"settings.notifications.cardTransactionsSubtitle" = "Данные о платежах и переводах";
+"settings.notifications.confirmationCodesTitle" = "Коды подтверждения";
+"settings.notifications.confirmationCodesSubtitle" = "Одноразовые пароли";
