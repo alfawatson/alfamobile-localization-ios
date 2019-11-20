@@ -572,7 +572,7 @@
 "banking.credit.schedule.paymentDate" = "Дата платежа";
 "banking.credit.schedulePaymentPercent" = "Проценты по кредиту";
 "banking.credit.debt" = "Остаток задолженности";
-"banking.credit.schedule.willPay" = "Не оплачено";
+"banking.credit.schedule.willPay" = "Итого к оплате";
 "transfers.states.canceled" = "Отменен";
 "transfers.states.pending" = "В процессе";
 "settings.notifications.push.emptyNotificationsHint" = "У вас пока нет уведомлений";
