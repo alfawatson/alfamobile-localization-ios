@@ -581,3 +581,4 @@
 "settings.notifications.cardTransactionsSubtitle" = "Данные о платежах и переводах";
 "settings.notifications.confirmationCodesTitle" = "Коды подтверждения";
 "settings.notifications.confirmationCodesSubtitle" = "Одноразовые пароли";
+"banking.credit.schedule.percentage" = "Проценты по кредиту";
