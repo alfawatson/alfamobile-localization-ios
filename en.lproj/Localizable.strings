@@ -338,7 +338,7 @@
 "transfers.byPhone.title" = "By phone number";
 "transfers.byPhone.minAmount" = "Minimum transfer amount — %@";
 "transfers.byPhone.clientNotFound" = "No client found with this phone number";
-"transfers.byPhone.feeTitle" = "Commission - %d %@ | %@";
+"transfers.byPhone.feeTitle" = "Commission %d %@ | %@";
 "transfers.byPhone.timitsAndTarfis" = "Limits and tariffs";
 "common.rules" = "Conditions";
 "common.limits" = "Limits";
@@ -579,3 +579,7 @@ If this number is not available, contact the bank branch.";
 "settings.notifications.confirmationCodesTitle" = "Коды подтверждения";
 "settings.notifications.confirmationCodesSubtitle" = "Одноразовые пароли";
 "banking.credit.schedule.percentage" = "Проценты по кредиту";
+"transfers.p2p.infoTitle" = "При переводе с карт других банков РК действуют лимиты.Карта отправителя должна быть открыта для интернет транзакций";
+"banking.credit.statusPaidRecentlyTitle" = "У вас достаточно средств на счете для погашения ежемесячного платежа.";
+"banking.credit.statusPaidRecentlyMessage" = "Сумма будет списана %@";
+"transfers.common.selectFromList" = "Select from list";

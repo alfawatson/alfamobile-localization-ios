@@ -338,7 +338,7 @@
 "transfers.byPhone.title" = "Телефон нөмірімен";
 "transfers.byPhone.minAmount" = "Аударымның ең аз мөлшері - %@";
 "transfers.byPhone.clientNotFound" = "Мұндай телефон нөмірі бар клиент жоқ";
-"transfers.byPhone.feeTitle" = "Комиссия - %d %@ | %@";
+"transfers.byPhone.feeTitle" = "Комиссия %d %@ | %@";
 "transfers.byPhone.timitsAndTarfis" = "Шектеулер мен тарифтер";
 "common.rules" = "Шарттар";
 "common.limits" = "Шектеулер";
@@ -579,3 +579,7 @@
 "settings.notifications.confirmationCodesTitle" = "Коды подтверждения";
 "settings.notifications.confirmationCodesSubtitle" = "Одноразовые пароли";
 "banking.credit.schedule.percentage" = "Проценты по кредиту";
+"transfers.p2p.infoTitle" = "При переводе с карт других банков РК действуют лимиты.Карта отправителя должна быть открыта для интернет транзакций";
+"banking.credit.statusPaidRecentlyTitle" = "У вас достаточно средств на счете для погашения ежемесячного платежа.";
+"banking.credit.statusPaidRecentlyMessage" = "Сумма будет списана %@";
+"transfers.common.selectFromList" = "Тізімнен таңдаңыз";
