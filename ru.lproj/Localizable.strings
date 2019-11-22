@@ -461,7 +461,7 @@
 "settings.faceIDLogin" = "Вход по Face ID";
 "settings.changePassword" = "Изменить код-пароль";
 "settings.changePhone" = "Изменить номер телефона";
-"settings.notifications" = "Уведомления";
+"settings.notifications.title" = "Уведомления";
 "settings.pushNotifications" = "Push-уведомления";
 "settings.mapWithATMs" = "Банкоматы и терминалы";
 "settings.versionNumber" = "Версия %@ (%@)\nАльфа-Банк Казахстан";

@@ -458,7 +458,7 @@
 "settings.faceIDLogin" = "Face ID арқылы кіру";
 "settings.changePassword" = "Код-парольды өзгерту";
 "settings.changePhone" = "Телефон нөмірін өзгерту";
-"settings.notifications" = "Хабарламалар";
+"settings.notifications.title" = "Хабарламалар";
 "settings.pushNotifications" = "Push-хабарламалары";
 "settings.mapWithATMs" = "Банкоматтар мен терминалдар";
 "settings.versionNumber" = "Нұсқасы %@ ( %@ ) \n Alfa-Bank Kazakhstan";
