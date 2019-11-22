@@ -590,3 +590,5 @@
 "main.accounts.title" = "Ағымдағы шоттар";
 "main.deposits.openDeposit.title" = "Депозит ашу";
 "main.deposits.openDeposit.subtitle" = "Сақтау және көбейту";
+"common.credit.enoughFunds" = "Достаточно средств";
+"banking.credit.writeOfDate" = "Спишется %@";

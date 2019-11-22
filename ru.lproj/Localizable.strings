@@ -593,3 +593,5 @@
 "main.accounts.title" = "Текущие счета";
 "main.deposits.openDeposit.title" = "Открыть депозит";
 "main.deposits.openDeposit.subtitle" = "Храните и приумножайте";
+"common.credit.enoughFunds" = "Достаточно средств";
+"banking.credit.writeOfDate" = "Спишется %@";
