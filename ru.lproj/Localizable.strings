@@ -586,3 +586,10 @@
 "banking.credit.statusPaidRecentlyTitle" = "У вас достаточно средств на счете для погашения ежемесячного платежа.";
 "banking.credit.statusPaidRecentlyMessage" = "Сумма будет списана %@";
 "transfers.common.selectFromList" = "Выберите из списка";
+"main.cards.title" = "Карты";
+"main.navigation.title" = "Главная";
+"main.deposits.title" = "Депозиты";
+"main.loans.title" = "Кредиты";
+"main.accounts.title" = "Текущие счета";
+"main.deposits.openDeposit.title" = "Открыть депозит";
+"main.deposits.openDeposit.subtitle" = "Храните и приумножайте";
