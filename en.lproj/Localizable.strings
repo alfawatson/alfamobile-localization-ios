@@ -594,4 +594,4 @@ If this number is not available, contact the bank branch.";
 "banking.credit.writeOfDate" = "Спишется %@";
 "payments.bill.title" = "Квитанция";
 "main.loans.nextPayment" = "Next payment";
-"payments.bill.addedAsFast" = "добавлено\nв Быстрые";
+"payments.bill.addedAsFast" = "Добавлено\nв Быстрые";

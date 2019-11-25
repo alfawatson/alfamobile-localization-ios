@@ -597,4 +597,4 @@
 "banking.credit.writeOfDate" = "Спишется %@";
 "payments.bill.title" = "Квитанция";
 "main.loans.nextPayment" = "Следующий платеж";
-"payments.bill.addedAsFast" = "добавлено\nв Быстрые";
+"payments.bill.addedAsFast" = "Добавлено\nв Быстрые";
