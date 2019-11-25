@@ -593,3 +593,4 @@
 "common.credit.enoughFunds" = "Достаточно средств";
 "banking.credit.writeOfDate" = "Спишется %@";
 "payments.bill.title" = "Квитанция";
+"main.loans.nextPayment" = "Келесі төлем";
