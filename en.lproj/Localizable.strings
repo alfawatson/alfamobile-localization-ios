@@ -592,3 +592,4 @@ If this number is not available, contact the bank branch.";
 "main.deposits.openDeposit.subtitle" = "Store and profit";
 "common.credit.enoughFunds" = "Достаточно средств";
 "banking.credit.writeOfDate" = "Спишется %@";
+"payments.bill.title" = "Квитанция";

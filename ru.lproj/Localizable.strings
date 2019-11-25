@@ -439,7 +439,7 @@
 "payments.bill.addToFast" = "Добавить\nв Быстрые";
 "common.legalIdentifier" = "ИИН/БИН";
 "common.name" = "Название";
-"transfers.byAccountNumber.toPhysical.title" = "Перевод физ. лицам";
+"transfers.byAccountNumber.toPhysical.title" = "Перевод физ. лицу";
 "transfers.p2p.minAmount" = "Минимальная сумма";
 "transfers.p2p.maxAmount" = "Максимальная сумма";
 "transfers.p2p.feeEmpty" = "Комиссия не рассчитана";
@@ -529,7 +529,7 @@
 "banking.credit.progressBarSubtitle" = "Оплачено %@ из %@ платежей";
 "banking.common.changeProductName" = "Изменить название продукта";
 "transfers.byAccountNumber.shortTitle" = "По номеру счета";
-"transfers.byAccountNumber.descrText" = "Юр. лицу, физ. лицу";
+"transfers.byAccountNumber.descrText" = "Юр. лицам, физ. лицам";
 "transfers.exchange.title" = "Обмен валют";
 "transfers.exchange.descrText" = "Конвертация";
 "transfers.p2p.lookup.description" = "Одноразовый цифровой пароль вы можете узнать, обратившись контакт-центр банка, выпустившего Карту Отправителя или в полученной SMS.";
@@ -595,3 +595,4 @@
 "main.deposits.openDeposit.subtitle" = "Храните и приумножайте";
 "common.credit.enoughFunds" = "Достаточно средств";
 "banking.credit.writeOfDate" = "Спишется %@";
+"payments.bill.title" = "Квитанция";

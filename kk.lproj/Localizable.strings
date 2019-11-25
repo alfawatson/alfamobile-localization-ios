@@ -592,3 +592,4 @@
 "main.deposits.openDeposit.subtitle" = "Сақтау және көбейту";
 "common.credit.enoughFunds" = "Достаточно средств";
 "banking.credit.writeOfDate" = "Спишется %@";
+"payments.bill.title" = "Квитанция";
