@@ -602,3 +602,4 @@ If this number is not available, contact the bank branch.";
 "transfers.history.noItemsForPeriod" = "За выбранный период истории нет";
 "transfers.favorites.noItemsActionTitle" = "Нажмите на";
 "transfers.favorites.noItemsActionDetails" = "в конце нового перевода или в квитанции";
+"transfers.addCard.selectCard" = "Выберите карту";
