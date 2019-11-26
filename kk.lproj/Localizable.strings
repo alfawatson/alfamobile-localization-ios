@@ -163,7 +163,7 @@
 "common.validation.invalid" = "Өріс дұрыс толтырылмаған";
 "common.logout" = "Шығу";
 "auth.pinLogin.enterPin" = "Введите код \nдля быстрого входа";
-"auth.pinLogin.forgotPin" = "Кодты\nҰмытым";
+"auth.pinLogin.forgotPin" = "Кодты\nҰмыттым";
 "auth.pinInput.cancelRegister" = "Тіркеуден бас тарту";
 "auth.pinInput.cancelRegisterMessage" = "Егер сіз Шығу түймесін бассаңыз, барлық тіркеу деректері жоғалады.";
 "common.stay" = "Қалу";
@@ -542,7 +542,7 @@
 "banking.credit.entirePeriodDebt" = "Остаток задолженности за весь период";
 "banking.credit.creditAmount" = "Сумма кредита";
 "banking.credit.creditTerm" = "Несие мерзімі";
-"banking.credit.earlyRepaymentFee" = "Комиссия за досрочное погашения";
+"banking.credit.earlyRepaymentFee" = "Комиссия за досрочное погашение";
 "banking.credit.registrationDate" = "Тіркеу күні";
 "banking.credit.loanAgreementNumber" = "Номер кредитного договора";
 "transfers.main.newTransfer" = "Жаңа аударым";
@@ -592,6 +592,9 @@
 "main.deposits.openDeposit.subtitle" = "Сақтау және көбейту";
 "common.credit.enoughFunds" = "Достаточно средств";
 "banking.credit.writeOfDate" = "Спишется %@";
-"payments.bill.title" = "Квитанция";
+"payments.bill.title" = "Түбіртек";
 "main.loans.nextPayment" = "Келесі төлем";
 "payments.bill.addedAsFast" = "Добавлено\nв Быстрые";
+"settings.more.title" = "Еще";
+"settings.more.allKaz" = "Весь Казахстан";
+"common.untilDate" = "%@ дейін";

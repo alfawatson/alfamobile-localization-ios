@@ -81,9 +81,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>li</string>
         <key>one</key>
-        <string>ай</string>
+        <string>%li ай</string>
         <key>other</key>
-        <string>ай</string>
+        <string>%li ай</string>
       </dict>
     </dict>
   </dict>

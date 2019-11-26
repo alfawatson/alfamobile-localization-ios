@@ -77,9 +77,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>li</string>
         <key>one</key>
-        <string>month</string>
+        <string>%li month</string>
         <key>other</key>
-        <string>months</string>
+        <string>%li months</string>
       </dict>
     </dict>
   </dict>

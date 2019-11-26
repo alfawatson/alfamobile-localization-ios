@@ -545,7 +545,7 @@
 "banking.credit.entirePeriodDebt" = "Остаток задолженности за весь период";
 "banking.credit.creditAmount" = "Сумма кредита";
 "banking.credit.creditTerm" = "Срок кредита";
-"banking.credit.earlyRepaymentFee" = "Комиссия за досрочное погашения";
+"banking.credit.earlyRepaymentFee" = "Комиссия за досрочное погашение";
 "banking.credit.registrationDate" = "Дата регистрации";
 "banking.credit.loanAgreementNumber" = "Номер кредитного договора";
 "transfers.main.newTransfer" = "Новый перевод";
@@ -598,3 +598,6 @@
 "payments.bill.title" = "Квитанция";
 "main.loans.nextPayment" = "Следующий платеж";
 "payments.bill.addedAsFast" = "Добавлено\nв Быстрые";
+"settings.more.title" = "Еще";
+"settings.more.allKaz" = "Весь Казахстан";
+"common.untilDate" = "до %@";
