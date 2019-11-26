@@ -599,3 +599,6 @@ If this number is not available, contact the bank branch.";
 "settings.more.allKaz" = "Весь Казахстан";
 "common.untilDate" = "until %@";
 "common.notEnoughFunds.popup.changeSource" = "Выберите другую карту или счёт";
+"transfers.history.noItemsForPeriod" = "За выбранный период истории нет";
+"transfers.favorites.noItemsActionTitle" = "Нажмите на";
+"transfers.favorites.noItemsActionDetails" = "в конце нового перевода или в квитанции";
