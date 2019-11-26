@@ -598,3 +598,4 @@
 "settings.more.title" = "Еще";
 "settings.more.allKaz" = "Весь Казахстан";
 "common.untilDate" = "%@ дейін";
+"common.notEnoughFunds.popup.changeSource" = "Выберите другую карту или счёт";

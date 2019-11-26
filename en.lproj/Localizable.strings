@@ -598,3 +598,4 @@ If this number is not available, contact the bank branch.";
 "settings.more.title" = "Еще";
 "settings.more.allKaz" = "Весь Казахстан";
 "common.untilDate" = "until %@";
+"common.notEnoughFunds.popup.changeSource" = "Выберите другую карту или счёт";
