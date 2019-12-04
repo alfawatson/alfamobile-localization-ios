@@ -606,3 +606,7 @@
 "transfers.favorites.noItemsActionTitle" = "Нажмите на";
 "transfers.favorites.noItemsActionDetails" = "в конце нового перевода или в квитанции";
 "transfers.addCard.selectCard" = "Выберите карту";
+"banking.credit.fineAmount" = "+ %@ пеня";
+"transfers.favorite.removeAlert.confirmation" = "Вы действительно хотите удалить перевод из быстрых?";
+"transfers.favorite.removeAlert.delete" = "Удалить";
+"transfers.favorite.removeFromFavorites" = "Удалить из Быстрых";
