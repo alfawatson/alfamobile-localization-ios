@@ -162,7 +162,7 @@
 "common.validation.empty" = "Жалғастыру үшін өрісті толтырыңыз";
 "common.validation.invalid" = "Өріс дұрыс толтырылмаған";
 "common.logout" = "Шығу";
-"auth.pinLogin.enterPin" = "Введите код \nдля быстрого входа";
+"auth.pinLogin.enterPin" = "Жылдам кіру үшін\n кодты енгізіңіз";
 "auth.pinLogin.forgotPin" = "Кодты\nҰмыттым";
 "auth.pinInput.cancelRegister" = "Тіркеуден бас тарту";
 "auth.pinInput.cancelRegisterMessage" = "Егер сіз Шығу түймесін бассаңыз, барлық тіркеу деректері жоғалады.";
@@ -542,7 +542,7 @@
 "banking.credit.entirePeriodDebt" = "Остаток задолженности за весь период";
 "banking.credit.creditAmount" = "Сумма кредита";
 "banking.credit.creditTerm" = "Несие мерзімі";
-"banking.credit.earlyRepaymentFee" = "Комиссия за досрочное погашение";
+"banking.credit.earlyRepaymentFee" = "Мерзімінен бұрын өтеу үшін комиссия";
 "banking.credit.registrationDate" = "Тіркеу күні";
 "banking.credit.loanAgreementNumber" = "Номер кредитного договора";
 "transfers.main.newTransfer" = "Жаңа аударым";
@@ -570,8 +570,8 @@
 "banking.credit.schedulePaymentPercent" = "Проценты по кредиту";
 "banking.credit.debt" = "Остаток задолженности";
 "banking.credit.schedule.willPay" = "Төлемге";
-"transfers.states.canceled" = "Отменен";
-"transfers.states.pending" = "В процессе";
+"transfers.states.canceled" = "Тоқтатылды";
+"transfers.states.pending" = "Процесінде";
 "settings.notifications.push.emptyNotificationsHint" = "Сізде әлі хабарлама жоқ";
 "settings.notifications.push.emptyNotificationsShowHint" = "Мы будем отправлять вам информацию по вашим счетам и картам, а также персональные предложения от банка";
 "settings.notifications.cardTransactionsTitle" = "Карта операциялар";
@@ -590,20 +590,28 @@
 "main.accounts.title" = "Ағымдағы шоттар";
 "main.deposits.openDeposit.title" = "Депозит ашу";
 "main.deposits.openDeposit.subtitle" = "Сақтау және көбейту";
-"common.credit.enoughFunds" = "Достаточно средств";
-"banking.credit.writeOfDate" = "Спишется %@";
+"common.credit.enoughFunds" = "Ақша жеткілікті";
+"banking.credit.writeOfDate" = "Есептен шығарылады";
 "payments.bill.title" = "Түбіртек";
 "main.loans.nextPayment" = "Келесі төлем";
-"payments.bill.addedAsFast" = "Добавлено\nв Быстрые";
+"payments.bill.addedAsFast" = "Жылдамдыққа \n қосылды";
 "settings.more.title" = "Тағы";
 "settings.more.allKaz" = "Бүкіл Қазақстан";
 "common.untilDate" = "%@ дейін";
 "common.notEnoughFunds.popup.changeSource" = "Басқа картаны немесе шотты таңдаңыз";
-"transfers.history.noItemsForPeriod" = "За выбранный период истории нет";
-"transfers.favorites.noItemsActionTitle" = "Нажмите на";
-"transfers.favorites.noItemsActionDetails" = "в конце нового перевода или в квитанции";
-"transfers.addCard.selectCard" = "Выберите карту";
+"transfers.history.noItemsForPeriod" = "Таңдалған кезеңдегі тарих жоқ";
+"transfers.favorites.noItemsActionTitle" = "Басыңыз";
+"transfers.favorites.noItemsActionDetails" = "жаңа аударым соңында немесе түбіртекте";
+"transfers.addCard.selectCard" = "Картаны таңдаңыз";
 "banking.credit.fineAmount" = "+ %@ айыппұл";
-"transfers.favorite.removeAlert.confirmation" = "Вы действительно хотите удалить перевод из быстрых?";
-"transfers.favorite.removeAlert.delete" = "Удалить";
-"transfers.favorite.removeFromFavorites" = "Удалить из Быстрых";
+"transfers.favorite.removeAlert.confirmation" = "Жылдам бөлімнен жойғыңыз келе ме?";
+"transfers.favorite.removeAlert.delete" = "Жою";
+"transfers.favorite.removeFromFavorites" = "Жылдам бөлімнен алып тастаңыз";
+"payments.subscriptions.empty.title" = "Сізде жылдам төлемдер әлі жоқ";
+"payments.subscriptions.empty.message" = "Мұнда сіз төлемдерді тез қайталай аласыз. \
+\
+ Барлық төлемдер автоматты түрде «Жылдам» режиміне қосылады";
+"products.creditcard.defaultName" = "Кредитная карта";
+"products.alfablack.defaultName" = "Alfablack";
+"common.root.error" = "На вашем телефоне обнаружены Root-права. К сожалению, вход в приложение невозможен";
+"common.symbols" = "символов";

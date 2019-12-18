@@ -604,6 +604,14 @@ If this number is not available, contact the bank branch.";
 "transfers.favorites.noItemsActionDetails" = "at the end of a new transfer or in a receipt";
 "transfers.addCard.selectCard" = "Select a card";
 "banking.credit.fineAmount" = "+ %@ penalty";
-"transfers.favorite.removeAlert.confirmation" = "Вы действительно хотите удалить перевод из быстрых?";
-"transfers.favorite.removeAlert.delete" = "Удалить";
-"transfers.favorite.removeFromFavorites" = "Удалить из Быстрых";
+"transfers.favorite.removeAlert.confirmation" = "Are you sure you want to remove the transfer from Quick?";
+"transfers.favorite.removeAlert.delete" = "Remove";
+"transfers.favorite.removeFromFavorites" = "Remove from Quick";
+"payments.subscriptions.empty.title" = "You don't have quick payments";
+"payments.subscriptions.empty.message" = "Here you can quickly repeat frequent payments. \
+\
+ All payments made will be automatically added to the \"Quick\"";
+"products.creditcard.defaultName" = "Credit card";
+"products.alfablack.defaultName" = "Alfablack";
+"common.root.error" = "На вашем телефоне обнаружены Root-права. К сожалению, вход в приложение невозможен";
+"common.symbols" = "символов";

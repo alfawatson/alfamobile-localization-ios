@@ -610,3 +610,11 @@
 "transfers.favorite.removeAlert.confirmation" = "Вы действительно хотите удалить перевод из быстрых?";
 "transfers.favorite.removeAlert.delete" = "Удалить";
 "transfers.favorite.removeFromFavorites" = "Удалить из Быстрых";
+"payments.subscriptions.empty.title" = "У вас пока нет быстрых платежей";
+"payments.subscriptions.empty.message" = "Здесь вы сможете быстро повторить частые платежи.\
+ \
+Все проведенные платежи автоматически будут добавляться в «Быстрые»";
+"products.creditcard.defaultName" = "Кредитная карта";
+"products.alfablack.defaultName" = "Alfablack";
+"common.root.error" = "На вашем телефоне обнаружены Root-права. К сожалению, вход в приложение невозможен";
+"common.symbols" = "символов";
