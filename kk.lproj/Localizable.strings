@@ -615,4 +615,4 @@
 "products.alfablack.defaultName" = "Alfablack";
 "common.root.error" = "На вашем телефоне обнаружены Root-права. К сожалению, вход в приложение невозможен";
 "common.symbols" = " символов";
-"transfers.ByAccountNumber.comments" = "Аудармаға түсініктеме (міндетті емес)";
+"transfers.byAccountNumber.comments" = "Аудармаға түсініктеме (міндетті емес)";
