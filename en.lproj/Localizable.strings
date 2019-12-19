@@ -614,4 +614,5 @@ If this number is not available, contact the bank branch.";
 "products.creditcard.defaultName" = "Credit card";
 "products.alfablack.defaultName" = "Alfablack";
 "common.root.error" = "На вашем телефоне обнаружены Root-права. К сожалению, вход в приложение невозможен";
-"common.symbols" = "символов";
+"common.symbols" = " символов";
+"AlfaLocale.Transfers.ByAccountNumber.comments" = "Comment (optional)";
