@@ -616,3 +616,8 @@
 "common.root.error" = "На вашем телефоне обнаружены Root-права. К сожалению, вход в приложение невозможен";
 "common.symbols" = " символов";
 "transfers.byAccountNumber.comments" = "Аудармаға түсініктеме (міндетті емес)";
+"settings.notifications.personalOffersTitle" = "Персональные предложения";
+"settings.notifications.personalOffersSubTitle" = "Информационные и рекламные сообщения";
+"settings.notifications.bankMessageTitle" = "Сообщения от банка";
+"settings.notifications.bankMessageSubTitle" = "Уведомления о предстоящем платеже по кредиту, пополнении счета и многое другое";
+"common.copied" = "Скопировано";
