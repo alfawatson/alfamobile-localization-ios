@@ -621,3 +621,4 @@
 "settings.notifications.bankMessageTitle" = "Сообщения от банка";
 "settings.notifications.bankMessageSubTitle" = "Уведомления о предстоящем платеже по кредиту, пополнении счета и многое другое";
 "common.copied" = "Скопировано";
+"transfers.byPhone.transferToOwnPhoneError" = "Упс, вы переводите деньги по своему номеру телефона";

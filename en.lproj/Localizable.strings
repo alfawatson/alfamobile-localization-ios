@@ -1,7 +1,7 @@
 "auth.sms.resend" = "Resend";
 "auth.sms.resend_counter_message" = "You can resend SMS code in\n%li sec";
 "auth.registration.title" = "Enter your mobile phone";
-"auth.registration.callCenter" = "Call center";
+"auth.registration.callCenter" = "Call the Bank";
 "auth.smsValidation.title" = "SMS confirmation";
 "auth.smsValidation.enterSmsCode" = "Enter code from SMS";
 "auth.smsValidation.invalidCode" = "Invalid code";
@@ -621,3 +621,4 @@ If this number is not available, contact the bank branch.";
 "settings.notifications.bankMessageTitle" = "Messages from the bank";
 "settings.notifications.bankMessageSubTitle" = "Notifications of upcoming payments, account replenishment and much more";
 "common.copied" = "Copied";
+"transfers.byPhone.transferToOwnPhoneError" = "Упс, вы переводите деньги по своему номеру телефона";
