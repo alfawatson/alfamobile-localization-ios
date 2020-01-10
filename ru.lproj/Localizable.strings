@@ -532,7 +532,7 @@
 "transfers.byAccountNumber.descrText" = "Юр. лицам, физ. лицам";
 "transfers.exchange.title" = "Обмен валют";
 "transfers.exchange.descrText" = "Конвертация";
-"transfers.p2p.lookup.description" = "Одноразовый цифровой пароль вы можете узнать, обратившись контакт-центр банка, выпустившего Карту Отправителя или в полученной SMS.";
+"transfers.p2p.lookup.description" = "Одноразовый цифровой пароль вы можете узнать, обратившись в контакт-центр банка, выпустившего Карту Отправителя или в полученной SMS.";
 "settings.changeUserNumber.result.failedDescription" = "На нашей стороне произошла ошибка, попробуйте заново через несколько минут";
 "common.goToMain" = "Перейти на Главную";
 "settings.changeUserNumber.result.retry" = "Попробовать заново";
@@ -625,3 +625,7 @@
 "settings.notifications.bankMessageSubTitle" = "Уведомления о предстоящем платеже по кредиту, пополнении счета и многое другое";
 "common.copied" = "Скопировано";
 "transfers.byPhone.transferToOwnPhoneError" = "Упс, вы переводите деньги по своему номеру телефона";
+"common.onboarding.pushTitle" = "Всегда в курсе!";
+"common.onboarding.pushDescription" = "Включите уведомления, чтобы всегда знать о всех действиях по картам и персональных предложениях банка";
+"common.onboarding.pushTurnOn" = "Включить уведомления";
+"common.onboarding.notNow" = "Не сейчас";
