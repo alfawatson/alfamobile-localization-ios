@@ -626,3 +626,4 @@ If this number is not available, contact the bank branch.";
 "common.onboarding.pushDescription" = "Turn on notifications to always know about all actions on cards and personal offers of the bank";
 "common.onboarding.pushTurnOn" = "Enable notifications";
 "common.onboarding.notNow" = "Not now";
+"alfaBlack.statement.totalDebt" = "Total debt";

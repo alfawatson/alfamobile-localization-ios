@@ -625,4 +625,5 @@
 "common.onboarding.pushTitle" = "Всегда в курсе!";
 "common.onboarding.pushDescription" = "Включите уведомления, чтобы всегда знать о всех действиях по картам и персональных предложениях банка";
 "common.onboarding.pushTurnOn" = "Включить уведомления";
-"common.onboarding.notNow" = "Не сейчас";
+"common.onboarding.notNow" = "Қазір емес";
+"alfaBlack.statement.totalDebt" = "Жалпы қарыз";

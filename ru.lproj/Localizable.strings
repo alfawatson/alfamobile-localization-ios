@@ -629,3 +629,4 @@
 "common.onboarding.pushDescription" = "Включите уведомления, чтобы всегда знать о всех действиях по картам и персональных предложениях банка";
 "common.onboarding.pushTurnOn" = "Включить уведомления";
 "common.onboarding.notNow" = "Не сейчас";
+"alfaBlack.statement.totalDebt" = "Общая задолженность";
