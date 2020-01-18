@@ -627,3 +627,6 @@
 "common.onboarding.pushTurnOn" = "Хабарландыруларды қосу";
 "common.onboarding.notNow" = "Қазір емес";
 "alfaBlack.statement.totalDebt" = "Жалпы қарыз";
+"common.fromDate" = "c %@";
+"alfaBlack.statement.monthlyPaymentStatus.expired" = "Кешіктірілген";
+"alfaBlack.statement.monthlyPaymentStatus.paid" = "Төленген";

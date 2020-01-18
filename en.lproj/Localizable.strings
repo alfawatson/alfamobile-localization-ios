@@ -362,7 +362,7 @@
 "alfaBlack.statement.ownFunds" = "Own funds";
 "alfaBlack.statement.creditLimit" = "Credit limit";
 "alfaBlack.statement.purchases" = "Purchases";
-"alfaBlack.statement.otherOperations" = "All transactions%@";
+"alfaBlack.statement.otherOperations" = "All transactions";
 "alfaBlack.statement.availableAmount" = "Available amount";
 "nfcScan.scanNfcCardError" = "An error occurred while reading the card. Attach again";
 "common.close" = "Close";
@@ -627,3 +627,6 @@ If this number is not available, contact the bank branch.";
 "common.onboarding.pushTurnOn" = "Enable notifications";
 "common.onboarding.notNow" = "Not now";
 "alfaBlack.statement.totalDebt" = "Total debt";
+"common.fromDate" = "From %@";
+"alfaBlack.statement.monthlyPaymentStatus.expired" = "Late";
+"alfaBlack.statement.monthlyPaymentStatus.paid" = "Paid";

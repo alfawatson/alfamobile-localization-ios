@@ -630,3 +630,6 @@
 "common.onboarding.pushTurnOn" = "Включить уведомления";
 "common.onboarding.notNow" = "Не сейчас";
 "alfaBlack.statement.totalDebt" = "Общая задолженность";
+"common.fromDate" = "c %@";
+"alfaBlack.statement.monthlyPaymentStatus.expired" = "Просрочен";
+"alfaBlack.statement.monthlyPaymentStatus.paid" = "Оплачен";
