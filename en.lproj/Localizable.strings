@@ -192,7 +192,7 @@
 "payments.history.status.new" = "In processing";
 "payments.history.status.cancel" = "Payment failed";
 "products.card.action.limit.title" = "Limits";
-"products.card.action.limit.subTitle" = "Internet payments, card payment";
+"products.card.action.limit.subTitle" = "Card payment, cash withdrawals";
 "products.card.action.name.title" = "Change the card name";
 "products.card.action.name.subTitle" = "Multicurrency card";
 "products.card.action.changeCurrency.title" = "Change main currency";
@@ -205,7 +205,7 @@
 "products.card.action.changePin.title" = "Change the pin";
 "products.card.action.changePin.subTitle" = "4-digit card password ";
 "products.card.action.details.title" = "Card terms";
-"products.card.action.details.subTitle" = "Limits";
+"products.card.action.details.subTitle" = "Information on limits and tariffs";
 "common.off" = "Turned off";
 "common.on" = "Turned on";
 "products.card.action.block.title" = "Block the card";

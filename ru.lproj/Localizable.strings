@@ -192,7 +192,7 @@
 "payments.history.status.new" = "В обработке";
 "payments.history.status.cancel" = "Не прошел";
 "products.card.action.limit.title" = "Лимиты";
-"products.card.action.limit.subTitle" = "Интернет платежи, оплата картой";
+"products.card.action.limit.subTitle" = "Оплата картой, снятие наличных";
 "products.card.action.name.title" = "Изменить название карты";
 "products.card.action.name.subTitle" = "Мультивалютная карта";
 "products.card.action.changeCurrency.title" = "Сменить основную валюту";
@@ -205,7 +205,7 @@
 "products.card.action.changePin.title" = "Сменить пин-код";
 "products.card.action.changePin.subTitle" = "4-х значный пароль на карту";
 "products.card.action.details.title" = "Условия по карте";
-"products.card.action.details.subTitle" = "Лимиты";
+"products.card.action.details.subTitle" = "Информация по лимитам и тарифам";
 "common.off" = "Отключены";
 "common.on" = "Включены";
 "products.card.action.block.title" = "Блокировать карту";

@@ -192,7 +192,7 @@
 "payments.history.status.new" = "Өңдеуде";
 "payments.history.status.cancel" = "Төлем орындалмады";
 "products.card.action.limit.title" = "Шектеулер";
-"products.card.action.limit.subTitle" = "Интернеттегі төлемдер, карта бойынша төлеу";
+"products.card.action.limit.subTitle" = "Карта бойынша төлеу, қолма-қол ақшаны алу";
 "products.card.action.name.title" = "Картаның атауын өзгерту";
 "products.card.action.name.subTitle" = "Мультивалюталық карта";
 "products.card.action.changeCurrency.title" = "Негізгі валютаны ауыстырыңыз";
@@ -205,7 +205,7 @@
 "products.card.action.changePin.title" = "PIN кодын өзгертіңіз";
 "products.card.action.changePin.subTitle" = "Картанын 4 таңбалы пароль";
 "products.card.action.details.title" = "Картаның шарттары";
-"products.card.action.details.subTitle" = "Шектеулер";
+"products.card.action.details.subTitle" = "Лимиттер мен тарифтер туралы ақпарат";
 "common.off" = "Ажыратылған";
 "common.on" = "Қосылған";
 "products.card.action.block.title" = "Картаны блоктау";
