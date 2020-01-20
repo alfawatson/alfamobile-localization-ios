@@ -630,3 +630,4 @@
 "common.fromDate" = "c %@";
 "alfaBlack.statement.monthlyPaymentStatus.expired" = "Кешіктірілген";
 "alfaBlack.statement.monthlyPaymentStatus.paid" = "Төленген";
+"common.error.noInternet" = "Отсутствует подключение к сети, проверьте сетевое соединение";

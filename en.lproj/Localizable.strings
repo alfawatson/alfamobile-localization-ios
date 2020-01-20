@@ -630,3 +630,4 @@ If this number is not available, contact the bank branch.";
 "common.fromDate" = "From %@";
 "alfaBlack.statement.monthlyPaymentStatus.expired" = "Late";
 "alfaBlack.statement.monthlyPaymentStatus.paid" = "Paid";
+"common.error.noInternet" = "Отсутствует подключение к сети, проверьте сетевое соединение";

@@ -633,3 +633,4 @@
 "common.fromDate" = "c %@";
 "alfaBlack.statement.monthlyPaymentStatus.expired" = "Просрочен";
 "alfaBlack.statement.monthlyPaymentStatus.paid" = "Оплачен";
+"common.error.noInternet" = "Отсутствует подключение к сети, проверьте сетевое соединение";
