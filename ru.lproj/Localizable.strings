@@ -9,7 +9,7 @@
 "auth.creditCardInput.title" = "Введите номер карты";
 "auth.creditCardInput.invalidCardNumber" = "Неверный номер карты";
 "auth.creditCardInput.forgotCardNumber" = "Не помню номер карты";
-"auth.registration.agreementText" = "с тарифами Банка %@ и согласен";
+"auth.registration.agreementText" = "с %@ Банка ознакомлен и согласен";
 "transfers.international.onboardingTitle" = "Международные переводы";
 "transfers.international.onboardingDescription" = "Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%";
 "transfers.international.onboardingButtonTitle" = "Совершить перевод";
@@ -171,7 +171,7 @@
 "auth.touchInput.prompt" = "Использовать отпечаток пальца для быстрого входа в приложение?";
 "auth.registration.agreementPrefix" = "Я подтверждаю, что ознакомлен и присоединяюсь к";
 "payments.invoiceForm.checkDebt" = "Узнать задолженность";
-"auth.registration.agreementText.colored" = "ознакомлен";
+"auth.registration.agreementText.colored" = "тарифами";
 "payments.drivingFine.checking" = "Проверка наличия штрафов...";
 "payments.simple.checkAgain" = "Проверить еще раз";
 "payments.common.notEnoughMoney" = "Сумма операции превышает остаток на счете";

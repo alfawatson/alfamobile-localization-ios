@@ -9,7 +9,7 @@
 "auth.creditCardInput.title" = "Enter your card number";
 "auth.creditCardInput.invalidCardNumber" = "Invalid card number";
 "auth.creditCardInput.forgotCardNumber" = "I don't remember the card number";
-"auth.registration.agreementText" = "I have %@ and agree with the Bank's tariffs";
+"auth.registration.agreementText" = "I have read and agree with the Bank's %@";
 "transfers.international.onboardingTitle" = "International transfers";
 "transfers.international.onboardingDescription" = "Make transfers from any Kazakhstan card to any card worldwide. Transfer commission starting from 0,7%";
 "transfers.international.onboardingButtonTitle" = "Make a transfer";
@@ -171,7 +171,7 @@
 "auth.touchInput.prompt" = "Do you want to allow to use fingerprint for quick login?";
 "auth.registration.agreementPrefix" = "I confirm that I have read and join";
 "payments.invoiceForm.checkDebt" = "Check debt";
-"auth.registration.agreementText.colored" = "read";
+"auth.registration.agreementText.colored" = "tariffs";
 "payments.drivingFine.checking" = "Checking for fines ...";
 "payments.simple.checkAgain" = "Check again";
 "payments.common.notEnoughMoney" = "Your amount exceeds the account balance";

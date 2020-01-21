@@ -9,7 +9,7 @@
 "auth.creditCardInput.title" = "Карта нөмірін енгізіңіз";
 "auth.creditCardInput.invalidCardNumber" = "Жарамсыз карта нөмірі";
 "auth.creditCardInput.forgotCardNumber" = "Картаның нөмірі есімде жоқ";
-"auth.registration.agreementText" = "Мен Банктің тарифтерін %@ және келісемін";
+"auth.registration.agreementText" = "Мен Банктің %@ оқып шықтым және келісемін";
 "transfers.international.onboardingTitle" = "Халықаралық аударымдар";
 "transfers.international.onboardingDescription" = "Қазақстандық картадан әлемнің кез-келген банк картасына аударым жасаңыз. Аударым комиссия - 0,7%";
 "transfers.international.onboardingButtonTitle" = "Аударманы жасау";
@@ -171,7 +171,7 @@
 "auth.touchInput.prompt" = "Қолдаңбаға жылдам кіру үшін Touch ID қолдану керек пе?";
 "auth.registration.agreementPrefix" = "Оқып, қосылғанымды растаймын";
 "payments.invoiceForm.checkDebt" = "Қарызды тексеру";
-"auth.registration.agreementText.colored" = "оқып шықтым";
+"auth.registration.agreementText.colored" = "тарифтерін";
 "payments.drivingFine.checking" = "Болуын тексеру айыппұл...";
 "payments.simple.checkAgain" = "Қайта тексеріңіз";
 "payments.common.notEnoughMoney" = "Операция сомасы шоттағы қалдықтан асады";
