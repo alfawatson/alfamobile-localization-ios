@@ -634,3 +634,4 @@
 "alfaBlack.statement.monthlyPaymentStatus.expired" = "Просрочен";
 "alfaBlack.statement.monthlyPaymentStatus.paid" = "Оплачен";
 "common.error.noInternet" = "Отсутствует подключение к сети, проверьте сетевое соединение";
+"payments.barcodeScan.systemError" = "Для сканирования штрихкод необходимо дать доступ камере в настройках приложения.";
