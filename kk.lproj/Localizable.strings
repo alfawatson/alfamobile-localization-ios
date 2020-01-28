@@ -632,3 +632,4 @@
 "alfaBlack.statement.monthlyPaymentStatus.paid" = "Төленген";
 "common.error.noInternet" = "Отсутствует подключение к сети, проверьте сетевое соединение";
 "payments.barcodeScan.systemError" = "Штрих-кодты сканерлеу үшін бағдарлама параметрлерінде камераға кіру рұқсатын беру керек.";
+"common.myTransfers" = "Мои переводы";
