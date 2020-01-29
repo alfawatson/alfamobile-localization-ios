@@ -633,3 +633,7 @@
 "common.error.noInternet" = "Отсутствует подключение к сети, проверьте сетевое соединение";
 "payments.barcodeScan.systemError" = "Штрих-кодты сканерлеу үшін бағдарлама параметрлерінде камераға кіру рұқсатын беру керек.";
 "common.myTransfers" = "Мои переводы";
+"common.fastTransfers" = "Быстрые переводы";
+"transfers.main.newTransferHint" = "Создайте ваш первый\nбыстрый перевод";
+"common.products.deleteActionTitle" = "Удаление";
+"common.products.deletingConfirmMessage" = "Вы действительно хотите удалить карту из списка?";

@@ -505,7 +505,7 @@
 "common.fromAnyCard" = "Картой другого банка";
 "common.fromCash" = "Наличными";
 "common.atmMap" = "Карта банкоматов и терминалов";
-"common.noAcceptableCard" = "У вас не доступных карт";
+"common.noAcceptableCard" = "У вас нет доступных карт";
 "banking.credit.month.payment.success" = "Ежемесячный платеж принят \nв обработку";
 "banking.credit.prepayment.success" = "Досрочное погашение принято \nв обработку";
 "common.resultWillComeInSms" = "Ответ придет посредством SMS";
@@ -636,3 +636,7 @@
 "common.error.noInternet" = "Отсутствует подключение к сети, проверьте сетевое соединение";
 "payments.barcodeScan.systemError" = "Для сканирования штрихкод необходимо дать доступ камере в настройках приложения.";
 "common.myTransfers" = "Мои переводы";
+"common.fastTransfers" = "Быстрые переводы";
+"transfers.main.newTransferHint" = "Создайте ваш первый\nбыстрый перевод";
+"common.products.deleteActionTitle" = "Удаление";
+"common.products.deletingConfirmMessage" = "Вы действительно хотите удалить карту из списка?";

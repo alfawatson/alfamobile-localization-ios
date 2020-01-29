@@ -139,7 +139,7 @@
 "auth.touchInput.touchNotDistinguished" = "Touch ID not distinguished ";
 "auth.touchInput.touchConfigChanged" = "The Touch ID entry is off due to changes in your phone's settings. Enter with the passcode and go to \"Settings\"";
 "auth.touchInput.touchScanner.error" = "Touch ID scanner initialization error";
-"auth.touchInput.allowTouch" = "Do you want to allow Touch ID log in?";
+"auth.touchInput.allowTouch" = "Do you want to allow fingerprint log in ?";
 "common.allow" = "Allow";
 "common.yes" = "Yes";
 "common.no" = "No";
@@ -267,7 +267,7 @@
 "payments.all.searchPlaceholder" = "Enter service name";
 "products.statement.holdTitle" = "Processing";
 "common.filters.fromTo" = "From %@ to %@";
-"common.filters.allOperationForPerior" = "All transactions%@";
+"common.filters.allOperationForPerior" = "All transactions %@";
 "products.statement.updateTimeTitle" = "The statement is relevant on %@";
 "products.requisites.account" = "Account number";
 "products.requisites.cardNumber" = "Card number";
@@ -633,3 +633,7 @@ If this number is not available, contact the bank branch.";
 "common.error.noInternet" = "Отсутствует подключение к сети, проверьте сетевое соединение";
 "payments.barcodeScan.systemError" = "To scan the barcode, you must give access to the camera in the application settings.";
 "common.myTransfers" = "Мои переводы";
+"common.fastTransfers" = "Быстрые переводы";
+"transfers.main.newTransferHint" = "Создайте ваш первый\nбыстрый перевод";
+"common.products.deleteActionTitle" = "Удаление";
+"common.products.deletingConfirmMessage" = "Вы действительно хотите удалить карту из списка?";
