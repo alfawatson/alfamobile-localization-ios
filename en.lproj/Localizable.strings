@@ -635,5 +635,5 @@ If this number is not available, contact the bank branch.";
 "common.myTransfers" = "Мои переводы";
 "common.fastTransfers" = "Быстрые переводы";
 "transfers.main.newTransferHint" = "Создайте ваш первый\nбыстрый перевод";
-"common.products.deleteActionTitle" = "Удаление";
-"common.products.deletingConfirmMessage" = "Вы действительно хотите удалить карту из списка?";
+"products.deleteActionTitle" = "Delete";
+"products.deletingConfirmMessage" = "Are you sure you want to remove the card from the list?";

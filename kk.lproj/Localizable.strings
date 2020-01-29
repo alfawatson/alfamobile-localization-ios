@@ -635,5 +635,5 @@
 "common.myTransfers" = "Мои переводы";
 "common.fastTransfers" = "Быстрые переводы";
 "transfers.main.newTransferHint" = "Создайте ваш первый\nбыстрый перевод";
-"common.products.deleteActionTitle" = "Удаление";
-"common.products.deletingConfirmMessage" = "Вы действительно хотите удалить карту из списка?";
+"products.deleteActionTitle" = "Удаление";
+"products.deletingConfirmMessage" = "Вы действительно хотите удалить карту из списка?";
