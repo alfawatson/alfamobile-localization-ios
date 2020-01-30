@@ -242,9 +242,9 @@
 "payments.subscriptions.invoice.new" = "Новая квитанция";
 "payments.subscriptions.invoice.no" = "Нет новых квитанций";
 "common.loading" = "Загрузка";
-"products.card.status.action.activated" = "Карта активирована!";
-"products.card.status.action.blocked" = "Карта заблокирована!";
-"products.card.status.action.unblocked" = "Карта разблокирована!";
+"products.card.status.action.activated" = "Карта активирована";
+"products.card.status.action.blocked" = "Карта заблокирована";
+"products.card.status.action.unblocked" = "Карта разблокирована";
 "payments.drivingFine.fio.hint" = "Укажите данные, как в документе, используя буквы казахского алфавита, если необходимо";
 "common.today" = "Сегодня";
 "common.yesterday" = "Вчера";
@@ -640,3 +640,4 @@
 "transfers.main.newTransferHint" = "Создайте ваш первый\nбыстрый перевод";
 "products.deleteActionTitle" = "Удаление";
 "products.deletingConfirmMessage" = "Вы действительно хотите удалить карту из списка?";
+"transfers.main.fastTransfer" = "Быстрый перевод";

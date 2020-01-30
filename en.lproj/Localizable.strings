@@ -242,9 +242,9 @@
 "payments.subscriptions.invoice.new" = "New invoice";
 "payments.subscriptions.invoice.no" = "No new invoices";
 "common.loading" = "Loading";
-"products.card.status.action.activated" = "The card is activated!";
-"products.card.status.action.blocked" = "The card is blocked!";
-"products.card.status.action.unblocked" = "The card is unblocked!";
+"products.card.status.action.activated" = "The card is activated";
+"products.card.status.action.blocked" = "The card is blocked";
+"products.card.status.action.unblocked" = "The card is unblocked";
 "payments.drivingFine.fio.hint" = "Please enter data from your document, using Kazakh alphabet letters if necessary";
 "common.today" = "Today";
 "common.yesterday" = "Yesterday";
@@ -637,3 +637,4 @@ If this number is not available, contact the bank branch.";
 "transfers.main.newTransferHint" = "Создайте ваш первый\nбыстрый перевод";
 "products.deleteActionTitle" = "Delete";
 "products.deletingConfirmMessage" = "Are you sure you want to remove the card from the list?";
+"transfers.main.fastTransfer" = "Быстрый перевод";

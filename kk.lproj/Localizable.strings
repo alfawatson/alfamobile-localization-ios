@@ -242,9 +242,9 @@
 "payments.subscriptions.invoice.new" = "Жаңа түбіртек";
 "payments.subscriptions.invoice.no" = "Жаңа түбіртектер жоқ";
 "common.loading" = "Жүктеу";
-"products.card.status.action.activated" = "Карта іске қосылды!";
-"products.card.status.action.blocked" = "Карта бұғатталған!";
-"products.card.status.action.unblocked" = "Карта бұғатын ашылған!";
+"products.card.status.action.activated" = "Карта іске қосылды";
+"products.card.status.action.blocked" = "Карта бұғатталған";
+"products.card.status.action.unblocked" = "Карта бұғатын ашылған";
 "payments.drivingFine.fio.hint" = "Қажет болса, қазақ алфавитінің әріптерін қолдана отырып, құжаттағыдай деректерді теріңіз";
 "common.today" = "Бүгін";
 "common.yesterday" = "Кеше";
@@ -637,3 +637,4 @@
 "transfers.main.newTransferHint" = "Создайте ваш первый\nбыстрый перевод";
 "products.deleteActionTitle" = "Удаление";
 "products.deletingConfirmMessage" = "Вы действительно хотите удалить карту из списка?";
+"transfers.main.fastTransfer" = "Быстрый перевод";
