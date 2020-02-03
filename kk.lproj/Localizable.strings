@@ -632,9 +632,9 @@
 "alfaBlack.statement.monthlyPaymentStatus.paid" = "Төленген";
 "common.error.noInternet" = "Отсутствует подключение к сети, проверьте сетевое соединение";
 "payments.barcodeScan.systemError" = "Штрих-кодты сканерлеу үшін бағдарлама параметрлерінде камераға кіру рұқсатын беру керек.";
-"common.myTransfers" = "Мои переводы";
-"common.fastTransfers" = "Быстрые переводы";
-"transfers.main.newTransferHint" = "Создайте ваш первый\nбыстрый перевод";
-"products.deleteActionTitle" = "Удаление";
+"common.myTransfers" = "Менің аударуларым";
+"common.fastTransfers" = "Жылдам аударулар";
+"transfers.main.newTransferHint" = "Бірінші жылдам\nаударуды жасаңыз";
+"products.deleteActionTitle" = "Жою";
 "products.deletingConfirmMessage" = "Вы действительно хотите удалить карту из списка?";
-"transfers.main.fastTransfer" = "Быстрый перевод";
+"transfers.main.fastTransfer" = "Жылдам аудару";
