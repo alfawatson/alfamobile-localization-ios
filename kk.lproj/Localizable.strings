@@ -433,7 +433,7 @@
 "common.search" = "Іздеу";
 "transfers.byAccountNumber.knpCode" = "Төлемді тағайындау коды (ТТК)";
 "common.transactionHint" = "18:15-тен кейін немесе демалыс, мереке күндері аударымдар келесі жұмыс күні орындалады";
-"payments.bill.addToFast" = "Жылдамдыққа \n қосыңыз";
+"payments.bill.addToFast" = "Жылдамдарға \n қосыңыз";
 "common.legalIdentifier" = "ЖСН / БСН";
 "common.name" = "Атауы";
 "transfers.byAccountNumber.toPhysical.title" = "Жеке тұлғаларға аудару ";
@@ -594,7 +594,7 @@
 "banking.credit.writeOfDate" = "Есептен шығарылады";
 "payments.bill.title" = "Түбіртек";
 "main.loans.nextPayment" = "Келесі төлем";
-"payments.bill.addedAsFast" = "Жылдамдыққа \n қосылды";
+"payments.bill.addedAsFast" = "Жылдамдарға \n қосылды";
 "settings.more.title" = "Тағы";
 "settings.more.allKaz" = "Бүкіл Қазақстан";
 "common.untilDate" = "%@ дейін";
@@ -633,8 +633,8 @@
 "common.error.noInternet" = "Отсутствует подключение к сети, проверьте сетевое соединение";
 "payments.barcodeScan.systemError" = "Штрих-кодты сканерлеу үшін бағдарлама параметрлерінде камераға кіру рұқсатын беру керек.";
 "common.myTransfers" = "Менің аударуларым";
-"common.fastTransfers" = "Жылдам аударулар";
-"transfers.main.newTransferHint" = "Бірінші жылдам\nаударуды жасаңыз";
+"common.fastTransfers" = "Жылдам аударымдар";
+"transfers.main.newTransferHint" = "Бірінші жылдам\nаударымды жасаңыз";
 "products.deleteActionTitle" = "Жою";
 "products.deletingConfirmMessage" = "Вы действительно хотите удалить карту из списка?";
-"transfers.main.fastTransfer" = "Жылдам аудару";
+"transfers.main.fastTransfer" = "Жылдам аударым";
