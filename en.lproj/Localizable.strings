@@ -653,3 +653,6 @@ If this number is not available, contact the bank branch.";
 "transfers.byAccountNumber.legalEntityNotFound" = "Не найдено имя юр. лица";
 "transfers.byAccountNumber.individualNameNotFound" = "Не найдено имя физ. лица";
 "transfers.byAccountNumber.bankNotFound" = "Не найден банк по счету";
+"alfaBlack.monthlyPayment.detailedPaymentCalculation" = "Подробный расчет платежa";
+"common.noInterest" = "No interest";
+"alfaBlack.monthlyPayment.otherOperationsDesc" = "Withdrawals, transfers, payments";
