@@ -659,3 +659,4 @@
 "alfaBlack.monthlyPayment.detailedPaymentCalculation" = "Подробный расчет платежa";
 "common.noInterest" = "Без процентов";
 "alfaBlack.monthlyPayment.otherOperationsDesc" = "Снятия, переводы, платежи";
+"payments.common.chooseMonth" = "Выберите месяц";

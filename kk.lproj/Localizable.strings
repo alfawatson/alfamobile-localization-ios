@@ -656,3 +656,4 @@
 "alfaBlack.monthlyPayment.detailedPaymentCalculation" = "Подробный расчет платежa";
 "common.noInterest" = "Пайызсыз";
 "alfaBlack.monthlyPayment.otherOperationsDesc" = "Қаражаттарды алу, аударымдар, төлемдер";
+"payments.common.chooseMonth" = "Айды таңдаңыз";

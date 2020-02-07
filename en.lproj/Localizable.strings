@@ -656,3 +656,4 @@ If this number is not available, contact the bank branch.";
 "alfaBlack.monthlyPayment.detailedPaymentCalculation" = "Подробный расчет платежa";
 "common.noInterest" = "No interest";
 "alfaBlack.monthlyPayment.otherOperationsDesc" = "Withdrawals, transfers, payments";
+"payments.common.chooseMonth" = "Choose month";
