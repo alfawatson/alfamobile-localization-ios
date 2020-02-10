@@ -660,3 +660,13 @@
 "common.noInterest" = "Без процентов";
 "alfaBlack.monthlyPayment.otherOperationsDesc" = "Снятия, переводы, платежи";
 "payments.common.chooseMonth" = "Выберите месяц";
+"banking.certificate.locale.title" = " Справка о наличии/отсутствии задолженности";
+"common.onRussian" = "На русском";
+"common.onKazakh" = "Қазақша";
+"common.onEnglish" = "English";
+"auth.registration.noUserAlertMessage" = "Мы не можем найти пользователя с таким номером.\nНапишите, пожалуйста, в нашу службу поддержки, и специалисты помогут вам очень быстро решить проблему со входом.";
+"auth.biometry.migration.title" = "Добро пожаловать!";
+"auth.biometry.migration.subtitle" = "Мы обновили мобильное\nприложение Альфа Банк Казахстана";
+"auth.biometry.migration.action" = "Коснитесь сканера отпечатка пальцев";
+"auth.biomerty.migration.btnTitle" = "Войти по номеру телефона";
+"auth.biomerty.migration.setPin" = "Для входа в приложение вам нужно\nустановить новый код-пароль";
