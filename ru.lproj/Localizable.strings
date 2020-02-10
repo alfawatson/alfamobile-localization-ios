@@ -670,3 +670,4 @@
 "auth.biometry.migration.action" = "Коснитесь сканера отпечатка пальцев";
 "auth.biomerty.migration.btnTitle" = "Войти по номеру телефона";
 "auth.biomerty.migration.setPin" = "Для входа в приложение вам нужно\nустановить новый код-пароль";
+"alfaBlack.monthlyPayment.paymentMP" = "Оплата ежемесячного платежа";
